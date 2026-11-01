@@ -132,17 +132,17 @@ def lint(asof,baseline_log=None):
         return out
     for p in managed:
         if not p.exists():err('missing managed file '+str(p.relative_to(ROOT)));continue
-        for target in re.findall(r'\[[^\]]*\]\(([^\s)]+)\)',p.read_text()):
+        for target in re.findall(r'\[[^\]]*\]\(([^\s)]+)\)',p.read_text(encoding='utf-8')):
             if re.match(r'^[a-zA-Z][a-zA-Z0-9+.-]*:',target):continue
             path,_,anchor=unquote(target).partition('#');dest=(p.parent/path).resolve() if path else p.resolve()
             if not dest.is_relative_to(ROOT.resolve()):err(str(p.relative_to(ROOT))+': escaping link '+target);continue
             if not dest.exists():err(str(p.relative_to(ROOT))+': broken link '+target);continue
-            if anchor and dest.suffix=='.md' and anchor not in anchors(dest.read_text()):err(str(p.relative_to(ROOT))+': broken anchor '+target)
+            if anchor and dest.suffix=='.md' and anchor not in anchors(dest.read_text(encoding='utf-8')):err(str(p.relative_to(ROOT))+': broken anchor '+target)
             if p.is_relative_to(ROOT/'wiki') and dest!=p.resolve():inbound[str(dest)]+=1
     for p,m,_ in ps:
         if not inbound[str(p.resolve())]:err('orphan page (index excluded): '+m['id'])
     try:
-        if (ROOT/'index.md').read_text()!=make_index():err('index is stale; run index command')
+        if (ROOT/'index.md').read_text(encoding='utf-8')!=make_index():err('index is stale; run index command')
     except Exception as e:err('index invalid: '+str(e))
     claims=load('schema/claims.json')['claims'];approved=load('schema/approvals.json')['approvals'];cm={c['id']:c for c in claims}
     if len(cm)!=len(claims):err('duplicate claim IDs')
@@ -179,18 +179,19 @@ def lint(asof,baseline_log=None):
         if m.get('status')=='approved_current':
             pc=[c for c in claims if c['page_id']==m['id']]
             if not pc or any(c['status']!='approved_current' or c['id'] not in amap for c in pc):err('page lacks scoped approvals: '+m['id'])
-    log=(ROOT/'log.md').read_text() if (ROOT/'log.md').exists() else ''
+    log=(ROOT/'log.md').read_text(encoding='utf-8') if (ROOT/'log.md').exists() else ''
     headings=re.findall(r'^## .*$',log,re.M)
     if not headings:err('empty operation log')
     for h in headings:
         match=re.fullmatch(r'## \[(\d{4}-\d{2}-\d{2})\] (schema|ingest|query|lint|correction) \| .+',h)
         if not match:err('invalid log heading: '+h)
         elif dt.date.fromisoformat(match.group(1))>date:err('future log entry: '+h)
-    if baseline_log and not log.startswith(Path(baseline_log).read_text()):err('log is not append-only versus baseline')
+    if baseline_log and not log.startswith(Path(baseline_log).read_text(encoding='utf-8')):err('log is not append-only versus baseline')
     warnings.append('Semantic evidence, contradictions and publication approval require Agent/human review; structural success is not factual verification.')
     return {'schema_version':'1.0.0','as_of':asof,'wiki_pages':len(ps),'registered_sources':len(rs),'ingest_states':dict(Counter(x['ingest_status'] for x in rs)),'errors':errors,'warnings':warnings,'result':'fail' if errors else 'pass_with_warnings' if warnings else 'pass'}
 
 def main():
+    sys.stdout.reconfigure(encoding='utf-8')
     ap=argparse.ArgumentParser(description=__doc__);sub=ap.add_subparsers(dest='command',required=True)
     sub.add_parser('status');sub.add_parser('index')
     p=sub.add_parser('search');p.add_argument('query')
@@ -199,20 +200,20 @@ def main():
     p=sub.add_parser('log');p.add_argument('operation',choices=['schema','ingest','query','lint','correction']);p.add_argument('title');p.add_argument('--details',required=True);p.add_argument('--date',default=today())
     a=ap.parse_args()
     if a.command=='status':status()
-    elif a.command=='index':(ROOT/'index.md').write_text(make_index(),encoding='utf-8');print('index.md updated')
+    elif a.command=='index':(ROOT/'index.md').write_text(make_index(),encoding='utf-8',newline='\n');print('index.md updated')
     elif a.command=='search':search(a.query)
     elif a.command=='prepare-ingest':prepare(a.ids)
     elif a.command=='log':
         dt.date.fromisoformat(a.date)
         if '\n' in a.title:raise ValueError('title must be one line')
-        with (ROOT/'log.md').open('a',encoding='utf-8') as f:f.write(f'\n## [{a.date}] {a.operation} | {a.title}\n\n{a.details}\n')
+        with (ROOT/'log.md').open('a',encoding='utf-8',newline='\n') as f:f.write(f'\n## [{a.date}] {a.operation} | {a.title}\n\n{a.details}\n')
     elif a.command=='lint':
         result=lint(a.as_of,a.baseline_log);s=json.dumps(result,ensure_ascii=False,indent=2)+'\n';print(s)
         if a.report:
             p=(ROOT/a.report).resolve()
             if not p.is_relative_to((ROOT/'reports').resolve()):raise ValueError('report must be under reports/')
             p.parent.mkdir(parents=True,exist_ok=True)
-            with p.open('x',encoding='utf-8') as f:f.write(s)
+            with p.open('x',encoding='utf-8',newline='\n') as f:f.write(s)
         return int(bool(result['errors']))
     return 0
 if __name__=='__main__':sys.exit(main())

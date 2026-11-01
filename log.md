@@ -28,3 +28,9 @@
 ## [2026-11-01] correction | Lint 報告連結建立順序
 
 保存 lint-001 時，日誌與 Ingest 報告已引用尚未建立的報告檔，該次因此記錄 2 個連結錯誤。報告生成後重新檢查，結果為 0 errors、13 warnings。保留 lint-001 作過程紀錄，最終結果以 [lint-002](reports/2026-11-01-lint-002.json) 為準；前項「0 errors」指修正後結果，不能用 lint-001 作通過證據。
+
+## [2026-11-01] correction | Windows 環境：工具編碼與換行
+
+- 問題：Windows（cp932 預設編碼）下 wiki.py 讀寫中文失敗；core.autocrlf=true 且無 .gitattributes，checkout 時 raw JSON 被轉成 CRLF，lint 誤報 205 個 raw hash errors。已提交的 raw blob 與 raw_sha256 基準一致，raw 內容未被修改。
+- 修正：scripts/*.py 檔案讀寫明確指定 UTF-8 與 LF，CLI 輸出改 UTF-8；新增 .gitattributes（文字檔 eol=lf，raw/** -text 保持原始位元組），並重新 checkout 工作目錄。
+- 驗證：不需 PYTHONUTF8 即可執行 status／search／prepare-ingest／lint；結構檢查 0 errors、13 warnings（[lint-003](reports/2026-11-01-lint-003.json)）；8 項隔離測試通過。未變更 Wiki 內容、來源狀態或宣稱。

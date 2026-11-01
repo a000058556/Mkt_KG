@@ -18,5 +18,5 @@ for name,url in urls.items():
     (out/name).write_bytes(r.stdout)
     log.append(dict(url=url,retrieved_at=at,file=name,records=len(j['data']),sha256=hashlib.sha256(r.stdout).hexdigest()))
     time.sleep(1)
-(out/'fetch_log.json').write_text(json.dumps(log,ensure_ascii=False,indent=2)+'\n')
+(out/'fetch_log.json').write_text(json.dumps(log,ensure_ascii=False,indent=2)+'\n',encoding='utf-8',newline='\n')
 print('Saved',len(log),'API snapshots to',out)

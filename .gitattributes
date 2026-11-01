@@ -1,0 +1,3 @@
+# Keep LF in the working tree on every platform; raw snapshots stay byte-exact for SHA-256 baselines.
+* text=auto eol=lf
+raw/** -text
