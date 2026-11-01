@@ -1,0 +1,20 @@
+{
+  "source_type": "human_confirmation",
+  "source_id": "human-2026-11-01-006",
+  "confirmed_at": "2026-11-01",
+  "confirmed_by": "key.tsai@uguard.com.tw",
+  "channel": "Claude Code session with the knowledge-base maintainer",
+  "context": "Agent listed AgileShaper launch status and its relation to TrafficShaper as open product questions (news/46, 48 described it as Coming Soon).",
+  "statements_verbatim": [
+    "AgileShaper目前開發中，預計明年下半年發布"
+  ],
+  "interpretation": {
+    "明年下半年": "2027 H2, relative to the statement date 2026-11-01",
+    "預計": "planned target, not a committed release date"
+  },
+  "not_confirmed": [
+    "Relationship to TrafficShaper",
+    "Final feature list",
+    "Whether the planned timing may be published externally"
+  ]
+}

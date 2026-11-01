@@ -32,4 +32,4 @@ related: ["issue-facebook-cta", "issue-time-sensitive-claims", "concept-traffic-
 
 ## 待確認
 
-2026 COMPUTEX 預告的 [AgileShaper](agileshaper.md) 與 TrafficShaper 的關係未說明。「確保營運不中斷」等旁路說法沒有測試條件；產品名在原文有 Traffic Shaper／TrafficShaper 兩種寫法。
+2026 COMPUTEX 預告的 [AgileShaper](agileshaper.md) 經確認仍在開發中、預計 2027 年下半年發布，但與 TrafficShaper 的關係未說明。「確保營運不中斷」等旁路說法沒有測試條件；產品名在原文有 Traffic Shaper／TrafficShaper 兩種寫法。

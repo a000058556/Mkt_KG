@@ -48,6 +48,14 @@
       "review_due": "2027-05-01",
       "scope": "可寫「威脅情資涵蓋 224 個國家」；不涵蓋其他數字或誤報率。",
       "evidence_path": "raw/human/2026-11-01/human-2026-11-01-005/r1.json"
+    },
+    {
+      "claim_id": "claim-agileshaper-status",
+      "approved_by": "key.tsai@uguard.com.tw",
+      "approved_at": "2026-11-01",
+      "review_due": "2027-05-01",
+      "scope": "AgileShaper 尚未上市、開發中，預計 2027 下半年發布；不得寫成已上市或確定日期，不涵蓋功能清單與 TrafficShaper 關係。",
+      "evidence_path": "raw/human/2026-11-01/human-2026-11-01-006/r1.json"
     }
   ]
 }

@@ -89,3 +89,9 @@
 
 - 前一筆記錄「頁面改 approved_current」不正確：Lint 要求 approved_current 頁面的所有 claims 都已核准，而 issue-threat-intel-figures 仍掛有 superseded 與 historical_only 的歷史 claims。
 - 實際處理：頁面狀態為 source_reported；各項核准由 claim-threat-intel-cadence、claim-threat-intel-volume-current、claim-defensetrust-block-rate、claim-threat-intel-coverage 個別承載。
+
+## [2026-11-01] correction | approval-006：AgileShaper 開發狀態
+
+- 來源：human-2026-11-01-006，使用者原話「AgileShaper目前開發中，預計明年下半年發布」，存為新 raw 並加入雜湊基準；「明年下半年」依說話日期解讀為 2027 年下半年。
+- 核准：claim-agileshaper-status（approved_current，複審 2027-05-01）；原 Coming Soon claim 維持 historical_only 並指向新紀錄。
+- 範圍：不可寫成已上市或確定日期；與 TrafficShaper 關係、最終功能、時程可否對外公開未確認。

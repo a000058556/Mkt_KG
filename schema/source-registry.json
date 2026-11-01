@@ -2880,6 +2880,31 @@
       "ingested_record_sha256": {
         "zh-TW": "57d399409d1cdb759e8b3fb12a7eaf23529ed18b45d49b2f3455508cb8708fea"
       }
+    },
+    {
+      "id": "human-2026-11-01-006",
+      "kind": "human",
+      "title": "使用者確認：AgileShaper 開發中，預計 2027 下半年發布",
+      "url": null,
+      "published_at": "2026-11-01",
+      "source_updated_at": null,
+      "completeness": "full_verbatim_statement",
+      "provenance": "user_confirmation_in_session",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/human/2026-11-01/human-2026-11-01-006/r1.json",
+          "pointer": "",
+          "file_sha256": "ca05312212d2a42ac2f7bb232cb878efe1e7a76b60bb17a020469f8312c62c35",
+          "record_sha256": "ca250f072dd1fdf3000cf08b0643a616e01d95091079bef97b7c50239fa69900"
+        }
+      },
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/human-2026-11-01-006.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "approval-006",
+      "ingested_record_sha256": {
+        "zh-TW": "ca250f072dd1fdf3000cf08b0643a616e01d95091079bef97b7c50239fa69900"
+      }
     }
   ]
 }

@@ -426,7 +426,7 @@
     },
     {
       "id": "claim-agileshaper-coming-soon",
-      "statement": "AgileShaper 以 Coming Soon 預告，稱整合 Application Visibility、Traffic Shaping、SSL Proxy、NAC；上市狀態未知。",
+      "statement": "AgileShaper 以 Coming Soon 預告，稱整合 Application Visibility、Traffic Shaping、SSL Proxy、NAC；上市狀態未知。 2026-11-01 使用者確認仍在開發中，見 claim-agileshaper-status。",
       "status": "historical_only",
       "sources": [
         "official-news-046",
@@ -616,6 +616,20 @@
       ],
       "locator": "raw/human human-2026-11-01-005 r1.json；news/46、54、55 DefenseCloud 說明段",
       "page_id": "issue-threat-intel-figures",
+      "as_of": "2026-11-01",
+      "valid_until": null
+    },
+    {
+      "id": "claim-agileshaper-status",
+      "statement": "AgileShaper 目前開發中，預計 2027 年下半年發布（使用者 2026-11-01 確認；「預計」為規劃時程，非承諾日期）。",
+      "status": "approved_current",
+      "sources": [
+        "human-2026-11-01-006",
+        "official-news-046",
+        "official-news-048"
+      ],
+      "locator": "raw/human human-2026-11-01-006 r1.json statements_verbatim[0]",
+      "page_id": "entity-agileshaper",
       "as_of": "2026-11-01",
       "valid_until": null
     }

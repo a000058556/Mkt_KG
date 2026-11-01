@@ -2,7 +2,7 @@
 
 先從產品、議題或寫作頁閱讀；需要查證時沿來源頁追溯 raw。頁面是來源化知識，不代表現行宣稱已核准。
 
-來源登錄 81 筆：全文已 Ingest 61、線索已登記 20、待處理 0。
+來源登錄 82 筆：全文已 Ingest 62、線索已登記 20、待處理 0。
 
 目前進度：[pilot 執行紀錄](schema/ingest-runs.json)；[首次整合發現](wiki/syntheses/pilot-findings.md)。
 
@@ -12,7 +12,7 @@
 
 - [AAEON 研揚科技](wiki/entities/aaeon.md) — UGUARD 的硬體策略夥伴；記錄 2024 合作與 COMPUTEX 2025 共同展出的來源說法。（historical_only）
 - [AgileLink](wiki/entities/agilelink.md) — 整合多 WAN、策略路由與 DNS 安全定位的歷史產品敘述，與修補狀態分層保存。（source_reported）
-- [AgileShaper](wiki/entities/agileshaper.md) — 2026 COMPUTEX 以 Coming Soon 介紹的新產品；與 TrafficShaper 的關係和上市狀態未知。（needs_review）
+- [AgileShaper](wiki/entities/agileshaper.md) — 開發中，預計 2027 年下半年發布（使用者確認）；與 TrafficShaper 的關係未知。（needs_review）
 - [Axiomtek 艾訊](wiki/entities/axiomtek.md) — 工業電腦硬體夥伴；記錄 2025 合作公告、COMPUTEX 2026 共同展出與相容性說法。（source_reported）
 - [DefenseCloud 與 AgileCloud](wiki/entities/cloud-platforms.md) — DefenseCloud 情資雲與訂閱方案、AgileCloud 雲端監控的來源說法；數字口徑待確認。（source_reported）
 - [DefenseTrust](wiki/entities/defensetrust.md) — 整合情資比對、策略阻擋、部署與報表的來源說法，數字與絕對化用語另列待確認。（source_reported）
@@ -83,6 +83,7 @@
 - [使用者確認：最新情資保持在百萬筆等級](wiki/sources/human-2026-11-01-003.md) — 2026-11-01 使用者確認最新情資數量保持在百萬筆等級；千萬、億級說法不作現行依據。（source_reported）
 - [使用者確認：攔截超過 80% 為正確描述](wiki/sources/human-2026-11-01-004.md) — 2026-11-01 使用者確認 DefenseTrust「攔截超過 80%」是正確描述；誤報率未確認。（source_reported）
 - [使用者確認：224 國正確、零誤判不可用](wiki/sources/human-2026-11-01-005.md) — 2026-11-01 使用者確認情資涵蓋 224 個國家，並判定「零誤判／誤報率近乎零」不可用。（source_reported）
+- [使用者確認：AgileShaper 開發狀態](wiki/sources/human-2026-11-01-006.md) — 2026-11-01 使用者確認 AgileShaper 仍在開發中，預計 2027 年下半年發布。（source_reported）
 - [AgileLink 作為 FortiWAN 替代方案的短文](wiki/sources/official-news-001.md) — 以 FortiWAN 為標題切入，介紹 AgileLink NGWM 的多線路整合與故障移轉說法；無規格或測試條件。（source_reported）
 - [2024 資安大會 C119 攤位公告（僅圖片）](wiki/sources/official-news-002.md) — 三語正文皆只有一張圖片，只能從標題得知參展與攤位號碼。（reference_only）
 - [UGUARD NETWORKS 成立新加坡總公司（僅標題）](wiki/sources/official-news-003.md) — 三語皆無正文文字，只有標題與封面圖路徑，不能據此確認成立日期或細節。（reference_only）
