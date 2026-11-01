@@ -17,7 +17,7 @@ related: ["entity-uguard", "entity-metaage", "event-metaage-partnership", "issue
 
 ## 來源與時間
 
-[官網原頁](https://www.uguardnetworks.com/news/45)；[繁中 API](../../raw/official/api/news-zh-TW.json) `/data/15`，`id=45`。發布日 2026-04-21，更新日 2026-09-15；內文新聞稿日期為 2026-03-26。三者分別保留，不推斷合約實際簽署日期。
+[官網原頁](https://www.uguardnetworks.com/news/45)；[繁中 API](../../raw/official/api/news-zh-TW.json) `/data/15`，`id=45`。發布日 2026-04-21，更新日 2026-09-15；內文新聞稿日期為 2026-03-26。三者分別保留，不推斷合約實際簽署日期。API 的 `created_at` 為 2026-05-25T14:45:44Z，晚於 `date` 欄位；「發布日」只是 `date` 欄位值，不能證明網頁實際上線日。
 
 ## 內容摘要
 
@@ -28,7 +28,13 @@ related: ["entity-uguard", "entity-metaage", "event-metaage-partnership", "issue
 - WAN 架構強化與主動防禦強化的原訂截止日為 2026-10-31；以本次 2026-11-01 評估已過期，沒有已延長的證據。
 - 汰舊換新載明至 2027-12-25。尚未到原訂截止日，不等於條件仍有效，須業務確認。
 - 中文的主動防禦強化段落多出一段 AgileLink 優惠；英日對應段只描述 DefenseTrust。原文保留，詳見 [語言差異](../issues/promotion-language.md)。
+- 中文「企業資安升級專案啟動」段有 DefenseTrust（全球即時黑名單、零時差）與 AgileLink（GTC DNS、DNSSEC、低軌衛星、X-View 集中報表與 AI 情資分析報告）的產品說明，英日版均無；同見 [語言差異](../issues/promotion-language.md)。
 - 「零時差」及「不中斷」保留為歷史宣傳措辭，不提升為核准的量化承諾。
+
+## 原文瑕疵（保留於 raw）
+
+- 繁中版邁達特網址的連結文字為 `www.metaage.com`，實際連結為 `https://www.metaage.com.tw`。
+- 英文版小標題截斷為「Proactive Defense Upgrade Projec」「2026 Enterprise Network Enhancement Progra」「Trade-In & Upgrade Progra」。撰稿引用時不沿用這些錯誤。
 
 ## 整合去向
 

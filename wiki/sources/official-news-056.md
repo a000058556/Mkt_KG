@@ -21,7 +21,7 @@ related: ["entity-agilelink", "concept-wan-resilience", "writing-product-article
 
 ## 內容摘要
 
-文章從 ERP、雲端、VPN 與跨據點營運依賴網路切入，指出增加第二條線還需要備援接手與流量政策。產品說明涵蓋多種 WAN 來源、替代路徑與 PBR，並舉政府、總部分點、遠距據點、舊設備替換等應用。依據：原文「不止是切換」與文末功能條列；整理為 [AgileLink](../entities/agilelink.md) 和 [WAN 韌性](../concepts/wan-resilience.md)。
+文章從 ERP、雲端、VPN 與跨據點營運依賴網路切入，指出增加第二條線還需要備援接手與流量政策。原文把 AgileLink 定位為「WAN Load Balance 與 DNS Security的產品」（英日版同），產品說明涵蓋多種 WAN 來源、替代路徑與 PBR，並舉政府、總部分點、遠距據點、舊設備替換等應用。依據：原文「不止是切換」與文末功能條列；整理為 [AgileLink](../entities/agilelink.md) 和 [WAN 韌性](../concepts/wan-resilience.md)。
 
 ## 可提煉的行銷角度
 
@@ -29,7 +29,8 @@ related: ["entity-agilelink", "concept-wan-resilience", "writing-product-article
 
 ## 邊界與版本
 
-- 原文提及專線、寬頻、4G/5G、STARLINK 及 PBR；這是 2026-08 的來源說法，未取得型號／版本／測試條件的現行核准。
+- 原文提及專線、頻寬、4G/5G、STARLINK 及 PBR；這是 2026-08 的來源說法，未取得型號／版本／測試條件的現行核准。
 - 沒有切換秒數、封包損失或會話保持測試；不可由「不中斷」推導成任何環境零中斷的保證。
+- 繁中原文三處寫「頻寬」，英日版對應 broadband／ブロードバンド；依上下文應指寬頻線路。原文保留，撰稿時採「寬頻」並視為用字修正，不改 raw。
 - 英日版的主要連線種類與 PBR 敘述一致；只完成重點核對，並非逐句翻譯驗收。
 - 圖片未下載／OCR，不補寫圖內資訊。

@@ -3,7 +3,7 @@
   "claims": [
     {
       "id": "claim-agilelink-multiwan",
-      "statement": "官網 news/56 描述 AgileLink 多 WAN、PBR 及專線／寬頻／4G/5G／STARLINK 整合；現行型號與版本未核准。",
+      "statement": "官網 news/56 描述 AgileLink 多 WAN、PBR 及專線／寬頻（繁中原文作「頻寬」）／4G/5G／STARLINK 整合；現行型號與版本未核准。",
       "status": "source_reported",
       "sources": [
         "official-news-056"
@@ -120,6 +120,31 @@
       ],
       "locator": "文章開頭、功能條列與 CTA",
       "page_id": "writing-brand-observations",
+      "as_of": "2026-11-01",
+      "valid_until": null
+    },
+    {
+      "id": "claim-agilelink-dns-security",
+      "statement": "news/56 三語稱 AgileLink 為 WAN Load Balance 與 DNS Security 產品；news/45 繁中版另述 GTC DNS、DNSSEC、低軌衛星整合及 X-View 集中報表與 AI 情資分析報告。機制、版本與適用條件未核准。",
+      "status": "source_reported",
+      "sources": [
+        "official-news-056",
+        "official-news-045"
+      ],
+      "locator": "news/56 content：「多線路備援、不中斷服務、資安強化」段；news/45 zh-TW content：「企業資安升級專案啟動」段",
+      "page_id": "entity-agilelink",
+      "as_of": "2026-08-24",
+      "valid_until": null
+    },
+    {
+      "id": "claim-news45-zh-only-product-paragraph",
+      "statement": "news/45 繁中版的 DefenseTrust／AgileLink 產品說明段在英日版不存在；何者為正確版本待業務／行銷確認。",
+      "status": "needs_review",
+      "sources": [
+        "official-news-045"
+      ],
+      "locator": "zh-TW/en/jp /data/15/content：「企業資安升級專案啟動」段",
+      "page_id": "issue-promotion-language",
       "as_of": "2026-11-01",
       "valid_until": null
     }

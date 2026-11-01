@@ -10,7 +10,7 @@
 
 ## 公司、夥伴與產品
 
-- [AgileLink](wiki/entities/agilelink.md) — 整合多 WAN 與策略路由的歷史產品敘述，與修補狀態分層保存。（source_reported）
+- [AgileLink](wiki/entities/agilelink.md) — 整合多 WAN、策略路由與 DNS 安全定位的歷史產品敘述，與修補狀態分層保存。（source_reported）
 - [DefenseCloud 與 AgileCloud](wiki/entities/cloud-platforms.md) — 先保存合作公告中的兩項雲端平台定位，等待更多產品來源。（source_reported）
 - [DefenseTrust](wiki/entities/defensetrust.md) — 區分情資比對、策略阻擋與觀察紀錄，避免擴大為全威脅保證。（source_reported）
 - [MetaAge 邁達特](wiki/entities/metaage.md) — 保留 2026 合作公告中的代理與在地服務角色。（source_reported）
@@ -47,6 +47,6 @@
 ## 待確認與缺口
 
 - [待確認：DefenseTrust CTA 指向 TrafficShaper](wiki/issues/facebook-cta.md) — 保留來源錯配，撰稿前確認應使用的產品連結。（needs_review）
-- [待確認：主動防禦優惠的語言差異](wiki/issues/promotion-language.md) — 中文段落含 AgileLink 條件，英日對應段落只述 DefenseTrust。（needs_review）
+- [待確認：news/45 中英日內容差異](wiki/issues/promotion-language.md) — 中文版多出產品說明段及主動防禦段的 AgileLink 條件，英日版皆無。（needs_review）
 - [來源覆蓋與缺口](wiki/issues/source-gaps.md) — 本次僅五個來源試行；其餘等待確認後 Ingest。（needs_review）
 - [待確認：活動、修補進度與絕對化宣稱](wiki/issues/time-sensitive-claims.md) — 區分過期、歷史狀態及缺乏測試條件的宣傳措辭。（needs_review）

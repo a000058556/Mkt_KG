@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "as_of": "2026-11-01",
+  "wiki_pages": 22,
+  "registered_sources": 76,
+  "ingest_states": {
+    "ingested": 4,
+    "pending": 71,
+    "reference_only": 1
+  },
+  "errors": [],
+  "warnings": [
+    "open issue/review: issue-facebook-cta",
+    "open issue/review: issue-promotion-language",
+    "open issue/review: issue-source-gaps",
+    "open issue/review: issue-time-sensitive-claims",
+    "incomplete evidence: external-cio-109792",
+    "restricted claim: claim-metaage-announcement [historical_only]",
+    "restricted claim: claim-wan-promotion [expired]",
+    "restricted claim: claim-defense-promotion [expired]",
+    "restricted claim: claim-tradein-promotion [needs_review]",
+    "restricted claim: claim-remediation-snapshot [historical_only]",
+    "restricted claim: claim-absolute-guarantees [needs_review]",
+    "restricted claim: claim-fb-cta [needs_review]",
+    "restricted claim: claim-news45-zh-only-product-paragraph [needs_review]",
+    "Semantic evidence, contradictions and publication approval require Agent/human review; structural success is not factual verification."
+  ],
+  "result": "pass_with_warnings"
+}
+

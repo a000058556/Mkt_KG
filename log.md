@@ -34,3 +34,10 @@
 - 問題：Windows（cp932 預設編碼）下 wiki.py 讀寫中文失敗；core.autocrlf=true 且無 .gitattributes，checkout 時 raw JSON 被轉成 CRLF，lint 誤報 205 個 raw hash errors。已提交的 raw blob 與 raw_sha256 基準一致，raw 內容未被修改。
 - 修正：scripts/*.py 檔案讀寫明確指定 UTF-8 與 LF，CLI 輸出改 UTF-8；新增 .gitattributes（文字檔 eol=lf，raw/** -text 保持原始位元組），並重新 checkout 工作目錄。
 - 驗證：不需 PYTHONUTF8 即可執行 status／search／prepare-ingest／lint；結構檢查 0 errors、13 warnings（[lint-003](reports/2026-11-01-lint-003.json)）；8 項隔離測試通過。未變更 Wiki 內容、來源狀態或宣稱。
+
+## [2026-11-01] correction | pilot-001 語意複查與修正
+
+- 範圍：pilot-001 五個來源、22 頁逐頁對照 raw 三語原文；主要事實、日期、修補表、CTA 與證據分級均相符。
+- 修正：news/45 繁中獨有的產品說明段（DefenseTrust 全球黑名單；AgileLink GTC DNS、DNSSEC、低軌衛星、X-View）補入語言差異 issue 與產品頁；news/56 DNS Security 定位補入 AgileLink；記錄「頻寬」原文用字、news/45 created_at、連結與英文標題瑕疵。
+- claims：更新 claim-agilelink-multiwan；新增 claim-agilelink-dns-security（source_reported）、claim-news45-zh-only-product-paragraph（needs_review）。
+- 結果：0 errors、14 warnings（[lint-004](reports/2026-11-01-lint-004.json)）；詳見 [語意複查報告](reports/2026-11-01-semantic-review-001.md)。pilot 仍為 pilot_ready_for_review，未核准任何現行宣稱。
