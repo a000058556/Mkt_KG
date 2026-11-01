@@ -42,7 +42,9 @@
       "statement": "原訂 WAN 架構強化優惠已過 2026-10-31 截止日，尚無延長依據。",
       "status": "expired",
       "sources": [
-        "official-news-045"
+        "official-news-045",
+        "official-news-042",
+        "official-news-044"
       ],
       "locator": "content：WAN 架構強化專案",
       "page_id": "event-metaage-partnership",
@@ -54,7 +56,9 @@
       "statement": "原訂主動防禦優惠已過 2026-10-31 截止日；三語條款差異依決策 Q8 以繁中為準。",
       "status": "expired",
       "sources": [
-        "official-news-045"
+        "official-news-045",
+        "official-news-042",
+        "official-news-044"
       ],
       "locator": "content：主動防禦強化專案／英日對應段",
       "page_id": "event-metaage-partnership",
@@ -66,7 +70,9 @@
       "statement": "汰舊換新原訂至 2027-12-25；截至日未到不代表目前條件已核准。",
       "status": "needs_review",
       "sources": [
-        "official-news-045"
+        "official-news-045",
+        "official-news-043",
+        "official-news-044"
       ],
       "locator": "content：UGUARD 汰舊換新升級禮遇",
       "page_id": "event-metaage-partnership",
@@ -78,7 +84,8 @@
       "statement": "news/60 的 2026-10-30 表列 AgileLink 已發修補版、DefenseTrust 發版驗證中、TrafficShaper 修復中；目前狀態未知。",
       "status": "historical_only",
       "sources": [
-        "official-news-060"
+        "official-news-060",
+        "official-news-059"
       ],
       "locator": "content：受影響產品與最新修補進度表",
       "page_id": "official-news-060",
@@ -87,11 +94,27 @@
     },
     {
       "id": "claim-absolute-guarantees",
-      "statement": "原文不中斷／零時差宣傳措辭，不能推導未提供測試條件的 SLA 或全威脅保證。",
+      "statement": "官網與社群多篇使用「不中斷」「零時差」「全面守護」等措辭；來源未提供測試條件，不能推導 SLA、全威脅保證或任何環境零中斷。",
       "status": "needs_review",
       "sources": [
         "official-news-045",
-        "official-news-056"
+        "official-news-056",
+        "official-news-001",
+        "official-news-005",
+        "official-news-015",
+        "official-news-019",
+        "official-news-021",
+        "official-news-024",
+        "official-news-029",
+        "official-news-033",
+        "official-news-035",
+        "official-news-039",
+        "official-news-040",
+        "official-news-041",
+        "official-news-042",
+        "official-news-048",
+        "official-news-050",
+        "external-b8eefd2576c2"
       ],
       "locator": "content：產品效益與企業升級專案",
       "page_id": "issue-time-sensitive-claims",
@@ -146,6 +169,393 @@
       "locator": "zh-TW/en/jp /data/15/content：「企業資安升級專案啟動」段",
       "page_id": "issue-promotion-language",
       "as_of": "2026-11-01",
+      "valid_until": null
+    },
+    {
+      "id": "claim-threat-intel-update-frequency",
+      "statement": "DefenseTrust／DefenseCloud 情資更新頻率在各篇寫成每小時、每日、每分／日或每 3 分鐘，互不一致；現行頻率與適用方案待產品確認。",
+      "status": "needs_review",
+      "sources": [
+        "official-news-006",
+        "official-news-013",
+        "official-news-024",
+        "official-news-034",
+        "official-news-041",
+        "official-news-046",
+        "official-news-047",
+        "official-news-048",
+        "official-news-054",
+        "official-news-055"
+      ],
+      "locator": "各篇產品說明與 COMPUTEX 2026 展出段",
+      "page_id": "issue-threat-intel-figures",
+      "as_of": "2026-11-01",
+      "valid_until": null
+    },
+    {
+      "id": "claim-threat-intel-volume",
+      "statement": "情資筆數（上千萬、破億 IP、約 600 萬／100 萬、約百萬、120 萬）與 224 國覆蓋說法口徑不一；不得任選一個當現況。",
+      "status": "needs_review",
+      "sources": [
+        "official-news-006",
+        "official-news-012",
+        "official-news-020",
+        "official-news-024",
+        "official-news-034",
+        "official-news-046",
+        "official-news-054",
+        "official-news-055"
+      ],
+      "locator": "各篇情資規模段",
+      "page_id": "issue-threat-intel-figures",
+      "as_of": "2026-11-01",
+      "valid_until": null
+    },
+    {
+      "id": "claim-defensetrust-block-rate",
+      "statement": "DefenseTrust「有效攔截超過 80% 已知惡意網站」；未提供測試基準與時間。",
+      "status": "source_reported",
+      "sources": [
+        "official-news-018",
+        "official-news-020",
+        "official-news-041",
+        "official-news-054"
+      ],
+      "locator": "產品特色段",
+      "page_id": "entity-defensetrust",
+      "as_of": "2026-06-30",
+      "valid_until": null
+    },
+    {
+      "id": "claim-defensetrust-zero-false-positive",
+      "statement": "「零誤判」「誤報率近乎零」「業界最快」屬絕對化或比較性用語，無測試依據。",
+      "status": "needs_review",
+      "sources": [
+        "official-news-013",
+        "official-news-018",
+        "official-news-041",
+        "official-news-054"
+      ],
+      "locator": "產品說明段",
+      "page_id": "issue-threat-intel-figures",
+      "as_of": "2026-06-30",
+      "valid_until": null
+    },
+    {
+      "id": "claim-defensetrust-ssl",
+      "statement": "DefenseTrust 稱可判斷與阻擋加密 SSL 連線；機制與限制未說明。",
+      "status": "source_reported",
+      "sources": [
+        "official-news-012",
+        "official-news-041"
+      ],
+      "locator": "產品說明與特色條列",
+      "page_id": "entity-defensetrust",
+      "as_of": "2026-02-26",
+      "valid_until": null
+    },
+    {
+      "id": "claim-defensetrust-features",
+      "statement": "DefenseTrust 功能條列：19 種惡意檢測引擎、IP 洗白名單、Geo-IP、DNS 攔截、XFF、DGA、Inline／DPDK／Non-SQL、軟硬體旁路；現行版本未核准。",
+      "status": "source_reported",
+      "sources": [
+        "official-news-017",
+        "official-news-018",
+        "official-news-041",
+        "official-news-055"
+      ],
+      "locator": "核心特色與部署段",
+      "page_id": "entity-defensetrust",
+      "as_of": "2026-07-22",
+      "valid_until": null
+    },
+    {
+      "id": "claim-iso-27001-coverage",
+      "statement": "DefenseTrust「涵蓋」ISO/IEC 27001:2022 新增 11 項控制，媒體標題寫「符合」；無稽核依據，只能寫「協助」。",
+      "status": "needs_review",
+      "sources": [
+        "official-news-016",
+        "official-news-017",
+        "external-5a6da7c9528e"
+      ],
+      "locator": "news/17 條款清單；媒體標題",
+      "page_id": "concept-iso-27001",
+      "as_of": "2025-03-08",
+      "valid_until": null
+    },
+    {
+      "id": "claim-ngfw-surpass",
+      "statement": "標題稱 DefenseTrust「超越次世代防火牆與端點防護」，正文實為補強；第三方攻擊案例未查證。",
+      "status": "needs_review",
+      "sources": [
+        "official-news-020",
+        "external-8ba4960a7e70",
+        "external-a6b65c2e9d77"
+      ],
+      "locator": "news/20 標題與開頭",
+      "page_id": "concept-ngfw-complement",
+      "as_of": "2025-04-08",
+      "valid_until": null
+    },
+    {
+      "id": "claim-ngfw-offload",
+      "statement": "DefenseTrust 以情資前置阻擋，可減輕次世代防火牆工作負擔；無量化數據。",
+      "status": "source_reported",
+      "sources": [
+        "official-news-034"
+      ],
+      "locator": "產品定位段",
+      "page_id": "concept-ngfw-complement",
+      "as_of": "2025-11-30",
+      "valid_until": null
+    },
+    {
+      "id": "claim-openai-mention",
+      "statement": "「UGUARD 資安解決方案結合 OpenAI 的先進技術」僅出現一次，產品與合作形式未說明。",
+      "status": "needs_review",
+      "sources": [
+        "official-news-028"
+      ],
+      "locator": "content 結尾段",
+      "page_id": "issue-content-inconsistencies",
+      "as_of": "2025-05-18",
+      "valid_until": null
+    },
+    {
+      "id": "claim-executive-titles",
+      "statement": "Jason Yen 多篇為執行長、news/30 圖說為營運總監；James Chang 2025-06 為總經理；人員職稱需當次確認。",
+      "status": "needs_review",
+      "sources": [
+        "official-news-011",
+        "official-news-024",
+        "official-news-029",
+        "official-news-030",
+        "official-news-048"
+      ],
+      "locator": "引言與圖說",
+      "page_id": "issue-content-inconsistencies",
+      "as_of": "2026-05-12",
+      "valid_until": null
+    },
+    {
+      "id": "claim-company-establishment",
+      "statement": "新加坡公司／總部 2024-03 成立與 2025-09「滿一周年」基準不一；「2026 年成立台灣分公司」只見於公司簡介。",
+      "status": "needs_review",
+      "sources": [
+        "official-news-003",
+        "official-news-032",
+        "official-news-041",
+        "official-news-044"
+      ],
+      "locator": "標題與公司簡介",
+      "page_id": "event-singapore-hq",
+      "as_of": "2026-03-24",
+      "valid_until": null
+    },
+    {
+      "id": "claim-starlink-integration",
+      "statement": "來源稱 2025-08 完成 STARLINK 低軌衛星整合並納入 AgileLink；型號、版本與測試條件未提供。",
+      "status": "source_reported",
+      "sources": [
+        "official-news-032",
+        "official-news-039",
+        "official-news-046",
+        "official-news-048"
+      ],
+      "locator": "週年新聞稿與 AgileLink 條列",
+      "page_id": "entity-agilelink",
+      "as_of": "2025-09-03",
+      "valid_until": null
+    },
+    {
+      "id": "claim-agilelink-gtc-siem",
+      "statement": "AgileLink 支援 GTC DNS／DNSSEC、PBR、Flow Control、X-View 報表、CEF／Syslog 整合 SOC／SIEM；支援記錄類型各篇不一。",
+      "status": "source_reported",
+      "sources": [
+        "official-news-007",
+        "official-news-019",
+        "official-news-024",
+        "official-news-039"
+      ],
+      "locator": "功能條列",
+      "page_id": "entity-agilelink",
+      "as_of": "2026-01-23",
+      "valid_until": null
+    },
+    {
+      "id": "claim-warptunnel-spec",
+      "statement": "WarpTunnel™ 多路徑聚合、自動 Failover、AES 256 加密（圖說）；規格與測試條件未提供。",
+      "status": "needs_review",
+      "sources": [
+        "official-news-033",
+        "official-news-039"
+      ],
+      "locator": "解決方案條列與圖說",
+      "page_id": "entity-warptunnel",
+      "as_of": "2025-10-28",
+      "valid_until": null
+    },
+    {
+      "id": "claim-trafficshaper-l7",
+      "statement": "TrafficShaper Layer 7 應用辨識、頻寬政策、In-line／SPAN 部署與軟硬體旁路。",
+      "status": "source_reported",
+      "sources": [
+        "official-news-008",
+        "official-news-035",
+        "official-news-057"
+      ],
+      "locator": "產品說明與部署模式段",
+      "page_id": "entity-trafficshaper",
+      "as_of": "2026-09-22",
+      "valid_until": null
+    },
+    {
+      "id": "claim-defensecloud-plans",
+      "statement": "DefenseCloud 月訂閱 Pro 套餐（每小時更新）與 Enterprise_Custom（依需求無限制資料量）；價格與現行方案未確認。",
+      "status": "source_reported",
+      "sources": [
+        "official-news-046",
+        "official-news-054"
+      ],
+      "locator": "方案段",
+      "page_id": "entity-cloud-platforms",
+      "as_of": "2026-04-29",
+      "valid_until": null
+    },
+    {
+      "id": "claim-agileshaper-coming-soon",
+      "statement": "AgileShaper 以 Coming Soon 預告，稱整合 Application Visibility、Traffic Shaping、SSL Proxy、NAC；上市狀態未知。",
+      "status": "historical_only",
+      "sources": [
+        "official-news-046",
+        "official-news-048"
+      ],
+      "locator": "COMPUTEX 2026 展出段",
+      "page_id": "entity-agileshaper",
+      "as_of": "2026-05-12",
+      "valid_until": null
+    },
+    {
+      "id": "claim-health-check-campaign",
+      "statement": "台灣區老客戶免費企業健檢原訂即日起至 2026-12-31；尚未到期，但活動現況未經業務確認。",
+      "status": "needs_review",
+      "sources": [
+        "official-news-032",
+        "official-news-034",
+        "official-news-035",
+        "official-news-039",
+        "official-news-041"
+      ],
+      "locator": "文末活動段",
+      "page_id": "event-health-check-campaign",
+      "as_of": "2026-02-26",
+      "valid_until": "2026-12-31"
+    },
+    {
+      "id": "claim-computex-2025-giveaways",
+      "statement": "COMPUTEX 2025 禮券、問卷闖關與轉盤抽獎，活動期 2025-05-20～23。",
+      "status": "expired",
+      "sources": [
+        "official-news-023",
+        "official-news-024",
+        "official-news-025",
+        "official-news-027"
+      ],
+      "locator": "展場活動段",
+      "page_id": "event-computex-2025",
+      "as_of": "2025-05-07",
+      "valid_until": "2025-05-23"
+    },
+    {
+      "id": "claim-cybersec-expo-2024-giveaways",
+      "statement": "2024 資安大會攤位拉霸贈品，送完為止。",
+      "status": "expired",
+      "sources": [
+        "official-news-004"
+      ],
+      "locator": "活動段",
+      "page_id": "event-cybersec-expo-2024",
+      "as_of": "2024-05-10",
+      "valid_until": null
+    },
+    {
+      "id": "claim-partner-hardware-compatibility",
+      "statement": "UGUARD 稱已在多款艾訊網通平台完成相容性驗證，並與 AAEON 共同測試 FWS-7541／7840；機型與測試條件未列。",
+      "status": "source_reported",
+      "sources": [
+        "official-news-011",
+        "official-news-024",
+        "official-news-037",
+        "official-news-048"
+      ],
+      "locator": "合作公告與展出稿",
+      "page_id": "entity-axiomtek",
+      "as_of": "2026-05-12",
+      "valid_until": null
+    },
+    {
+      "id": "claim-aaeon-certification",
+      "statement": "UGUARD 授予 AAEON 設備認證標章僅見於英文版，繁中只在引言提到「這項認證」。",
+      "status": "needs_review",
+      "sources": [
+        "official-news-011"
+      ],
+      "locator": "en content 認證段；zh-TW AAEON 引言",
+      "page_id": "entity-aaeon",
+      "as_of": "2024-10-28",
+      "valid_until": null
+    },
+    {
+      "id": "claim-channel-partners",
+      "statement": "Innotel（越南，2024-08）、朔宇科技（2025-07）、邁達特（2026-03）的代理公告；代理是否持續未確認。",
+      "status": "historical_only",
+      "sources": [
+        "official-news-009",
+        "official-news-029",
+        "official-news-030",
+        "official-news-045"
+      ],
+      "locator": "合作公告",
+      "page_id": "entity-uguard",
+      "as_of": "2026-04-21",
+      "valid_until": null
+    },
+    {
+      "id": "claim-translation-errors",
+      "statement": "英日版存在反義（news/5）、數量級（news/12）與數字歸屬（news/20）等翻譯錯誤；以繁中為準，英日網頁待修正。",
+      "status": "needs_review",
+      "sources": [
+        "official-news-005",
+        "official-news-012",
+        "official-news-020"
+      ],
+      "locator": "zh-TW／en／jp content",
+      "page_id": "issue-translation-differences",
+      "as_of": "2026-11-01",
+      "valid_until": null
+    },
+    {
+      "id": "claim-cve-php-advisory",
+      "statement": "news/59 的 PHP 漏洞說明：CVSS v4.0 9.2、攻擊嘗試已被觀測（泛指）；受影響版本表在圖片中。",
+      "status": "historical_only",
+      "sources": [
+        "official-news-059"
+      ],
+      "locator": "漏洞說明段",
+      "page_id": "event-cve-2026-php",
+      "as_of": "2026-10-27",
+      "valid_until": null
+    },
+    {
+      "id": "claim-singapore-leader",
+      "statement": "邁達特端稿件稱 UGUARD 為「新加坡網路安全領導品牌」；夥伴宣傳用語，未核准。",
+      "status": "needs_review",
+      "sources": [
+        "external-fb73abcbfef6"
+      ],
+      "locator": "news-links 清單摘要",
+      "page_id": "entity-uguard",
+      "as_of": "2026-03-31",
       "valid_until": null
     }
   ]

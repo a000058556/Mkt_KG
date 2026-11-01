@@ -6,12 +6,12 @@
 
 ## 目前成果
 
-- 首次試行完成 5 個來源：3 篇官網文章、一篇 FB 貼文及一筆 CIO 摘要線索。
-- 建立 22 個 Wiki 頁面；4 個全文來源完成整合，CIO 為 reference_only，非全文。
-- 來源登錄共 76 個邏輯來源；其餘 71 個等待使用者確認試行成果後再 Ingest。官網三語算同一來源的不同版本。
+- 來源登錄 76 個邏輯來源全部處理：pilot-001 5 個、ingest-002 71 個；56 個全文整合，20 個只有線索（外部摘要或只有圖片的貼文），記為 reference_only。
+- 官網三語算同一來源的不同版本，以繁中為主要來源（[決策 Q8](docs/DECISIONS.md)）。
+- 120 個 Wiki 頁面：產品、夥伴、概念、活動、寫作、待確認事項與 [訊息時間軸](wiki/syntheses/messaging-timeline.md)。
 - 全部現行宣稱核准紀錄為空；歷史來源、Agent 歸納、待確認與過期優惠清楚分開。
 
-[首次 Ingest 報告](reports/2026-11-01-ingest-pilot-001.md) · [整合發現](wiki/syntheses/pilot-findings.md) · [待確認事項](wiki/issues/source-gaps.md) · [操作日誌](log.md)
+[ingest-002 報告](reports/2026-11-01-ingest-002.md) · [首次 Ingest 報告](reports/2026-11-01-ingest-pilot-001.md) · [整合發現](wiki/syntheses/pilot-findings.md) · [待確認事項](wiki/issues/source-gaps.md) · [操作日誌](log.md)
 
 ## 現場可展示的操作
 

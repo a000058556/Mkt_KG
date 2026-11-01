@@ -48,3 +48,11 @@
 - 變更：DECISIONS 新增 Q8／Q9；Schema 命名段、WORKFLOWS Ingest 步驟 1、3 與 AGENTS 目前階段同步更新。未改欄位、目錄或狀態定義，schema_version 維持 1.0.0。
 - 套用：news/45 三語差異以繁中為準，issue-promotion-language 改為 historical_only；claim-news45-zh-only-product-paragraph 改 source_reported；繁中主動防禦段疑似重複貼上的觀察保留。產品宣稱仍未核准。
 - pilot-001 ingest-runs 狀態改為 accepted；其餘 71 個來源開始分批 Ingest。
+
+## [2026-11-01] ingest | ingest-002：其餘 71 個來源
+
+- run：ingest-002；授權：使用者「開始處理71來源」（決策 Q9）；繁中為主要來源（決策 Q8）。
+- 來源：官網 57 篇（52 全文、5 篇僅圖片或極短記 reference_only）、外部 14 筆（全部 reference_only）；登錄表 pending 0，全庫 56 ingested、20 reference_only。
+- 頁面：新增 71 來源頁、27 主題頁；更新 16 既有頁；claims 12→39；共 120 頁。
+- 發現：情資數字不一、英日翻譯錯誤、職稱與設立日不一致、ISO／NGFW 用語過強、健檢活動至 2026-12-31、AgileShaper 狀態未知。
+- 詳見 [ingest-002 報告](reports/2026-11-01-ingest-002.md)、[lint-005](reports/2026-11-01-lint-005.json)。未核准任何現行宣稱；語意檢查為抽查。

@@ -69,8 +69,15 @@
           "record_sha256": "9b0f51de7d044df08a7336510cc341b080b787fbc73ead092f2aee20a884c29d"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-059.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "6c6bcca3d6c52be2558b89f5c7fbe04701a697af6ea7faaba649971640af145d",
+        "en": "6275274e35c771564f1cce92fa1493a3b02f84496c4112850f29d7dc3bb40eb4",
+        "jp": "9b0f51de7d044df08a7336510cc341b080b787fbc73ead092f2aee20a884c29d"
+      }
     },
     {
       "id": "official-news-058",
@@ -101,8 +108,15 @@
           "record_sha256": "b02462785dc76d63ab59a30c54b991c0c23eb7b705dd760eb86cd49123c156d1"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-058.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "f00144bf85a475102f28b5b38000148bddc788824f9661ba528f64e2d8f82994",
+        "en": "5dc8c6a7115843e712e4465f75c4b59bde92645f4372992547d19a725cd20fd0",
+        "jp": "b02462785dc76d63ab59a30c54b991c0c23eb7b705dd760eb86cd49123c156d1"
+      }
     },
     {
       "id": "official-news-057",
@@ -133,8 +147,15 @@
           "record_sha256": "5d4e7e11ae970fbf2b11b61f75860339b314c949c68f40afce150ccf8d1d230c"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-057.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "451c4769080795bbb638ac2fc4ba4717152a6659c437d060f3e5f65076f840cd",
+        "en": "4997e17d798a66f447f4c1b1eb234e7aa1a02366d4280ff96f352c50c38b8973",
+        "jp": "5d4e7e11ae970fbf2b11b61f75860339b314c949c68f40afce150ccf8d1d230c"
+      }
     },
     {
       "id": "official-news-056",
@@ -204,8 +225,15 @@
           "record_sha256": "901caa889874c3778becfd35fd583bd36c05f7bf5bdd490e8562e36a2f05e450"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-055.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "024fecb784854d018208eb312bab6b454bb8ac83df453052df21bb19f3178c56",
+        "en": "fb8eac3e629f61fd86cd886d88fde29a05b62df8fa719492df82b084fa3ece06",
+        "jp": "901caa889874c3778becfd35fd583bd36c05f7bf5bdd490e8562e36a2f05e450"
+      }
     },
     {
       "id": "official-news-054",
@@ -236,8 +264,15 @@
           "record_sha256": "53871a60241351594c9972a610cfd0b78780899df2b7cc257f96832d137a2af3"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-054.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "b8671beb14cfc9e804c2492bd0b2c7ce419d7689ce5219e9dce5f08eca2b2061",
+        "en": "d6f9894310bacc7689e3d9b10f0354469e70f2a53554c3ac26087c36f6425d3c",
+        "jp": "53871a60241351594c9972a610cfd0b78780899df2b7cc257f96832d137a2af3"
+      }
     },
     {
       "id": "official-news-053",
@@ -268,8 +303,15 @@
           "record_sha256": "426a92a5543f88b2433023089cd081a6ac5d5244f7bc1bdf2b6e4c5b2d8861d2"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-053.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "9fbff97d242e4fed708b171dd128280adc82d4d34379d310569350998807ff15",
+        "en": "0acca632eb2b7175a92d04932844f039d62b3b479f57e846771e782ad2c44a81",
+        "jp": "426a92a5543f88b2433023089cd081a6ac5d5244f7bc1bdf2b6e4c5b2d8861d2"
+      }
     },
     {
       "id": "official-news-052",
@@ -300,8 +342,15 @@
           "record_sha256": "1d108a967342186f8b4409d2ce009e6ceeb573388cec0f311c254811e97fbebb"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-052.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "1d108a967342186f8b4409d2ce009e6ceeb573388cec0f311c254811e97fbebb",
+        "en": "4253c63ab09aab2367f6e328d9467e8db9ce5bc635330a3b8ec2bb2460a189cd",
+        "jp": "1d108a967342186f8b4409d2ce009e6ceeb573388cec0f311c254811e97fbebb"
+      }
     },
     {
       "id": "official-news-051",
@@ -332,8 +381,15 @@
           "record_sha256": "fdc72ba9c6aa4c9592a0862418f704182b471e604075d91b8c3ce323504a546c"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-051.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "4c65b252fa77ceaa9fa03fbdebe3a5edb497e8535e730ffe8600cfedf6425ded",
+        "en": "0f3cfbbf6cb53dfb2ce15a02b0e048b3246552fa6060a13a63be24fef22f18a0",
+        "jp": "fdc72ba9c6aa4c9592a0862418f704182b471e604075d91b8c3ce323504a546c"
+      }
     },
     {
       "id": "official-news-050",
@@ -364,8 +420,15 @@
           "record_sha256": "0e104f10445cacbd2615bfb6510b4981c157a976fecaa6f8d119113ef333aa5a"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-050.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "a174ba71437ea534fb39808915aeb824da8a7e1b7d9ba8a7e16a514c58af9f7b",
+        "en": "9e818d5867c47b07c52e2c0b40d813f9569865582e9aa452fd91db895b318727",
+        "jp": "0e104f10445cacbd2615bfb6510b4981c157a976fecaa6f8d119113ef333aa5a"
+      }
     },
     {
       "id": "official-news-049",
@@ -396,8 +459,15 @@
           "record_sha256": "67fa37fa8d88d0d13ec7428824445f865a1456f48dee837b4c366c75993e6e05"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-049.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "3e1240eed6d56cf4f81a69fc38ce3e9f580ea2eab7864e6db9e3959bd02aca9d",
+        "en": "5f6fcf1bf64fb9cbb8174bbbcd1d0403b1741339f8245e2daeda46d632d58ab2",
+        "jp": "67fa37fa8d88d0d13ec7428824445f865a1456f48dee837b4c366c75993e6e05"
+      }
     },
     {
       "id": "official-news-048",
@@ -428,8 +498,15 @@
           "record_sha256": "f3af027d3fa7a2d6bec1eeeb962f11c7659b9052c9bfc4043a4b48860fcfc6be"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-048.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "643a2967034f39a87d9751d782fc5592f870d6d21c8622de80096af0912b8509",
+        "en": "602178aec84e2be7ab74e0fac9d70de82c428d59fb38a8b9407ac842fac49baf",
+        "jp": "f3af027d3fa7a2d6bec1eeeb962f11c7659b9052c9bfc4043a4b48860fcfc6be"
+      }
     },
     {
       "id": "official-news-047",
@@ -460,8 +537,15 @@
           "record_sha256": "7abbf7eda1643e6ac9b733e61080f949b9d8a6b9a4a934ec99eb8022e3b2e9dd"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-047.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "7d160a3c8d66559e13b5f1d7edfa1474ab613e6ad324bff64e1438939537bdc7",
+        "en": "1637e27bfd7b46673d3c29434e59b1f56288ee0855ceabf06d2085488734c683",
+        "jp": "7abbf7eda1643e6ac9b733e61080f949b9d8a6b9a4a934ec99eb8022e3b2e9dd"
+      }
     },
     {
       "id": "official-news-046",
@@ -492,8 +576,15 @@
           "record_sha256": "9a79abdc574b60aa4aad065b27f5ca9d7ee4d0bf3d134c0211f3c4484cceaa94"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-046.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "2fa95e57eb81413233954be8bcc7f69f6deccab3c8ae7c8912e6bf1ab6381b03",
+        "en": "4fee185d5eabab22f0c6e51bf5c01b4b9e47ef0d68aad9804960185721e297b5",
+        "jp": "9a79abdc574b60aa4aad065b27f5ca9d7ee4d0bf3d134c0211f3c4484cceaa94"
+      }
     },
     {
       "id": "official-news-045",
@@ -563,8 +654,15 @@
           "record_sha256": "4286b4a36671b2a3275f2f593a3bfb6d30acf52d6df941245393833debea741f"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-044.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "915b3c76644b2059daffd06f5f494a8576bd146d2fc2c7468f93520b0d6ec7aa",
+        "en": "ecc26c6106e167dac4622784a9fd53981a87b422f3dc3d037969f332500fb435",
+        "jp": "4286b4a36671b2a3275f2f593a3bfb6d30acf52d6df941245393833debea741f"
+      }
     },
     {
       "id": "official-news-043",
@@ -595,8 +693,15 @@
           "record_sha256": "6ecf7696da44ef9b24ac0625d758b139eca6978bb7c362053e7c76e8b54f4023"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/official-news-043.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "6536e73239ffe765994284f719f02b05bacd776a256553a8af13f00d8fde9930",
+        "en": "1f7313b2ab74b8b204f9c440f8054ea9100be7dcc368b250cee0be66eca5c296",
+        "jp": "6ecf7696da44ef9b24ac0625d758b139eca6978bb7c362053e7c76e8b54f4023"
+      }
     },
     {
       "id": "official-news-042",
@@ -627,8 +732,15 @@
           "record_sha256": "d378b028c13eee9523dc8dcce8eff26e24f08618824513f999c9f0291170529f"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-042.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "6b6160289efd65f5270941ec34dea0cee23284563893a8cc689f85835340583f",
+        "en": "182d9b9fd16a0b2189918f2aaeed2ca825957c378d101930b5b89e72bded9434",
+        "jp": "d378b028c13eee9523dc8dcce8eff26e24f08618824513f999c9f0291170529f"
+      }
     },
     {
       "id": "official-news-041",
@@ -659,8 +771,15 @@
           "record_sha256": "090a1bf9666dcf24005eeea2aa5899ceffbf9f610c53772900125b4bcf131277"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-041.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "774bb8a47e2bb285ce5fb564f61c9c3eab55ac775f15e54ca72710ba4c0fc754",
+        "en": "2e438a26ceb0fd9cb976f5a5cabc3be2bc81ea054bc48a10280bfc2078cdab5d",
+        "jp": "090a1bf9666dcf24005eeea2aa5899ceffbf9f610c53772900125b4bcf131277"
+      }
     },
     {
       "id": "official-news-040",
@@ -691,8 +810,15 @@
           "record_sha256": "af0d2ca227c91856af0abcc56066a66004d033efa1e2ff8d1e26bf4ff95f4405"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-040.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "fb0aa617ad127950a2886ee0c52082d8d5074202c49ff2942f4ed1bd7e26121d",
+        "en": "7b2b97b73c38f0e3d91a02c57f2d8012081801c1c507518b07d3d6e4abfb2f41",
+        "jp": "af0d2ca227c91856af0abcc56066a66004d033efa1e2ff8d1e26bf4ff95f4405"
+      }
     },
     {
       "id": "official-news-039",
@@ -723,8 +849,15 @@
           "record_sha256": "55ff5cca5e37973fc9fbb3c497b300ca009822308ce24a576a1ef7f2b2d145a2"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-039.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "b85a1696f3ffb5af73376973353593a9f4f6328b09675ba3562893f9e5516b19",
+        "en": "28cb60fbbfe5ca694871a1e6281bd442a35b8baf215e13a30bf0df01bd8ae6e8",
+        "jp": "55ff5cca5e37973fc9fbb3c497b300ca009822308ce24a576a1ef7f2b2d145a2"
+      }
     },
     {
       "id": "official-news-038",
@@ -755,8 +888,15 @@
           "record_sha256": "d6721585fcdf0deeca6ab21903c04d2d23e39cf198e932e611d9e9600070326a"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-038.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "2c56da81952f093c1c3a4479cc1d6b8df28111b0ddb08266dc0e3be61345f24f",
+        "en": "ffcc79b8fca58f0464a9e4153515d3182c3285bf020abaadbe364674ca2385a8",
+        "jp": "d6721585fcdf0deeca6ab21903c04d2d23e39cf198e932e611d9e9600070326a"
+      }
     },
     {
       "id": "official-news-037",
@@ -787,8 +927,15 @@
           "record_sha256": "71d1e513edb765d25f9699c1efbfc3a579d984179e4287efe71442aa81ca1780"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-037.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "48556d649d5141a09a61a4c47b7f02d6fc68b60ca6111200cb10aca873be77f7",
+        "en": "3e6434ed15c22b5cf0b165babeef12e2c5a027636ee036ecd277853cc9eb0f5b",
+        "jp": "71d1e513edb765d25f9699c1efbfc3a579d984179e4287efe71442aa81ca1780"
+      }
     },
     {
       "id": "official-news-036",
@@ -819,8 +966,15 @@
           "record_sha256": "56ad97f5f047d78f1ad4467eb0de2dd777dd8815c43ee58d5e41534852ff2c5b"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-036.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "d37a19e32cfecdc89915b00409a2f8e498d36f049ad21ea5f9b08da7dbc2ebec",
+        "en": "597b1c2aafefd2ebea7f55ec7fde6fd3f6af690f2f0ff5fb6deb33d16494bb81",
+        "jp": "56ad97f5f047d78f1ad4467eb0de2dd777dd8815c43ee58d5e41534852ff2c5b"
+      }
     },
     {
       "id": "official-news-035",
@@ -851,8 +1005,15 @@
           "record_sha256": "761235e2e12fcde8c34a80c55b1780e9c9db5883cf2a5b7473f3acf4dd8b580e"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-035.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "aa10cd58c8e17a1aad2b6d4a7751596c960c25e78e96103cf6db0c5ef9d3ac64",
+        "en": "621c7e320d4febee268c5fc5cd162bd4c8f53fec37d9a4c0ddd83ffafd0ee0db",
+        "jp": "761235e2e12fcde8c34a80c55b1780e9c9db5883cf2a5b7473f3acf4dd8b580e"
+      }
     },
     {
       "id": "official-news-034",
@@ -883,8 +1044,15 @@
           "record_sha256": "1f47c8438bacf6ffd127ba1598cc1729794377e823ebb435ec243a5c9818ab58"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-034.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "323d773da32c8a5956fccba440507bb183ea6d5ba990c139b216940a03c93f0a",
+        "en": "566ff3d3547f0520ababcb905c28c901284c7fedc4211e6a305d6de4def69660",
+        "jp": "1f47c8438bacf6ffd127ba1598cc1729794377e823ebb435ec243a5c9818ab58"
+      }
     },
     {
       "id": "official-news-033",
@@ -915,8 +1083,15 @@
           "record_sha256": "3337e035ee815e3c82b1bee4f885c3a043d9e993c616bfa0247cd6d734a1fe92"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-033.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "80223ec427521b933d91b36e36b20880ac54bdbf6f5dc24897e850c06c36ce3f",
+        "en": "6764951d889f7cede3c36faa27c3e644f252afa6d50aa110edb46559790ec293",
+        "jp": "3337e035ee815e3c82b1bee4f885c3a043d9e993c616bfa0247cd6d734a1fe92"
+      }
     },
     {
       "id": "official-news-032",
@@ -947,8 +1122,15 @@
           "record_sha256": "797361d72ce604590b1389d77ba57fc637f56bfad33474b0f7e3e95a37317976"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-032.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "9a9426c72215f24bd4eb4a65c34e727e444837d77eb48178a7c38f898c81afc8",
+        "en": "f6edc8ea17a3a9df859ba32a48b3f587db25f129e7214d9d97596543a13c360b",
+        "jp": "797361d72ce604590b1389d77ba57fc637f56bfad33474b0f7e3e95a37317976"
+      }
     },
     {
       "id": "official-news-031",
@@ -979,8 +1161,15 @@
           "record_sha256": "d9f5e455a4f6c51784f37a7f1679d8b08a4c9dd554651dec326b1b2208e41acc"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/official-news-031.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "8d99af61bc47e4e6753feeefd028c1ee271a9a9b9aece685a1c0067627b24acb",
+        "en": "4503aa343d82f01ce309a9b1c999e111236ecc818d27b9a7977d33e4b7f0089f",
+        "jp": "d9f5e455a4f6c51784f37a7f1679d8b08a4c9dd554651dec326b1b2208e41acc"
+      }
     },
     {
       "id": "official-news-030",
@@ -1011,8 +1200,15 @@
           "record_sha256": "64b2891574902d0d6cfe6c8d37ba49d07377fc6797f6f697841af28f809c3258"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-030.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "f42b7f11fe58c4993cf023dc150ef1e7063994575a7657c104d7f589a711f818",
+        "en": "376a3b04af4776f12da6d85332a17fd215dbea88609c95e32d76a5a98c91e323",
+        "jp": "64b2891574902d0d6cfe6c8d37ba49d07377fc6797f6f697841af28f809c3258"
+      }
     },
     {
       "id": "official-news-029",
@@ -1043,8 +1239,15 @@
           "record_sha256": "68dc4797e1ddfac1485afec9e9a1c396e31c3c055845eb61013a057ed7ee45fe"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-029.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "d699ba07ef5706edee72789131988ad81b9f1bcaaee481c0b4b16a1f896c5dca",
+        "en": "7eff8bbf004cffb84a26ddeffe1e2c667083a8fd7742986a44c7df96f6373de7",
+        "jp": "68dc4797e1ddfac1485afec9e9a1c396e31c3c055845eb61013a057ed7ee45fe"
+      }
     },
     {
       "id": "official-news-028",
@@ -1075,8 +1278,15 @@
           "record_sha256": "8c45b46917f08e9d2d119b5901bab7e4e9a00937a5c95c3f5cab1754c1444a9b"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-028.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "0e51034de1bffc3ebdcb2aa7959ea3442b622cb8665fc29615b7992fddb9b892",
+        "en": "45ced739c3f379c1965490b1930aff3f2915de10860280a285b96e811bfda2a9",
+        "jp": "8c45b46917f08e9d2d119b5901bab7e4e9a00937a5c95c3f5cab1754c1444a9b"
+      }
     },
     {
       "id": "official-news-027",
@@ -1107,8 +1317,15 @@
           "record_sha256": "2e9aa5b9d0ff5ba33b37706fe5bfe2b81d69b1ca96f9e6f58a21e658fd53398c"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-027.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "54ccee72b5aa3fde9de00fab4746e5a6a50d77e61855ade427c66d897f85eea5",
+        "en": "6ea2faae63927e0989738f5f2ff4f643472e577a82dc5a332f50564bc7b9d5f6",
+        "jp": "2e9aa5b9d0ff5ba33b37706fe5bfe2b81d69b1ca96f9e6f58a21e658fd53398c"
+      }
     },
     {
       "id": "official-news-026",
@@ -1139,8 +1356,15 @@
           "record_sha256": "0b594c07007fb1a6ee006d0cebca4fa3192aeb6d3c60e86c95900af16c4ca627"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-026.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "513ef01e3f30ef9d64f2330517bab0a2f31f1721619753a44e0fb3a4118f8d9d",
+        "en": "822e9aabb2218c5b3ca128d84e88d32d92724c204883b8d510934447526ca305",
+        "jp": "0b594c07007fb1a6ee006d0cebca4fa3192aeb6d3c60e86c95900af16c4ca627"
+      }
     },
     {
       "id": "official-news-025",
@@ -1171,8 +1395,15 @@
           "record_sha256": "8b0f313ae806d67f3b3631c332c231accd4848124e3e0d555c48ad774468b7ff"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-025.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "55c7cc4fb1bb448b2c51bf3318ed317b95ab790aad4c419aee5359a39d9a813d",
+        "en": "1040f58459ea9f2760db9b7fbf7c20ff1a532942ac98c7633197581a1a3dd36d",
+        "jp": "8b0f313ae806d67f3b3631c332c231accd4848124e3e0d555c48ad774468b7ff"
+      }
     },
     {
       "id": "official-news-024",
@@ -1203,8 +1434,15 @@
           "record_sha256": "28abd385a55906010f20ce628731d561d982de9fea3622adb187fe436638ac30"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-024.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "563fe4d0912891f8a676d1be1f8324cea1e43ddf1cf38e60d6af2352a6da212a",
+        "en": "e136f99e6cb318eac8fa31914563cb40a4199e453c3dd43d748027b1c8298168",
+        "jp": "28abd385a55906010f20ce628731d561d982de9fea3622adb187fe436638ac30"
+      }
     },
     {
       "id": "official-news-023",
@@ -1235,8 +1473,15 @@
           "record_sha256": "28a99c3cda8c626d7f04dc9bbb04f50bbdde34960cc3a4793959949fca111eee"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-023.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "e3bc748e8b540043c4256322d5dfe1dcfe0a2e069e01f1c730ea3ddae0ce71d8",
+        "en": "ef172661a126ef3b796ff0a92a33e5c7a0b6ef9d03f1860d944b7df316034262",
+        "jp": "28a99c3cda8c626d7f04dc9bbb04f50bbdde34960cc3a4793959949fca111eee"
+      }
     },
     {
       "id": "official-news-022",
@@ -1267,8 +1512,15 @@
           "record_sha256": "de54e43a702959ba38c13c0138a5000e85a21f771d289b1fb7354cffbfd09522"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-022.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "3f965424bba2316723a7372db125fdd44cb08c84b01178b87c6ca3d2f6400556",
+        "en": "3e37d211458fc8b6e4497c67ce5a58487f64d9ee93d66ba9d57f864381a4e5ba",
+        "jp": "de54e43a702959ba38c13c0138a5000e85a21f771d289b1fb7354cffbfd09522"
+      }
     },
     {
       "id": "official-news-021",
@@ -1299,8 +1551,15 @@
           "record_sha256": "466c8f7faeababd8c9804b933d9654ce50c766653df91d33aac439d3eebfaea9"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-021.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "35bf6c07422bdf518f1b78c8b2da6a80504f96c362a0ef4a1e817a175e6e16fe",
+        "en": "81317ce7a9ed61e85bb35f2051f4ce58763e519b6938fb6bc65be02d14fadee0",
+        "jp": "466c8f7faeababd8c9804b933d9654ce50c766653df91d33aac439d3eebfaea9"
+      }
     },
     {
       "id": "official-news-020",
@@ -1331,8 +1590,15 @@
           "record_sha256": "7d1776e3963f4930521eef321c14d5edab54b572cbe166dd114c7777ac2fc5e7"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-020.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "770b18e2c35ac1cb90809ea3b0a12dd9cc249c65f60ee346e8df97ef8d3064c3",
+        "en": "5c55e21075701775e494bb6969c01286649ebb76df73a745c4f25655dbb49230",
+        "jp": "7d1776e3963f4930521eef321c14d5edab54b572cbe166dd114c7777ac2fc5e7"
+      }
     },
     {
       "id": "official-news-019",
@@ -1363,8 +1629,15 @@
           "record_sha256": "88a5edd05268aae2c55fb5eddb739a1090e3dc60697a0db5e0b84fc02447614e"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-019.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "68bd000ef0156cab9b44047c9cc04f741b05c62f9cd4fa283366d7237b23b5b9",
+        "en": "49d29ee0518d0c215095a63dede6429a7c56ae179e8224954feb668f047e2a5e",
+        "jp": "88a5edd05268aae2c55fb5eddb739a1090e3dc60697a0db5e0b84fc02447614e"
+      }
     },
     {
       "id": "official-news-018",
@@ -1395,8 +1668,15 @@
           "record_sha256": "258a499bb52dbebbc116341e75cb5e3a102789f5175d48a60c1ee27e71079741"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-018.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "e74748d5e853d8172fad4f41e7d1ffa5eb63f25c4bdf879d28410c6f03b069ca",
+        "en": "d600de98b1645739dc5e871cc70bc068e749d5b06f3e67265333bc3d44475c23",
+        "jp": "258a499bb52dbebbc116341e75cb5e3a102789f5175d48a60c1ee27e71079741"
+      }
     },
     {
       "id": "official-news-017",
@@ -1427,8 +1707,15 @@
           "record_sha256": "f3a2255b8ca5d74f0cda7a33a0dd4c7229a62fe2d65738f4aa0a0e2ecfd8a36e"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-017.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "d780a187921f2f57e26002e1abbf2a6be2123636bedc7b0d60a0be31539aed55",
+        "en": "0a73aadf629e3bbf0eeb8f7a005eb4c1747b71f59233f8418107ffe12f230ffa",
+        "jp": "f3a2255b8ca5d74f0cda7a33a0dd4c7229a62fe2d65738f4aa0a0e2ecfd8a36e"
+      }
     },
     {
       "id": "official-news-016",
@@ -1459,8 +1746,15 @@
           "record_sha256": "dcb13dfe635e8d7ec001b78a34c3dc03149b194d84840d29e692b2b4d732f55b"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/official-news-016.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "bef7648bfabf6325ddf9c7c7ee9c2183986264058ebb8f0e1e55c154b613c029",
+        "en": "30e31e41ffaa46ebb5f03ce1679999ee78d52eebc80f738cc6cc4c18087b6226",
+        "jp": "dcb13dfe635e8d7ec001b78a34c3dc03149b194d84840d29e692b2b4d732f55b"
+      }
     },
     {
       "id": "official-news-015",
@@ -1491,8 +1785,15 @@
           "record_sha256": "9cf3d7d1c3d6860e25780ebee7bc4fa700853e9f6474b33f25553efb258b0678"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-015.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "0a14cc54aee3758be9d56245a5f5069445bbe7125c8cb225a8c29aeeda2907f7",
+        "en": "e4cf7effc74338c7d73de1c349e77429b010ac2aa9a4b925acd5760963017497",
+        "jp": "9cf3d7d1c3d6860e25780ebee7bc4fa700853e9f6474b33f25553efb258b0678"
+      }
     },
     {
       "id": "official-news-014",
@@ -1523,8 +1824,15 @@
           "record_sha256": "7e6c4794f4c167083bbfebbfdbce2554cf0f60611521b4b8f68dfb6c009de626"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-014.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "e32783a6ce4514328f3c5f0d5a8dc1037d51839c2996a61f59afd4cd20a974ae",
+        "en": "ae25cdb682fe391e25525ad5e94c575f4e23a3185f81dc5e1fd21db9f649ec41",
+        "jp": "7e6c4794f4c167083bbfebbfdbce2554cf0f60611521b4b8f68dfb6c009de626"
+      }
     },
     {
       "id": "official-news-013",
@@ -1555,8 +1863,15 @@
           "record_sha256": "235b7a9532aa73df23b74bd5bd5607a3815775d05777eeec78ad598d549d45c1"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-013.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "6d3a7977dab6f72cdfcf7bdd80b011493b147a464b98db6e441920824063627f",
+        "en": "9ca4784641bc4a251949e06eb627633ef71024c7e805313b0313bf82724c3751",
+        "jp": "235b7a9532aa73df23b74bd5bd5607a3815775d05777eeec78ad598d549d45c1"
+      }
     },
     {
       "id": "official-news-012",
@@ -1587,8 +1902,15 @@
           "record_sha256": "c9eb4d68f8b28ed4934d0bb36814dcc116a9f935cfda4af68fd760b2f620136c"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-012.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "59ff4faf1e3632ef5ebd76247855c9d2c866c5aa47addbee8c549cf7a687abfc",
+        "en": "479935e589f50cdb7bbde7c9e22b2054a218316b1fc3f5c1281ee5b71d34e23d",
+        "jp": "c9eb4d68f8b28ed4934d0bb36814dcc116a9f935cfda4af68fd760b2f620136c"
+      }
     },
     {
       "id": "official-news-011",
@@ -1619,8 +1941,15 @@
           "record_sha256": "3c72703cfbbf9c1c007d6b8aaea9c4cce3638d6ddbf4c54a2606be7ddcc46c85"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-011.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "ea482f17dabebf9daad236741f665c0098963193cacd8f2cae9eb84ad99eb79b",
+        "en": "e1f483a86eb0c844c4301ad0a959b1b9c6dc6c54b8956b8f3d6a2edc4de7cebf",
+        "jp": "3c72703cfbbf9c1c007d6b8aaea9c4cce3638d6ddbf4c54a2606be7ddcc46c85"
+      }
     },
     {
       "id": "official-news-010",
@@ -1651,8 +1980,15 @@
           "record_sha256": "7c930c4eca472a7cec59b938c912a9632f2c48a510a527ab8d6674d5bfcb5332"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-010.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "1c6441f3fcb1ed831cb6c945df366cd192457f6be94e23f10cbb2165923808eb",
+        "en": "7154d1fd555440174ae6c5bc97039f40bfd2dfc643d5662ce5b49f0666fff259",
+        "jp": "7c930c4eca472a7cec59b938c912a9632f2c48a510a527ab8d6674d5bfcb5332"
+      }
     },
     {
       "id": "official-news-009",
@@ -1683,8 +2019,15 @@
           "record_sha256": "f949b971fdfbf795e333b4a7cea228daf465cd6177c08dd1e062cf32703c0b9c"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-009.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "edb21a1c7adbc8b9e6656849a918efc8f3a905e48cf80e7ff1bd9c0700872299",
+        "en": "7186784fb91b0e6e2cd0a6bf7c8c063307486501938432ebfc4dc217dec4079a",
+        "jp": "f949b971fdfbf795e333b4a7cea228daf465cd6177c08dd1e062cf32703c0b9c"
+      }
     },
     {
       "id": "official-news-008",
@@ -1715,8 +2058,15 @@
           "record_sha256": "1f999cf9367ee6acbe539bd6fa942a4de00c5e8ac2dd30caee64b1de93cffa30"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-008.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "5e68d2f2c172aeb18c6c2804200075eb7e250c5147acb0e7eb80f29817be2bd4",
+        "en": "093f88c3982cc9e03e470ed9e6e3daa6e361cfcd370c4c048f6c51d34a55ea16",
+        "jp": "1f999cf9367ee6acbe539bd6fa942a4de00c5e8ac2dd30caee64b1de93cffa30"
+      }
     },
     {
       "id": "official-news-007",
@@ -1747,8 +2097,15 @@
           "record_sha256": "be51436cf65129907e81b43f8a95ce29c7b9e5bce20b4674a6e0975ffa1c985b"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-007.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "ea7e7b3caa2954e478a1d241235d857d922bfd1dde4573a0cd646c72979a59b1",
+        "en": "19724b271bc04d1a5617a77b314c088f3c227fc405380fa62642ba089fb63f0d",
+        "jp": "be51436cf65129907e81b43f8a95ce29c7b9e5bce20b4674a6e0975ffa1c985b"
+      }
     },
     {
       "id": "official-news-006",
@@ -1779,8 +2136,15 @@
           "record_sha256": "845e6201c88723dcb9b9ae9ebc08a07171a1b55e2e3b8c734cbeaf46575c2c9f"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-006.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "acb04e5b3cb018003b7bd9e3abcf41c0d7ff4e71c5622f1faafba3f4debf5f9a",
+        "en": "007508949f4ba5c96570cca3f6d87fc239b39b44af9ea53f5a682b8610161654",
+        "jp": "845e6201c88723dcb9b9ae9ebc08a07171a1b55e2e3b8c734cbeaf46575c2c9f"
+      }
     },
     {
       "id": "official-news-005",
@@ -1811,8 +2175,15 @@
           "record_sha256": "25de7abec1b099839ce216076e3547f84f8fbe48835f25f60509f5cb2dc691fa"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-005.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "765b160daedec440d3f4bbd14c744f946e5cc7e0039de2702409d0801730cab0",
+        "en": "03c390aef1d6965b5e0f1a93345ea8f18d0cbdb7aa974f859581ecfe510bf158",
+        "jp": "25de7abec1b099839ce216076e3547f84f8fbe48835f25f60509f5cb2dc691fa"
+      }
     },
     {
       "id": "official-news-004",
@@ -1843,8 +2214,15 @@
           "record_sha256": "3e9f90a06dd5c37c81e8729a6cf236fb9252e817e25f87fbae1d216c775aba16"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-004.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "436fdaca2d70f133a06eaec059ebf7cf6cd783f5ce8c45ef8f6bf59b4852a4cb",
+        "en": "514c604926ccdc7e49cf770e8147f2e9317a1c7237e57e590449a88df7540908",
+        "jp": "3e9f90a06dd5c37c81e8729a6cf236fb9252e817e25f87fbae1d216c775aba16"
+      }
     },
     {
       "id": "official-news-003",
@@ -1875,8 +2253,15 @@
           "record_sha256": "6c89a2cbfb4bff6d1cf1a00a349d64badb6886ec25ee001dd4dc149ae63873ea"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/official-news-003.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "5cf9554a28a3afc5349657b3dd6b45eae1c7469247f9020f04cb3ce3f405b968",
+        "en": "f970ab33da4cb638ee70f6aa600c526f51bda9dfe25a1981c7c466f1361c753a",
+        "jp": "6c89a2cbfb4bff6d1cf1a00a349d64badb6886ec25ee001dd4dc149ae63873ea"
+      }
     },
     {
       "id": "official-news-002",
@@ -1907,8 +2292,15 @@
           "record_sha256": "e7bf61875cb1c96e7c2766c20593a9a5a9cc066dd41381d82e65b1f6a62c38c5"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/official-news-002.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "82b30feaa9d9a8a27682e7c67841731d33c41022a89d7fa7d0e76b5266318279",
+        "en": "b8b3d5ffffa8bc91eb1e4eb1ccb10d1fd037bd1ab2561aeb0c32ead35e3c6ab4",
+        "jp": "e7bf61875cb1c96e7c2766c20593a9a5a9cc066dd41381d82e65b1f6a62c38c5"
+      }
     },
     {
       "id": "official-news-001",
@@ -1939,8 +2331,15 @@
           "record_sha256": "f1ab03eb0d0bf88aaf6e67729be69429fb19a4b7fcac9d0446cbd026cbac4d42"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-001.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "0df3e358fc7bb63958138dbea1ec3f5627a02e65bbc5eb4a866d9a5db9d9530e",
+        "en": "96148af2a7e29034aadabc077fb6b457ac26663f5de907a29964c44f43af70da",
+        "jp": "f1ab03eb0d0bf88aaf6e67729be69429fb19a4b7fcac9d0446cbd026cbac4d42"
+      }
     },
     {
       "id": "facebook-pfbid0AMmGpcRMbRVaJt5HDHR6Ap49giTEcmR8sXYGvPregZ75e8PrgB4LLGuPNoL3Ap1Vl",
@@ -1985,8 +2384,13 @@
           "record_sha256": "5ab6eb3715c7616df8ce856b1a8f9d66308d1d53fe5b44925ccbf6694ce05952"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/external-93018eaab6d5.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "5ab6eb3715c7616df8ce856b1a8f9d66308d1d53fe5b44925ccbf6694ce05952"
+      }
     },
     {
       "id": "external-285134be29ce",
@@ -2006,8 +2410,13 @@
           "record_sha256": "e96ffb09f833fdeb3a1094400d78587437d102aea2e2f3b56075c4a66b077185"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/external-285134be29ce.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "e96ffb09f833fdeb3a1094400d78587437d102aea2e2f3b56075c4a66b077185"
+      }
     },
     {
       "id": "external-b7bcc1e07edf",
@@ -2027,8 +2436,13 @@
           "record_sha256": "644bb0d5b0926155782549fc911e97144036860764c2e3fdc68408b1df8cc320"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/external-b7bcc1e07edf.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "644bb0d5b0926155782549fc911e97144036860764c2e3fdc68408b1df8cc320"
+      }
     },
     {
       "id": "external-37c35327340f",
@@ -2048,8 +2462,13 @@
           "record_sha256": "d1ce4ee661eb56420cfebd41d2f23b2c615fb9a26706579615b849b2184559f9"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/external-37c35327340f.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "d1ce4ee661eb56420cfebd41d2f23b2c615fb9a26706579615b849b2184559f9"
+      }
     },
     {
       "id": "external-52cb8621fccb",
@@ -2069,8 +2488,13 @@
           "record_sha256": "85aaffa035cdd1679006ee495b85bb62590012df0941fff8fc79ab340a29d3bb"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/external-52cb8621fccb.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "85aaffa035cdd1679006ee495b85bb62590012df0941fff8fc79ab340a29d3bb"
+      }
     },
     {
       "id": "external-cio-109792",
@@ -2116,8 +2540,13 @@
           "record_sha256": "6495eb4bb949729ff92769e23323460c42d5e81c748b350aaf3c3ee843ae6f62"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/external-339127206f46.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "6495eb4bb949729ff92769e23323460c42d5e81c748b350aaf3c3ee843ae6f62"
+      }
     },
     {
       "id": "external-fb73abcbfef6",
@@ -2137,8 +2566,13 @@
           "record_sha256": "7da1ea269399d7013e395d321c9e34513da25634103e5335088d8f8d766fb807"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/external-fb73abcbfef6.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "7da1ea269399d7013e395d321c9e34513da25634103e5335088d8f8d766fb807"
+      }
     },
     {
       "id": "external-a101bb7881fe",
@@ -2158,8 +2592,13 @@
           "record_sha256": "f87003937a0dae566771c434ffdbe95c3814951ec5c344d220deb824eea340e2"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/external-a101bb7881fe.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "f87003937a0dae566771c434ffdbe95c3814951ec5c344d220deb824eea340e2"
+      }
     },
     {
       "id": "external-b8eefd2576c2",
@@ -2179,8 +2618,13 @@
           "record_sha256": "4cdebe3c324817ca27dbec98dd92ee34034aea8000be438e18877a1d80aaad75"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/external-b8eefd2576c2.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "4cdebe3c324817ca27dbec98dd92ee34034aea8000be438e18877a1d80aaad75"
+      }
     },
     {
       "id": "external-8ba4960a7e70",
@@ -2200,8 +2644,13 @@
           "record_sha256": "08713310598f182eb0ac25de6614de85a8b932a874c3ac57dccaa7c0b17bdcdd"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/external-8ba4960a7e70.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "08713310598f182eb0ac25de6614de85a8b932a874c3ac57dccaa7c0b17bdcdd"
+      }
     },
     {
       "id": "external-a6b65c2e9d77",
@@ -2221,8 +2670,13 @@
           "record_sha256": "6024d7f1c5c2b77286aa781d7fb8537fd8392f2f055ddd90adc74c0c2a3d8091"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/external-a6b65c2e9d77.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "6024d7f1c5c2b77286aa781d7fb8537fd8392f2f055ddd90adc74c0c2a3d8091"
+      }
     },
     {
       "id": "external-c8131160ce99",
@@ -2242,8 +2696,13 @@
           "record_sha256": "2f3583229ac0d90d6445674ac7fb1da8b05573092f27ea6b803286b2a8ef48e1"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/external-c8131160ce99.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "2f3583229ac0d90d6445674ac7fb1da8b05573092f27ea6b803286b2a8ef48e1"
+      }
     },
     {
       "id": "external-5a6da7c9528e",
@@ -2263,8 +2722,13 @@
           "record_sha256": "051c6b5b35ce3efe4b788c14f9b6295e40733b5f7ab3f9f3740abcf24681db1d"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/external-5a6da7c9528e.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "051c6b5b35ce3efe4b788c14f9b6295e40733b5f7ab3f9f3740abcf24681db1d"
+      }
     },
     {
       "id": "external-679fec63ebbe",
@@ -2284,8 +2748,13 @@
           "record_sha256": "a918c3aab20bed176631b0a9b6ffb1935b2e166d97262911df6315b5fd00a4a2"
         }
       },
-      "ingest_status": "pending",
-      "source_page": null
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/external-679fec63ebbe.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-002",
+      "ingested_record_sha256": {
+        "zh-TW": "a918c3aab20bed176631b0a9b6ffb1935b2e166d97262911df6315b5fd00a4a2"
+      }
     }
   ]
 }

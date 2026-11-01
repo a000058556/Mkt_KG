@@ -8,8 +8,8 @@ language: "zh-TW"
 status: "historical_only"
 created: "2026-11-01"
 updated: "2026-11-01"
-sources: ["official-news-045", "external-cio-109792"]
-related: ["entity-metaage", "entity-uguard", "issue-promotion-language", "issue-time-sensitive-claims"]
+sources: ["official-news-045", "external-cio-109792", "official-news-042", "official-news-043", "official-news-044", "external-52cb8621fccb", "external-339127206f46", "external-fb73abcbfef6"]
+related: ["entity-metaage", "entity-uguard", "issue-promotion-language", "issue-time-sensitive-claims", "concept-legacy-replacement"]
 ---
 
 # UGUARD × 邁達特合作與相關活動
@@ -28,6 +28,13 @@ related: ["entity-metaage", "entity-uguard", "issue-promotion-language", "issue-
 | 2027-12-25 | 汰舊換新方案的原訂截止日 |
 
 依據：[官網來源](../sources/official-news-045.md) 的 metadata、開頭及活動條款；[CIO 來源](../sources/external-cio-109792.md) 的 metadata。
+
+## 相關公告與媒體
+
+- [news/42](../sources/official-news-042.md)（2026-03-19）是「2026企業網路強化方案」獨立公告，文字與 news/45「企業資安升級專案啟動」段逐字相同，條款在圖片中；期限依 news/45 為 2026-10-31，已過期。
+- [news/43](../sources/official-news-043.md)（2026-03-19）是「汰舊換新．升級方案」公告，條款在圖片中；見 [舊設備替代](../concepts/legacy-replacement.md)。
+- [news/44](../sources/official-news-044.md)（2026-03-24）文末重述兩種優惠但沒寫期限，「主動防禦強化專案」只列 DefenseTrust，與 news/45 繁中版不同。
+- 媒體：[iThome PR](../sources/external-52cb8621fccb.md)、[資安人](../sources/external-339127206f46.md) 為 UGUARD 版同稿；[iThome PR 邁達特版](../sources/external-fb73abcbfef6.md) 與 CIO 同為邁達特端稿件。媒體清單日期（03-27、03-31）早於官網 news/45 的 API `date`（04-21）。
 
 ## 可作歷史敘述的重點
 

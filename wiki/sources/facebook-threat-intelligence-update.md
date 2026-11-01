@@ -9,7 +9,7 @@ status: "source_reported"
 created: "2026-11-01"
 updated: "2026-11-01"
 sources: ["facebook-pfbid0AMmGpcRMbRVaJt5HDHR6Ap49giTEcmR8sXYGvPregZ75e8PrgB4LLGuPNoL3Ap1Vl"]
-related: ["entity-defensetrust", "concept-threat-intelligence", "issue-facebook-cta", "writing-brand-observations"]
+related: ["entity-defensetrust", "concept-threat-intelligence", "issue-facebook-cta", "writing-brand-observations", "official-news-058", "writing-social-posts"]
 ---
 
 # Facebook：威脅情資持續更新
@@ -30,5 +30,5 @@ related: ["entity-defensetrust", "concept-threat-intelligence", "issue-facebook-
 ## 缺口與問題
 
 - 「了解更多 DefenseTrust」實際網址指向 `/products/trafficshaper`，詳見 [CTA 待確認事項](../issues/facebook-cta.md)。
-- 連到官網 news/58，但該篇尚未 Ingest，不能把連結存在當成已讀取內容。
+- 「更多電子內容」連到官網 [news/58](official-news-058.md)，ingest-002 已讀取：本貼文是該篇的社群摘要版，兩者不算獨立佐證；news/58 的 CTA 正確連到 DefenseTrust 產品頁。
 - 圖片未 OCR；歷史 feed 不完整；未確認絕對發布日期。
