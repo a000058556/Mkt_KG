@@ -77,3 +77,15 @@
 - 核准：新增 claim-threat-intel-volume-current（approved_current）；claim-defensetrust-block-rate 改 approved_current；複審皆 2027-05-01。claim-threat-intel-volume 改 superseded，224 國覆蓋另立 claim-threat-intel-coverage（needs_review）。
 - 撰稿規則：可寫「最新情資保持在百萬筆等級」「有效攔截超過 80% 已知惡意網站」；千萬、億級、約 600 萬不作現行依據；零誤判與 224 國仍待確認。
 - 更新：情資數字 issue、DefenseTrust、雲端平台。
+
+## [2026-11-01] correction | approval-005：224 國核准、零誤判禁用
+
+- 來源：human-2026-11-01-005，使用者原話「涵蓋 224 個國家正確，零誤判／誤報率近乎零不可用可能被過度解釋」，存為新 raw 並加入雜湊基準。
+- 核准：claim-threat-intel-coverage 改 approved_current（複審 2027-05-01）。
+- 禁用：claim-defensetrust-zero-false-positive 改 historical_only，新內容不可使用「零誤判」「誤報率近乎零」。
+- 情資數字 issue 全部項目已處理，頁面改 approved_current；DefenseTrust、雲端平台同步更新。
+
+## [2026-11-01] correction | approval-005 頁面狀態更正
+
+- 前一筆記錄「頁面改 approved_current」不正確：Lint 要求 approved_current 頁面的所有 claims 都已核准，而 issue-threat-intel-figures 仍掛有 superseded 與 historical_only 的歷史 claims。
+- 實際處理：頁面狀態為 source_reported；各項核准由 claim-threat-intel-cadence、claim-threat-intel-volume-current、claim-defensetrust-block-rate、claim-threat-intel-coverage 個別承載。

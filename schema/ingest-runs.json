@@ -153,6 +153,18 @@
       "reference_only_sources": 0,
       "pending_sources": 0,
       "authorization": "User statement 「攔截超過 80%才是正確描述」 recorded verbatim as raw human evidence."
+    },
+    {
+      "id": "approval-005",
+      "date": "2026-11-01",
+      "state": "completed",
+      "sources": [
+        "human-2026-11-01-005"
+      ],
+      "full_text_sources": 1,
+      "reference_only_sources": 0,
+      "pending_sources": 0,
+      "authorization": "User statement 「涵蓋 224 個國家正確，零誤判／誤報率近乎零不可用可能被過度解釋」 recorded verbatim as raw human evidence."
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "source_type": "human_confirmation",
+  "source_id": "human-2026-11-01-005",
+  "confirmed_at": "2026-11-01",
+  "confirmed_by": "key.tsai@uguard.com.tw",
+  "channel": "Claude Code session with the knowledge-base maintainer",
+  "context": "Agent listed two remaining threat-intelligence claims: 「涵蓋 224 個國家（與地區）」 (news/46, 54, 55) and 「零誤判／誤報率近乎零」 (news/13, 18, 41, 54).",
+  "statements_verbatim": [
+    "涵蓋 224 個國家正確，零誤判／誤報率近乎零不可用可能被過度解釋"
+  ],
+  "interpretation": {
+    "224_countries": "approved as correct",
+    "zero_false_positive": "must not be used in new content because it may be over-interpreted"
+  },
+  "not_confirmed": [
+    "Whether the 224 figure includes regions as worded in news/55"
+  ]
+}

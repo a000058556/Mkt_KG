@@ -2855,6 +2855,31 @@
       "ingested_record_sha256": {
         "zh-TW": "2b2ce2e665c4cfb5799a4278fa5c36590d60736fb7d2521f8ac89f8dabffeb33"
       }
+    },
+    {
+      "id": "human-2026-11-01-005",
+      "kind": "human",
+      "title": "使用者確認：224 國正確、零誤判不可用",
+      "url": null,
+      "published_at": "2026-11-01",
+      "source_updated_at": null,
+      "completeness": "full_verbatim_statement",
+      "provenance": "user_confirmation_in_session",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/human/2026-11-01/human-2026-11-01-005/r1.json",
+          "pointer": "",
+          "file_sha256": "0da73fa53ff91458b8e14b4da41728e6738ab03104e014174a5d34adb27f839d",
+          "record_sha256": "57d399409d1cdb759e8b3fb12a7eaf23529ed18b45d49b2f3455508cb8708fea"
+        }
+      },
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/human-2026-11-01-005.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "approval-005",
+      "ingested_record_sha256": {
+        "zh-TW": "57d399409d1cdb759e8b3fb12a7eaf23529ed18b45d49b2f3455508cb8708fea"
+      }
     }
   ]
 }

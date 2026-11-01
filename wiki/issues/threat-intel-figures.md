@@ -2,17 +2,17 @@
 schema_version: "1.0.0"
 id: "issue-threat-intel-figures"
 type: "issue"
-title: "威脅情資數字：已確認口徑與待確認事項"
-summary: "頻率、百萬筆等級與攔截超過 80% 已確認；224 國覆蓋與零誤判仍待確認。"
+title: "威脅情資數字：已核准口徑與禁用說法"
+summary: "情資頻率、量級、224 國與攔截超過 80% 已核准；零誤判不可使用。"
 language: "zh-TW"
-status: "needs_review"
+status: "source_reported"
 created: "2026-11-01"
 updated: "2026-11-01"
-sources: ["human-2026-11-01-004", "human-2026-11-01-003", "human-2026-11-01-002", "human-2026-11-01-001", "official-news-006", "official-news-012", "official-news-013", "official-news-018", "official-news-020", "official-news-024", "official-news-034", "official-news-041", "official-news-046", "official-news-047", "official-news-048", "official-news-054", "official-news-055", "official-news-058", "external-a6b65c2e9d77"]
+sources: ["human-2026-11-01-005", "human-2026-11-01-004", "human-2026-11-01-003", "human-2026-11-01-002", "human-2026-11-01-001", "official-news-006", "official-news-012", "official-news-013", "official-news-018", "official-news-020", "official-news-024", "official-news-034", "official-news-041", "official-news-046", "official-news-047", "official-news-048", "official-news-054", "official-news-055", "official-news-058", "external-a6b65c2e9d77"]
 related: ["entity-defensetrust", "entity-cloud-platforms", "concept-threat-intelligence"]
 ---
 
-# 威脅情資數字：已確認口徑與待確認事項
+# 威脅情資數字：已核准口徑與禁用說法
 
 ## 更新頻率（已確認）
 
@@ -37,7 +37,9 @@ related: ["entity-defensetrust", "entity-cloud-platforms", "concept-threat-intel
 - [使用者確認](../sources/human-2026-11-01-003.md)：**最新情資保持在百萬筆等級**（`claim-threat-intel-volume-current`）。下表「約百萬」「超過 120 萬」量級一致；「上千萬」「破億」「約 600 萬」不作現行依據。
 - [使用者確認](../sources/human-2026-11-01-004.md)：**「攔截超過 80%」是正確描述**（`claim-defensetrust-block-rate`），可寫「有效攔截超過 80% 已知惡意網站」。
 
-仍待確認：「224 個國家（與地區）」覆蓋（`claim-threat-intel-coverage`）與「零誤判／誤報率近乎零」。
+- [使用者確認](../sources/human-2026-11-01-005.md)：**威脅情資涵蓋 224 個國家**（`claim-threat-intel-coverage`）。
+
+**禁用**：「零誤判」「誤報率近乎零」，使用者判定可能被過度解釋；「業界最快」也未經確認，不建議使用。
 
 歷史來源說法：
 
@@ -54,4 +56,4 @@ related: ["entity-defensetrust", "entity-cloud-platforms", "concept-threat-intel
 
 ## 判斷與處置
 
-更新頻率、情資量級與攔截率已依使用者確認處理。224 國覆蓋與誤報率仍沒有人員確認，撰稿不要使用；歷史數字可能對應不同資料層或年份，不得任選一個當現況。[news/58](../sources/official-news-058.md) 完全不用數字、只講流程與日誌，是較安全的寫法。相關頁：[DefenseTrust](../entities/defensetrust.md)、[DefenseCloud](../entities/cloud-platforms.md)。
+本頁的數字都已依使用者確認處理，撰稿只使用上方核准口徑；歷史數字可能對應不同資料層或年份，不得任選一個當現況。[news/58](../sources/official-news-058.md) 完全不用數字、只講流程與日誌，是較安全的寫法。相關頁：[DefenseTrust](../entities/defensetrust.md)、[DefenseCloud](../entities/cloud-platforms.md)。

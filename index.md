@@ -2,7 +2,7 @@
 
 先從產品、議題或寫作頁閱讀；需要查證時沿來源頁追溯 raw。頁面是來源化知識，不代表現行宣稱已核准。
 
-來源登錄 80 筆：全文已 Ingest 60、線索已登記 20、待處理 0。
+來源登錄 81 筆：全文已 Ingest 61、線索已登記 20、待處理 0。
 
 目前進度：[pilot 執行紀錄](schema/ingest-runs.json)；[首次整合發現](wiki/syntheses/pilot-findings.md)。
 
@@ -82,6 +82,7 @@
 - [使用者澄清：情資請求與更新頻率](wiki/sources/human-2026-11-01-002.md) — 每 3 分鐘是 DefenseTrust 的情資請求頻率，情資最晚每小時更新；取代前一筆每小時的寫法。（source_reported）
 - [使用者確認：最新情資保持在百萬筆等級](wiki/sources/human-2026-11-01-003.md) — 2026-11-01 使用者確認最新情資數量保持在百萬筆等級；千萬、億級說法不作現行依據。（source_reported）
 - [使用者確認：攔截超過 80% 為正確描述](wiki/sources/human-2026-11-01-004.md) — 2026-11-01 使用者確認 DefenseTrust「攔截超過 80%」是正確描述；誤報率未確認。（source_reported）
+- [使用者確認：224 國正確、零誤判不可用](wiki/sources/human-2026-11-01-005.md) — 2026-11-01 使用者確認情資涵蓋 224 個國家，並判定「零誤判／誤報率近乎零」不可用。（source_reported）
 - [AgileLink 作為 FortiWAN 替代方案的短文](wiki/sources/official-news-001.md) — 以 FortiWAN 為標題切入，介紹 AgileLink NGWM 的多線路整合與故障移轉說法；無規格或測試條件。（source_reported）
 - [2024 資安大會 C119 攤位公告（僅圖片）](wiki/sources/official-news-002.md) — 三語正文皆只有一張圖片，只能從標題得知參展與攤位號碼。（reference_only）
 - [UGUARD NETWORKS 成立新加坡總公司（僅標題）](wiki/sources/official-news-003.md) — 三語皆無正文文字，只有標題與封面圖路徑，不能據此確認成立日期或細節。（reference_only）
@@ -149,6 +150,6 @@
 - [待確認：DefenseTrust CTA 指向 TrafficShaper](wiki/issues/facebook-cta.md) — 保留來源錯配，撰稿前確認應使用的產品連結。（needs_review）
 - [紀錄：news/45 中英日內容差異](wiki/issues/promotion-language.md) — 中文版多出產品說明段及主動防禦段 AgileLink 條件；依決策 Q8 以繁中為準。（historical_only）
 - [來源覆蓋與缺口](wiki/issues/source-gaps.md) — 76 個來源均已處理：56 全文、20 僅線索；FB 歷史、外部全文與圖片仍缺。（needs_review）
-- [威脅情資數字：已確認口徑與待確認事項](wiki/issues/threat-intel-figures.md) — 頻率、百萬筆等級與攔截超過 80% 已確認；224 國覆蓋與零誤判仍待確認。（needs_review）
+- [威脅情資數字：已核准口徑與禁用說法](wiki/issues/threat-intel-figures.md) — 情資頻率、量級、224 國與攔截超過 80% 已核准；零誤判不可使用。（source_reported）
 - [待確認：活動、修補進度與絕對化宣稱](wiki/issues/time-sensitive-claims.md) — 區分過期、歷史狀態及缺乏測試條件的宣傳措辭。（needs_review）
 - [待修正：英日版翻譯差異](wiki/issues/translation-differences.md) — 英日版的反義、數量級、數字歸屬與增刪段落；依決策 Q8 以繁中為準，但英日網頁需修正。（needs_review）

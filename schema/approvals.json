@@ -40,6 +40,14 @@
       "review_due": "2027-05-01",
       "scope": "可寫「DefenseTrust 有效攔截超過 80% 已知惡意網站」；不涵蓋測試基準、誤報率或其他絕對化用語。",
       "evidence_path": "raw/human/2026-11-01/human-2026-11-01-004/r1.json"
+    },
+    {
+      "claim_id": "claim-threat-intel-coverage",
+      "approved_by": "key.tsai@uguard.com.tw",
+      "approved_at": "2026-11-01",
+      "review_due": "2027-05-01",
+      "scope": "可寫「威脅情資涵蓋 224 個國家」；不涵蓋其他數字或誤報率。",
+      "evidence_path": "raw/human/2026-11-01/human-2026-11-01-005/r1.json"
     }
   ]
 }

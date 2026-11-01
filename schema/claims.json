@@ -229,17 +229,18 @@
     },
     {
       "id": "claim-defensetrust-zero-false-positive",
-      "statement": "「零誤判」「誤報率近乎零」「業界最快」屬絕對化或比較性用語，無測試依據。",
-      "status": "needs_review",
+      "statement": "「零誤判」「誤報率近乎零」只保留為歷史來源用語；使用者 2026-11-01 判定新內容不可使用，可能被過度解釋。「業界最快」同屬未經確認的比較性用語。",
+      "status": "historical_only",
       "sources": [
+        "human-2026-11-01-005",
         "official-news-013",
         "official-news-018",
         "official-news-041",
         "official-news-054"
       ],
-      "locator": "產品說明段",
+      "locator": "raw/human human-2026-11-01-005 r1.json；news/13、18、41、54 產品說明段",
       "page_id": "issue-threat-intel-figures",
-      "as_of": "2026-06-30",
+      "as_of": "2026-11-01",
       "valid_until": null
     },
     {
@@ -605,16 +606,17 @@
     },
     {
       "id": "claim-threat-intel-coverage",
-      "statement": "「情資涵蓋 224 個國家（與地區）」仍為來源說法，未經人員確認。",
-      "status": "needs_review",
+      "statement": "威脅情資涵蓋 224 個國家（使用者 2026-11-01 確認）。",
+      "status": "approved_current",
       "sources": [
+        "human-2026-11-01-005",
         "official-news-046",
         "official-news-054",
         "official-news-055"
       ],
-      "locator": "DefenseCloud 說明段",
+      "locator": "raw/human human-2026-11-01-005 r1.json；news/46、54、55 DefenseCloud 說明段",
       "page_id": "issue-threat-intel-figures",
-      "as_of": "2026-07-22",
+      "as_of": "2026-11-01",
       "valid_until": null
     }
   ]
