@@ -1,0 +1,11 @@
+{
+  "raw/external/requested_sources.json": "fe785ba50a3258e44afb70c69c41f89f905442cbdec6f9aa2a4921ef083f92d8",
+  "raw/facebook/latest_post.json": "4f4bde33334bc1b4dc01492c4a0558f493833c088a376cade9545a82c0755477",
+  "raw/official/api/articles.json": "996ebbb32f60abcf94b4024a02ffb7a322fe74ccb3ff4a8a09ce63af9f563743",
+  "raw/official/api/news-en.json": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+  "raw/official/api/news-jp.json": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+  "raw/official/api/news-links.json": "565e9ca42b64884ccff56c449e4bc4af5b4ff4d10d42779490069a424c4b38e9",
+  "raw/official/api/news-zh-TW.json": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+  "raw/official/robots.txt": "3073d1e371afb3271c7666148766fedc5145f7d8440f7114062db79b7bd58add",
+  "raw/official/sitemap.xml": "1011ab8c9be7c889f7c1722411222582ea542d3868a80dd4744843d752ea6fef"
+}

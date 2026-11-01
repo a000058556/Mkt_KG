@@ -1,0 +1,12 @@
+[
+  {
+    "source_type": "external", "source_url": "https://www.ithome.com.tw/pr/178631", "publisher": "iThome", "author": "廠商新聞稿", "published_at": "2026-09-04", "title": "艾訊攜手UGUARD NETWORKS打造新世代企業網路管理解決方案", "retrieved_on": "2026-11-01", "status": "metadata_and_generated_summary_only", "content_text": null,
+    "generated_summary": "艾訊與 UGUARD 將 NA593 硬體平台和 AgileLink WAN 管理方案結合，介紹大型跨國電子製造企業汰換舊設備的案例。重點包括延續 WAN 與 DNS 服務、重新整理路由及政策，以及保留後續網路介面擴充能力。",
+    "provenance": "Read from the specified iThome article through web retrieval; summary is generated, not raw article text.", "fulltext_requirement": "Provide a company-owned or licensed source manuscript before importing the full third-party article."
+  },
+  {
+    "source_type": "external", "source_url": "https://www.cio.com.tw/109792/", "publisher": "CIO Taiwan", "author": "邁達特", "published_at": "2026-03-31", "title": "邁達特代理 UGUARD NETWORKS，威脅情資 × AI 網路分析 × WAN 網路管理，構築企業主動防禦屏障", "retrieved_on": "2026-11-01", "status": "metadata_and_generated_summary_only", "content_text": null,
+    "generated_summary": "文章介紹邁達特與 UGUARD 的代理合作，將威脅情資、WAN 管理與 AI 網路分析納入企業資安服務。另列新購及設備升級促銷方案；其中兩項優惠的截止日為 2026 年 10 月 31 日，後續撰稿不得直接當作仍有效的優惠。",
+    "provenance": "Read from the specified CIO article through web retrieval; summary is generated, not raw article text.", "fulltext_requirement": "Provide a company-owned or licensed source manuscript before importing the full third-party article."
+  }
+]

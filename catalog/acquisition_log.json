@@ -1,0 +1,42 @@
+[
+  {
+    "file": "raw/official/api/news-en.json",
+    "url": "https://api2.uguardnetworks.com/api/news?lang=en",
+    "retrieved_on": "2026-11-01",
+    "http_status": 200,
+    "method": "curl public unauthenticated GET",
+    "record_count": 60
+  },
+  {
+    "file": "raw/official/api/articles.json",
+    "url": "https://api2.uguardnetworks.com/api/articles?lang=zh-TW",
+    "retrieved_on": "2026-11-01",
+    "http_status": 200,
+    "method": "curl public unauthenticated GET",
+    "record_count": 0
+  },
+  {
+    "file": "raw/official/api/news-jp.json",
+    "url": "https://api2.uguardnetworks.com/api/news?lang=jp",
+    "retrieved_on": "2026-11-01",
+    "http_status": 200,
+    "method": "curl public unauthenticated GET",
+    "record_count": 60
+  },
+  {
+    "file": "raw/official/api/news-links.json",
+    "url": "https://api2.uguardnetworks.com/api/news-links?lang=zh-TW",
+    "retrieved_on": "2026-11-01",
+    "http_status": 200,
+    "method": "curl public unauthenticated GET",
+    "record_count": 14
+  },
+  {
+    "file": "raw/official/api/news-zh-TW.json",
+    "url": "https://api2.uguardnetworks.com/api/news?lang=zh-TW",
+    "retrieved_on": "2026-11-01",
+    "http_status": 200,
+    "method": "curl public unauthenticated GET",
+    "record_count": 60
+  }
+]

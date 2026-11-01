@@ -1,0 +1,14 @@
+{
+  "source_type": "facebook",
+  "source_url": "https://www.facebook.com/uguard888/posts/pfbid0AMmGpcRMbRVaJt5HDHR6Ap49giTEcmR8sXYGvPregZ75e8PrgB4LLGuPNoL3Ap1Vl",
+  "author": "UGUARD NETWORKS",
+  "retrieved_on": "2026-11-01",
+  "published_at": null,
+  "published_label_observed": "3天前",
+  "method": "Public browser page; dismissed login overlay; expanded 查看更多; transcribed visible post text including emoji alt labels.",
+  "status": "full_visible_post_text",
+  "title": "【🔐 威脅情資持續更新，你的防禦跟得上嗎？ 】",
+  "content_text": "【🔐 威脅情資持續更新，你的防禦跟得上嗎？ 】\n惡意 IP、Domain 與網路威脅來源持續變化，企業的防禦也不能只依賴長時間未更新的黑名單。\nUGUARD DefenseTrust 透過持續更新的 IP / Domain 威脅情資，進行分類與比對，當連線命中威脅情資時，可依企業設定的安全策略進行阻擋，並透過日誌掌握命中紀錄與相關連線狀況。\n企業可以更清楚掌握：\n✓ IP / Domain 威脅情資比對\n✓ 威脅情資持續更新\n✓ 命中後依策略進行阻擋\n✓ 從日誌掌握命中與處理結果\n讓威脅情資不只是「查得到」，更能真正落實到企業網路防護。\n👉 更多電子內容：\n🔗 https://www.uguardnetworks.com/news/58\n👉 了解更多 DefenseTrust\n🔗 https://www.uguardnetworks.com/products/trafficshaper\n#UGUARD #DefenseTrust #ThreatIntelligence #CyberSecurity #NetworkSecurity #IPReputation #DomainReputation",
+  "image_page_url": "https://www.facebook.com/photo/?fbid=1644647037447573&set=a.541164721129149",
+  "notes": ["Exact publication timestamp unavailable; do not convert relative label to a confirmed date.", "Original DefenseTrust CTA points to TrafficShaper; retained without correction.", "Image binary and image text not collected; historical feed did not load."]
+}

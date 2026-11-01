@@ -1,0 +1,45 @@
+{
+  "unique_news": 60,
+  "language_records": 180,
+  "per_language": {
+    "zh-TW": {
+      "records": 60,
+      "same_body_as_zh": 0,
+      "low_text_records": [
+        43,
+        31,
+        3,
+        2
+      ]
+    },
+    "en": {
+      "records": 60,
+      "same_body_as_zh": 3,
+      "low_text_records": [
+        31,
+        3,
+        2
+      ]
+    },
+    "jp": {
+      "records": 60,
+      "same_body_as_zh": 4,
+      "low_text_records": [
+        43,
+        31,
+        3,
+        2
+      ]
+    }
+  },
+  "sitemap_news_ids": [],
+  "sitemap_ids_missing_from_api": [],
+  "official_curated_external_references": 14,
+  "unique_external_references_including_requested": 15,
+  "insights_count": 0,
+  "assertions_passed": [
+    "unique article IDs within each language",
+    "all raw news entries have content",
+    "all three language ID sets match"
+  ]
+}
