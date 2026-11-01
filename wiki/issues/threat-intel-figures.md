@@ -2,17 +2,17 @@
 schema_version: "1.0.0"
 id: "issue-threat-intel-figures"
 type: "issue"
-title: "待確認：威脅情資數量與成效數字"
-summary: "更新頻率已確認：情資最晚每小時更新、DefenseTrust 每 3 分鐘請求；筆數與成效數字仍待確認。"
+title: "威脅情資數字：已確認口徑與待確認事項"
+summary: "頻率、百萬筆等級與攔截超過 80% 已確認；224 國覆蓋與零誤判仍待確認。"
 language: "zh-TW"
 status: "needs_review"
 created: "2026-11-01"
 updated: "2026-11-01"
-sources: ["human-2026-11-01-002", "human-2026-11-01-001", "official-news-006", "official-news-012", "official-news-013", "official-news-018", "official-news-020", "official-news-024", "official-news-034", "official-news-041", "official-news-046", "official-news-047", "official-news-048", "official-news-054", "official-news-055", "official-news-058", "external-a6b65c2e9d77"]
+sources: ["human-2026-11-01-004", "human-2026-11-01-003", "human-2026-11-01-002", "human-2026-11-01-001", "official-news-006", "official-news-012", "official-news-013", "official-news-018", "official-news-020", "official-news-024", "official-news-034", "official-news-041", "official-news-046", "official-news-047", "official-news-048", "official-news-054", "official-news-055", "official-news-058", "external-a6b65c2e9d77"]
 related: ["entity-defensetrust", "entity-cloud-platforms", "concept-threat-intelligence"]
 ---
 
-# 待確認：威脅情資數量與成效數字
+# 威脅情資數字：已確認口徑與待確認事項
 
 ## 更新頻率（已確認）
 
@@ -32,6 +32,15 @@ related: ["entity-defensetrust", "entity-cloud-platforms", "concept-threat-intel
 
 ## 數量與成效
 
+已確認（2026-11-01，複審 2027-05-01）：
+
+- [使用者確認](../sources/human-2026-11-01-003.md)：**最新情資保持在百萬筆等級**（`claim-threat-intel-volume-current`）。下表「約百萬」「超過 120 萬」量級一致；「上千萬」「破億」「約 600 萬」不作現行依據。
+- [使用者確認](../sources/human-2026-11-01-004.md)：**「攔截超過 80%」是正確描述**（`claim-defensetrust-block-rate`），可寫「有效攔截超過 80% 已知惡意網站」。
+
+仍待確認：「224 個國家（與地區）」覆蓋（`claim-threat-intel-coverage`）與「零誤判／誤報率近乎零」。
+
+歷史來源說法：
+
 | 說法 | 來源 |
 |---|---|
 | 全球情資上千萬筆 | [news/6](../sources/official-news-006.md) |
@@ -45,4 +54,4 @@ related: ["entity-defensetrust", "entity-cloud-platforms", "concept-threat-intel
 
 ## 判斷與處置
 
-更新頻率已解決。其餘數字可能對應不同產品、方案、資料層（全量情資、分類名單、比對容量）或不同年份，也可能只是文案差異；來源沒有說明。撰稿不得任選一個當現況，須由產品確認現行數字、口徑與適用方案，並標明時間。[news/58](../sources/official-news-058.md) 完全不用數字、只講流程與日誌，是較安全的寫法。相關頁：[DefenseTrust](../entities/defensetrust.md)、[DefenseCloud](../entities/cloud-platforms.md)。
+更新頻率、情資量級與攔截率已依使用者確認處理。224 國覆蓋與誤報率仍沒有人員確認，撰稿不要使用；歷史數字可能對應不同資料層或年份，不得任選一個當現況。[news/58](../sources/official-news-058.md) 完全不用數字、只講流程與日誌，是較安全的寫法。相關頁：[DefenseTrust](../entities/defensetrust.md)、[DefenseCloud](../entities/cloud-platforms.md)。

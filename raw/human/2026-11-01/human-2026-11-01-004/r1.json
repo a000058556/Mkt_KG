@@ -1,0 +1,20 @@
+{
+  "source_type": "human_confirmation",
+  "source_id": "human-2026-11-01-004",
+  "confirmed_at": "2026-11-01",
+  "confirmed_by": "key.tsai@uguard.com.tw",
+  "channel": "Claude Code session with the knowledge-base maintainer",
+  "context": "Agent listed unconfirmed effectiveness claims: 「有效攔截超過 80% 已知惡意網站」 (news/18, 20, 41, 54) and 「零誤判／誤報率近乎零」.",
+  "statements_verbatim": [
+    "攔截超過 80%才是正確描述"
+  ],
+  "interpretation": {
+    "approved_wording": "DefenseTrust 攔截超過 80%（來源原句的對象為「已知惡意網站」）",
+    "implication": "Use the >80% wording instead of absolute blocking claims; the statement does not confirm zero or near-zero false positives."
+  },
+  "not_confirmed": [
+    "Test baseline or measurement period",
+    "Zero / near-zero false positives",
+    "224 countries coverage"
+  ]
+}

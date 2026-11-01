@@ -20,7 +20,7 @@ related: ["entity-uguard", "concept-threat-intelligence", "entity-defensetrust",
 - 角色：UGUARD 自建情資雲與獵捕系統，以蜜罐與欺敵技術誘導攻擊者、蒐集情資，整合開源與第三方情資後匯入 [DefenseTrust](defensetrust.md)（[news/17](../sources/official-news-017.md)、[news/18](../sources/official-news-018.md)、[news/20](../sources/official-news-020.md)）。[news/41](../sources/official-news-041.md)、[news/46](../sources/official-news-046.md) 稱其為 SaaS 威脅情資服務平台。
 - 訂閱方案（[news/46](../sources/official-news-046.md)，2026-04）：個人／小型企業「查詢月訂閱制」Pro 套餐（稱每小時更新）；企業版 Enterprise_Custom 完全客製化 TI 雲端服務、「依需求提供無限制資料量」，洽業務。媒體同稿見 [iThome PR](../sources/external-37c35327340f.md)。
 - 服務形式（[news/54](../sources/official-news-054.md)，2026-06）：全球情資即時查詢、結合 DefenseTrust、訂閱制情資服務、情資買斷／年度服務；媒體以「發表 DefenseCloud 與 Defense Trust 整合方案」報導，見 [資安人](../sources/external-b7bcc1e07edf.md)。
-- 覆蓋：「224 個國家（與地區）」（[news/46](../sources/official-news-046.md)、[news/54](../sources/official-news-054.md)、[news/55](../sources/official-news-055.md)）。經使用者確認，情資最晚每小時更新，DefenseTrust 每 3 分鐘請求一次（[澄清](../sources/human-2026-11-01-002.md)）；筆數在各篇不同，見 [情資數字](../issues/threat-intel-figures.md)。
+- 覆蓋：「224 個國家（與地區）」（[news/46](../sources/official-news-046.md)、[news/54](../sources/official-news-054.md)、[news/55](../sources/official-news-055.md)）。經使用者確認，情資最晚每小時更新，DefenseTrust 每 3 分鐘請求一次（[澄清](../sources/human-2026-11-01-002.md)）；最新情資保持在百萬筆等級（[確認](../sources/human-2026-11-01-003.md)）。224 國覆蓋仍待確認，見 [情資數字](../issues/threat-intel-figures.md)。
 
 ## AgileCloud
 

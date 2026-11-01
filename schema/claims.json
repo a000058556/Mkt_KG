@@ -194,8 +194,8 @@
     },
     {
       "id": "claim-threat-intel-volume",
-      "statement": "情資筆數（上千萬、破億 IP、約 600 萬／100 萬、約百萬、120 萬）與 224 國覆蓋說法口徑不一；不得任選一個當現況。",
-      "status": "needs_review",
+      "statement": "情資筆數（上千萬、破億 IP、約 600 萬／100 萬、約百萬、120 萬）與 224 國覆蓋說法口徑不一；不得任選一個當現況。 2026-11-01 使用者確認最新情資保持在百萬筆等級，見 claim-threat-intel-volume-current；224 國覆蓋另列 claim-threat-intel-coverage。",
+      "status": "superseded",
       "sources": [
         "official-news-006",
         "official-news-012",
@@ -213,17 +213,18 @@
     },
     {
       "id": "claim-defensetrust-block-rate",
-      "statement": "DefenseTrust「有效攔截超過 80% 已知惡意網站」；未提供測試基準與時間。",
-      "status": "source_reported",
+      "statement": "DefenseTrust 有效攔截超過 80% 已知惡意網站（使用者 2026-11-01 確認「攔截超過 80%」為正確描述）；不得改寫成全面攔截、徹底防堵或零誤判。",
+      "status": "approved_current",
       "sources": [
+        "human-2026-11-01-004",
         "official-news-018",
         "official-news-020",
         "official-news-041",
         "official-news-054"
       ],
-      "locator": "產品特色段",
+      "locator": "raw/human human-2026-11-01-004 r1.json；news/18、20、41、54 產品特色段",
       "page_id": "entity-defensetrust",
-      "as_of": "2026-06-30",
+      "as_of": "2026-11-01",
       "valid_until": null
     },
     {
@@ -586,6 +587,34 @@
       "locator": "raw/human human-2026-11-01-002 r1.json statements_verbatim[0]",
       "page_id": "issue-threat-intel-figures",
       "as_of": "2026-11-01",
+      "valid_until": null
+    },
+    {
+      "id": "claim-threat-intel-volume-current",
+      "statement": "最新情資數量保持在百萬筆等級（使用者 2026-11-01 確認）；「上千萬」「破億」「約 600 萬」等說法不作現行依據。",
+      "status": "approved_current",
+      "sources": [
+        "human-2026-11-01-003",
+        "official-news-024",
+        "official-news-034"
+      ],
+      "locator": "raw/human human-2026-11-01-003 r1.json statements_verbatim[0]",
+      "page_id": "issue-threat-intel-figures",
+      "as_of": "2026-11-01",
+      "valid_until": null
+    },
+    {
+      "id": "claim-threat-intel-coverage",
+      "statement": "「情資涵蓋 224 個國家（與地區）」仍為來源說法，未經人員確認。",
+      "status": "needs_review",
+      "sources": [
+        "official-news-046",
+        "official-news-054",
+        "official-news-055"
+      ],
+      "locator": "DefenseCloud 說明段",
+      "page_id": "issue-threat-intel-figures",
+      "as_of": "2026-07-22",
       "valid_until": null
     }
   ]

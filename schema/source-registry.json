@@ -2805,6 +2805,56 @@
       "ingested_record_sha256": {
         "zh-TW": "0545254a37e0bf3f4b111473def80e1506d0bcc9edafa1b4e6fc9a4a8485c4af"
       }
+    },
+    {
+      "id": "human-2026-11-01-003",
+      "kind": "human",
+      "title": "使用者確認：最新情資保持在百萬筆等級",
+      "url": null,
+      "published_at": "2026-11-01",
+      "source_updated_at": null,
+      "completeness": "full_verbatim_statement",
+      "provenance": "user_confirmation_in_session",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/human/2026-11-01/human-2026-11-01-003/r1.json",
+          "pointer": "",
+          "file_sha256": "2a25f5da237dfa4c33e0f12b8f257cbe3bca0cb3979fd3b5be7c8157eb16d0cc",
+          "record_sha256": "1a3a3f434d9c9ca95bc40ab0496ac706bdf395649ff18eff83f1e4ebdcf85ab5"
+        }
+      },
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/human-2026-11-01-003.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "approval-003",
+      "ingested_record_sha256": {
+        "zh-TW": "1a3a3f434d9c9ca95bc40ab0496ac706bdf395649ff18eff83f1e4ebdcf85ab5"
+      }
+    },
+    {
+      "id": "human-2026-11-01-004",
+      "kind": "human",
+      "title": "使用者確認：攔截超過 80% 為正確描述",
+      "url": null,
+      "published_at": "2026-11-01",
+      "source_updated_at": null,
+      "completeness": "full_verbatim_statement",
+      "provenance": "user_confirmation_in_session",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/human/2026-11-01/human-2026-11-01-004/r1.json",
+          "pointer": "",
+          "file_sha256": "87217ce05656c187e0b989b315e1e939ae73c3679cf8cea54650818ca62866c4",
+          "record_sha256": "2b2ce2e665c4cfb5799a4278fa5c36590d60736fb7d2521f8ac89f8dabffeb33"
+        }
+      },
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/human-2026-11-01-004.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "approval-004",
+      "ingested_record_sha256": {
+        "zh-TW": "2b2ce2e665c4cfb5799a4278fa5c36590d60736fb7d2521f8ac89f8dabffeb33"
+      }
     }
   ]
 }

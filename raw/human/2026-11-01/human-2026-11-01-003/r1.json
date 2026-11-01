@@ -1,0 +1,21 @@
+{
+  "source_type": "human_confirmation",
+  "source_id": "human-2026-11-01-003",
+  "confirmed_at": "2026-11-01",
+  "confirmed_by": "key.tsai@uguard.com.tw",
+  "channel": "Claude Code session with the knowledge-base maintainer",
+  "context": "Agent reported threat-intelligence volume claims still unconfirmed: 上千萬 (news/6), 破億 IP (news/12), 約 600 萬／13 類約 100 萬 (news/20), 約百萬 (news/24), 120 萬 (news/34).",
+  "statements_verbatim": [
+    "最新情資保持在百萬"
+  ],
+  "interpretation": {
+    "最新情資": "the current (latest) threat-intelligence set",
+    "保持在百萬": "volume is maintained at the one-million-entry level"
+  },
+  "not_confirmed": [
+    "Exact count or unit (IP, domain, entries)",
+    "224 countries coverage",
+    "Over 80% block rate",
+    "Zero / near-zero false positives"
+  ]
+}

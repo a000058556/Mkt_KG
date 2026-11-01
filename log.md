@@ -70,3 +70,10 @@
 - 核准：新增 claim-threat-intel-cadence（approved_current，複審 2027-05-01）；claim-threat-intel-hourly 改 superseded，原核准紀錄保留為歷史。
 - 撰稿規則：可寫「DefenseTrust 每 3 分鐘請求情資、情資最晚每小時更新」，不可寫「情資每 3 分鐘更新」。
 - 更新：情資數字 issue、DefenseTrust、雲端平台、human-2026-11-01-001 來源頁。
+
+## [2026-11-01] correction | approval-003／004：情資量級與攔截率確認
+
+- 來源：human-2026-11-01-003「最新情資保持在百萬」；human-2026-11-01-004「攔截超過 80%才是正確描述」。兩筆原話各存為新 raw 並加入雜湊基準。
+- 核准：新增 claim-threat-intel-volume-current（approved_current）；claim-defensetrust-block-rate 改 approved_current；複審皆 2027-05-01。claim-threat-intel-volume 改 superseded，224 國覆蓋另立 claim-threat-intel-coverage（needs_review）。
+- 撰稿規則：可寫「最新情資保持在百萬筆等級」「有效攔截超過 80% 已知惡意網站」；千萬、億級、約 600 萬不作現行依據；零誤判與 224 國仍待確認。
+- 更新：情資數字 issue、DefenseTrust、雲端平台。

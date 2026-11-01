@@ -129,6 +129,30 @@
       "reference_only_sources": 0,
       "pending_sources": 0,
       "authorization": "User clarification 「每3分鐘是dt的情資請求頻率，情資最晚是每小時更新」 recorded verbatim as raw human evidence."
+    },
+    {
+      "id": "approval-003",
+      "date": "2026-11-01",
+      "state": "completed",
+      "sources": [
+        "human-2026-11-01-003"
+      ],
+      "full_text_sources": 1,
+      "reference_only_sources": 0,
+      "pending_sources": 0,
+      "authorization": "User statement 「最新情資保持在百萬」 recorded verbatim as raw human evidence."
+    },
+    {
+      "id": "approval-004",
+      "date": "2026-11-01",
+      "state": "completed",
+      "sources": [
+        "human-2026-11-01-004"
+      ],
+      "full_text_sources": 1,
+      "reference_only_sources": 0,
+      "pending_sources": 0,
+      "authorization": "User statement 「攔截超過 80%才是正確描述」 recorded verbatim as raw human evidence."
     }
   ]
 }
