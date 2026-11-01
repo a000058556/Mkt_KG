@@ -11,7 +11,7 @@ class WikiChecks(unittest.TestCase):
         shutil.copytree(ORIGINAL,self.root,ignore=shutil.ignore_patterns('__pycache__','.git'))
         w.ROOT=self.root
     def tearDown(self):w.ROOT=ORIGINAL;self.temp.cleanup()
-    def errors(self):return '\n'.join(w.lint('2026-11-01')['errors'])
+    def errors(self):return '\n'.join(w.lint(w.today())['errors'])
     def edit_json(self,path,fn):
         p=self.root/path;o=json.loads(p.read_text(encoding='utf-8'));fn(o);p.write_text(json.dumps(o,ensure_ascii=False),encoding='utf-8',newline='\n')
     def test_clean(self):self.assertEqual(self.errors(),'')

@@ -25,7 +25,7 @@ related: ["writing-brand-observations", "concept-wan-resilience", "concept-threa
 
 ## 可執行範本
 
-使用 [產品文章範本](../../templates/product-article.md)。範本為 Agent 歸納，沒有自行核准的產品承諾。寫作語氣見 [品牌觀察](brand-observations.md)。
+使用 [產品文章範本](../../templates/product-article.md)。要用 AI 結合時事一次產出官網、Facebook、LINE 三篇稿件時，使用 [時事多渠道撰稿提示詞](../../templates/multichannel-campaign-prompt.md)。範本為 Agent 歸納，沒有自行核准的產品承諾。寫作語氣見 [品牌觀察](brand-observations.md)。
 
 ## 更多結構範例
 

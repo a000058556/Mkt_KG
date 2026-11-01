@@ -115,3 +115,9 @@
 - 問題：依 10 月最新時事撰寫 DefenseTrust 推廣文章三個範例。
 - 時事來源：iThome〈資安週報 1019～1022〉2026-10-23（微軟打擊網釣服務、Talos 揭露 UAT-11985 活動邀請網釣、Symantec 揭露 APT28 HookEdge 反向連線），2026-11-01 讀取；原始廠商報告未直接核對。PHP2Shell 疑與 UGUARD 自家產品受影響的 CVE 同一事件，未採用。
 - 產出：drafts/2026-11-01-defensetrust-october-001（官網文）、002（社群貼文）、003（客戶 EDM），status draft，只使用 approved_current 口徑並列出待確認欄位。未對外發布。
+
+## [2026-11-02] query | 新增時事多渠道撰稿提示詞範本
+
+- 依使用者要求，把現場展示用的提示詞存為 templates/multichannel-campaign-prompt.md，渠道為官網文章、Facebook、LINE（IG 已改為官網文章）。
+- 提示詞要求 AI 只使用 approved_current 的說法、不得編造時事與連結、附查核表，並把產出存入 drafts。本檔是範本，不是來源。
+- 在產品文章寫法頁加上連結。
