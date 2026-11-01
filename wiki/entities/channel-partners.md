@@ -8,7 +8,7 @@ language: "zh-TW"
 status: "source_reported"
 created: "2026-11-01"
 updated: "2026-11-01"
-sources: ["official-featured-partners", "official-news-009", "official-news-029", "official-news-030", "official-news-045", "human-2026-11-01-007"]
+sources: ["official-featured-partners", "official-news-009", "official-news-029", "official-news-030", "official-news-045", "human-2026-11-01-007", "human-2026-11-01-009"]
 related: ["entity-metaage", "entity-innotel", "entity-shuoyu", "entity-uguard"]
 ---
 
@@ -29,7 +29,7 @@ related: ["entity-metaage", "entity-innotel", "entity-shuoyu", "entity-uguard"]
 
 ## 與歷年公告的差異
 
-- [朔宇科技](shuoyu.md) 2025-07 簽署代理合作（[news/29](../sources/official-news-029.md)、[news/30](../sources/official-news-030.md)），但不在 2026-11-01 的官網清單上。未列不等於終止，撰稿時不要寫成現任代理，也不要寫成已終止；需業務確認。
+- [朔宇科技](shuoyu.md) 2025-07 簽署代理合作（[news/29](../sources/official-news-029.md)、[news/30](../sources/official-news-030.md)），但不在 2026-11-01 的官網清單上；[使用者確認](../sources/human-2026-11-01-009.md)已從代理商中除名（`claim-shuoyu-removed`）。
 - 敦新、創泓、Sysnect、SecureOne 只出現在官網夥伴頁，沒有合作公告或日期。
 
 ## 撰稿使用

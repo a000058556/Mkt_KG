@@ -213,6 +213,18 @@
       "reference_only_sources": 0,
       "pending_sources": 0,
       "authorization": "User instruction 「代理商狀況請去官網及時確認」; public official API fetched as a new snapshot, existing raw untouched."
+    },
+    {
+      "id": "approval-009",
+      "date": "2026-11-01",
+      "state": "completed",
+      "sources": [
+        "human-2026-11-01-009"
+      ],
+      "full_text_sources": 1,
+      "reference_only_sources": 0,
+      "pending_sources": 0,
+      "authorization": "User statement 「朔宇已從代理商中除名，Jason Yen是公司老闆不用特別描述，舊文章不修改」 recorded verbatim as raw human evidence."
     }
   ]
 }

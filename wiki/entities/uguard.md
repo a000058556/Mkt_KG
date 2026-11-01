@@ -8,7 +8,7 @@ language: "zh-TW"
 status: "source_reported"
 created: "2026-11-01"
 updated: "2026-11-01"
-sources: ["official-news-045", "official-news-056", "official-news-003", "official-news-009", "official-news-011", "official-news-017", "official-news-024", "official-news-029", "official-news-032", "official-news-037", "official-news-041", "external-fb73abcbfef6", "official-featured-partners"]
+sources: ["official-news-045", "official-news-056", "official-news-003", "official-news-009", "official-news-011", "official-news-017", "official-news-024", "official-news-029", "official-news-032", "official-news-037", "official-news-041", "external-fb73abcbfef6", "official-featured-partners", "human-2026-11-01-009"]
 related: ["entity-metaage", "entity-agilelink", "entity-defensetrust", "entity-cloud-platforms", "event-singapore-hq", "issue-content-inconsistencies", "synthesis-messaging-timeline", "entity-aaeon", "entity-axiomtek", "entity-shuoyu", "entity-innotel", "event-health-check-campaign", "entity-channel-partners"]
 ---
 
@@ -26,10 +26,10 @@ related: ["entity-metaage", "entity-agilelink", "entity-defensetrust", "entity-c
 - 產品線：2025-03 列 AgileLink、Traffic Shaper、SD-WAN、DefenseTrust（[news/17](../sources/official-news-017.md)）；2025-05 列六大解決方案，加入 [X-View](x-view.md) 與 AI 小助手（[news/24](../sources/official-news-024.md)）；2025-09 列七大解決方案，加入 Defense Cloud 與 AI 情資報告分析報表（[news/32](../sources/official-news-032.md)）。演進見 [訊息時間軸](../syntheses/messaging-timeline.md)。
 - 公司里程碑：新加坡公司／總部與 STARLINK 整合宣告見 [新加坡總部](../events/singapore-hq.md)；台灣區老客戶健檢見 [健檢活動](../events/health-check-campaign.md)。
 - 夥伴：硬體 [AAEON](aaeon.md)、[艾訊](axiomtek.md)；通路夥伴現況見 [通路與代理夥伴](channel-partners.md)（官網 2026-11-01：台灣邁達特、敦新、創泓；越南 Innotel；泰國 Sysnect；馬來西亞 SecureOne）；歷年另有 [朔宇科技](shuoyu.md)。
-- 人員：多篇記錄執行長 Jason Yen（[news/11](../sources/official-news-011.md)、[news/24](../sources/official-news-024.md)、[news/29](../sources/official-news-029.md)），2025-06 記錄總經理 James Chang（[news/29](../sources/official-news-029.md)）。
+- 人員：Jason Yen 是公司老闆（[確認](../sources/human-2026-11-01-009.md)），新稿不需特別描述職稱；舊文章寫「執行長」或「營運總監」不再處理。2025-06 另記錄總經理 James Chang（[news/29](../sources/official-news-029.md)），現況未確認。
 - 邁達特端新聞稿稱 UGUARD 為「新加坡網路安全領導品牌」（[iThome PR](../sources/external-fb73abcbfef6.md)），屬夥伴端宣傳用語，未核准。
 
-職稱、設立日與分公司說法互有出入，見 [內容不一致](../issues/content-inconsistencies.md)。
+設立日與分公司說法互有出入，見 [內容不一致](../issues/content-inconsistencies.md)。
 
 ## 使用邊界
 

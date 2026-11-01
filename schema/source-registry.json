@@ -2995,6 +2995,31 @@
         "en": "6a68e52006fbdccf7561cc02e0b76d50c68053e76c737b4738040a2451368a4b",
         "jp": "b8c1e12a53636f5ad749cbd25bb89a162df6dcae985ee34ce57f4f889e45343b"
       }
+    },
+    {
+      "id": "human-2026-11-01-009",
+      "kind": "human",
+      "title": "使用者確認：朔宇除名、Jason Yen 職稱不另描述、舊文章不修改",
+      "url": null,
+      "published_at": "2026-11-01",
+      "source_updated_at": null,
+      "completeness": "full_verbatim_statement",
+      "provenance": "user_confirmation_in_session",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/human/2026-11-01/human-2026-11-01-009/r1.json",
+          "pointer": "",
+          "file_sha256": "e275ee169b0b23fdf70d05ebcb6870354da0da1edd291771b3912d071c2ff149",
+          "record_sha256": "7c222880faf61c924961649699d616420ec3fa4c2ea100f9471e887f108a68a8"
+        }
+      },
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/human-2026-11-01-009.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "approval-009",
+      "ingested_record_sha256": {
+        "zh-TW": "7c222880faf61c924961649699d616420ec3fa4c2ea100f9471e887f108a68a8"
+      }
     }
   ]
 }

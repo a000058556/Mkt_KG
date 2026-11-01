@@ -1,0 +1,20 @@
+{
+  "source_type": "human_confirmation",
+  "source_id": "human-2026-11-01-009",
+  "confirmed_at": "2026-11-01",
+  "confirmed_by": "key.tsai@uguard.com.tw",
+  "channel": "Claude Code session with the knowledge-base maintainer",
+  "context": "Agent listed remaining open items: Shuoyu not on the official featured-partner list; Jason Yen titles inconsistent (執行長／營運總監); whether to fix old website articles (translation errors, superseded wording).",
+  "statements_verbatim": [
+    "朔宇已從代理商中除名，Jason Yen是公司老闆不用特別描述，舊文章不修改"
+  ],
+  "interpretation": {
+    "shuoyu": "Shuoyu (PETACOM) has been removed from UGUARD distributors",
+    "jason_yen": "Jason Yen is the company owner; no need to describe a specific title, so historical title inconsistency needs no resolution",
+    "old_articles": "existing website articles will not be edited; issues stay recorded in the wiki only"
+  },
+  "not_confirmed": [
+    "Date of Shuoyu removal",
+    "Formal title to use if one is required"
+  ]
+}

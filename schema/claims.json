@@ -326,8 +326,8 @@
     },
     {
       "id": "claim-executive-titles",
-      "statement": "Jason Yen 多篇為執行長、news/30 圖說為營運總監；James Chang 2025-06 為總經理；人員職稱需當次確認。",
-      "status": "needs_review",
+      "statement": "Jason Yen 多篇為執行長、news/30 圖說為營運總監；James Chang 2025-06 為總經理；人員職稱需當次確認。 2026-11-01 使用者確認 Jason Yen 為公司老闆、不需特別描述職稱，見 claim-jason-yen-role。",
+      "status": "superseded",
       "sources": [
         "official-news-011",
         "official-news-024",
@@ -511,7 +511,7 @@
     },
     {
       "id": "claim-channel-partners",
-      "statement": "2026-11-01 官網精選合作夥伴列出：台灣邁達特、敦新科技、創泓科技；越南 INNOTEL；泰國 Sysnect；馬來西亞 SecureOne。朔宇科技未列於該頁；未列不代表合作已終止。",
+      "statement": "2026-11-01 官網精選合作夥伴列出：台灣邁達特、敦新科技、創泓科技；越南 INNOTEL；泰國 Sysnect；馬來西亞 SecureOne。朔宇科技未列於該頁，使用者確認已除名（claim-shuoyu-removed）。",
       "status": "source_reported",
       "sources": [
         "official-featured-partners",
@@ -527,9 +527,10 @@
     },
     {
       "id": "claim-translation-errors",
-      "statement": "英日版存在反義（news/5）、數量級（news/12）與數字歸屬（news/20）等翻譯錯誤；以繁中為準，英日網頁待修正。",
-      "status": "needs_review",
+      "statement": "英日版存在反義（news/5）、數量級（news/12）與數字歸屬（news/20）等翻譯錯誤；以繁中為準，英日網頁待修正。 使用者 2026-11-01 決定舊文章不修改；撰稿以繁中與核准口徑為準。",
+      "status": "historical_only",
       "sources": [
+        "human-2026-11-01-009",
         "official-news-005",
         "official-news-012",
         "official-news-020"
@@ -645,6 +646,36 @@
       ],
       "locator": "raw/human human-2026-11-01-008 r1.json statements_verbatim[0]",
       "page_id": "entity-agileshaper",
+      "as_of": "2026-11-01",
+      "valid_until": null
+    },
+    {
+      "id": "claim-shuoyu-removed",
+      "statement": "朔宇科技已從 UGUARD 代理商中除名（使用者 2026-11-01 確認）；2025-07 簽約只作歷史紀錄。",
+      "status": "approved_current",
+      "sources": [
+        "human-2026-11-01-009",
+        "official-featured-partners",
+        "official-news-029",
+        "official-news-030"
+      ],
+      "locator": "raw/human human-2026-11-01-009 r1.json statements_verbatim[0]",
+      "page_id": "entity-shuoyu",
+      "as_of": "2026-11-01",
+      "valid_until": null
+    },
+    {
+      "id": "claim-jason-yen-role",
+      "statement": "Jason Yen 是公司老闆（使用者 2026-11-01 確認）；新稿不需特別描述職稱，歷年「執行長」「營運總監」差異不需處理。",
+      "status": "approved_current",
+      "sources": [
+        "human-2026-11-01-009",
+        "official-news-024",
+        "official-news-029",
+        "official-news-030"
+      ],
+      "locator": "raw/human human-2026-11-01-009 r1.json statements_verbatim[0]",
+      "page_id": "entity-uguard",
       "as_of": "2026-11-01",
       "valid_until": null
     }

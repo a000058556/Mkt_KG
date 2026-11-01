@@ -102,3 +102,10 @@
 - 核准：claim-tradein-promotion 改 approved_current；新增 claim-agileshaper-relation；複審皆 2027-05-01。
 - ingest-003：依指示擷取官網 /api/featured-partners 三語，存為 raw/official/2026-11-01/official-featured-partners/（含擷取紀錄），登錄來源並建立 entity-channel-partners。官網列出邁達特、敦新、創泓、INNOTEL、Sysnect、SecureOne；朔宇未列，未推論終止。
 - claim-channel-partners 依官網快照更新（source_reported，as_of 2026-11-01）；邁達特、Innotel、朔宇、UGUARD、汰舊換新相關頁同步更新；新增 8 個別名。
+
+## [2026-11-01] correction | approval-009：朔宇除名、Jason Yen 職稱、舊文章不修改（決策 Q10）
+
+- 來源：human-2026-11-01-009，使用者原話「朔宇已從代理商中除名，Jason Yen是公司老闆不用特別描述，舊文章不修改」，存為新 raw 並加入雜湊基準。
+- 核准：claim-shuoyu-removed、claim-jason-yen-role（approved_current，複審 2027-05-01）；claim-executive-titles 改 superseded；claim-translation-errors 改 historical_only；claim-channel-partners 更新朔宇狀態。
+- 決策 Q10：官網既有文章不修改；問題只記錄在 Wiki，新稿以核准口徑為準。翻譯差異 issue 改 historical_only。
+- 更新：朔宇、通路夥伴、朔宇合作、UGUARD、內容不一致、翻譯差異、情資數字頁。

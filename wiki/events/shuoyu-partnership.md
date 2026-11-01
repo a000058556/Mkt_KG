@@ -8,7 +8,7 @@ language: "zh-TW"
 status: "historical_only"
 created: "2026-11-01"
 updated: "2026-11-01"
-sources: ["official-news-029", "official-news-030", "external-b8eefd2576c2"]
+sources: ["official-news-029", "official-news-030", "external-b8eefd2576c2", "human-2026-11-01-009"]
 related: ["entity-shuoyu", "writing-partnership-announcement", "issue-content-inconsistencies"]
 ---
 
@@ -30,5 +30,6 @@ related: ["entity-shuoyu", "writing-partnership-announcement", "issue-content-in
 ## 限制
 
 - [news/29](../sources/official-news-029.md) 是預告稿，朔宇總經理引言卻用「今天……完成簽約」的現場口吻。
-- Jason Yen 在 [news/29](../sources/official-news-029.md) 為「執行長」，[news/30](../sources/official-news-030.md) 圖說寫「營運總監」。兩者見 [內容不一致](../issues/content-inconsistencies.md)。
+- Jason Yen 在兩篇職稱不同；[使用者確認](../sources/human-2026-11-01-009.md)他是公司老闆，新稿不需描述職稱。
+- 朔宇科技已從代理商中除名（同一確認），本頁只作歷史紀錄。
 - 媒體標題「打造企業零時差安全防護」屬絕對化用語。
