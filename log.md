@@ -56,3 +56,10 @@
 - 頁面：新增 71 來源頁、27 主題頁；更新 16 既有頁；claims 12→39；共 120 頁。
 - 發現：情資數字不一、英日翻譯錯誤、職稱與設立日不一致、ISO／NGFW 用語過強、健檢活動至 2026-12-31、AgileShaper 狀態未知。
 - 詳見 [ingest-002 報告](reports/2026-11-01-ingest-002.md)、[lint-005](reports/2026-11-01-lint-005.json)。未核准任何現行宣稱；語意檢查為抽查。
+
+## [2026-11-01] ingest | approval-001：使用者確認情資頻率與健檢活動
+
+- 來源：human-2026-11-01-001，使用者原話「情資是每小時更新」「健檢活動還有在辦」，存為新 raw（raw/human/2026-11-01/human-2026-11-01-001/r1.json）並加入 raw 雜湊基準。
+- 核准：claim-threat-intel-hourly（approved_current，複審 2027-05-01）；claim-health-check-campaign 改 approved_current（複審 2026-12-31）。舊的更新頻率矛盾 claim 改 superseded。
+- 頁面：情資數字 issue 改為只追蹤筆數與成效數字；健檢活動頁 approved_current；DefenseTrust、雲端平台、時效 issue 同步更新。
+- 範圍限制：未確認每小時涵蓋的產品／方案、情資筆數與攔截率；健檢資格與名額未確認。

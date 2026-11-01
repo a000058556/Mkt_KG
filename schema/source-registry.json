@@ -2755,6 +2755,31 @@
       "ingested_record_sha256": {
         "zh-TW": "a918c3aab20bed176631b0a9b6ffb1935b2e166d97262911df6315b5fd00a4a2"
       }
+    },
+    {
+      "id": "human-2026-11-01-001",
+      "kind": "human",
+      "title": "使用者確認：情資每小時更新、健檢活動仍在辦理",
+      "url": null,
+      "published_at": "2026-11-01",
+      "source_updated_at": null,
+      "completeness": "full_verbatim_statement",
+      "provenance": "user_confirmation_in_session",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/human/2026-11-01/human-2026-11-01-001/r1.json",
+          "pointer": "",
+          "file_sha256": "ddabd3e2d8e5f0ae62b6cb2054021476330f83dbfe3e1008141563a944dda139",
+          "record_sha256": "9b9249258b100ec8f76e2edef2a1eae254073504dd970320ace42d9f99561d95"
+        }
+      },
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/human-2026-11-01-001.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "approval-001",
+      "ingested_record_sha256": {
+        "zh-TW": "9b9249258b100ec8f76e2edef2a1eae254073504dd970320ace42d9f99561d95"
+      }
     }
   ]
 }

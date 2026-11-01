@@ -36,7 +36,7 @@ related: ["concept-threat-intelligence", "issue-facebook-cta", "issue-time-sensi
 
 適用客群在不同篇寫法不同：政府、醫療、大型企業內網（[news/34](../sources/official-news-034.md)），政府、金融、跨國企業、大型製造業（[news/41](../sources/official-news-041.md)）。與防火牆的關係見 [補強 NGFW](../concepts/ngfw-complement.md)；合規說法見 [ISO 27001](../concepts/iso-27001.md)。
 
-更新頻率、情資筆數、攔截率（＞80%）與「零誤判」在各篇互相不一致，統一列在 [情資數字待確認](../issues/threat-intel-figures.md)，撰稿不得任選一個當現況。
+情資更新頻率經 [使用者確認](../sources/human-2026-11-01-001.md)為**每小時**（2026-11-01）。情資筆數、攔截率（＞80%）與「零誤判」在各篇仍互相不一致，列在 [情資數字待確認](../issues/threat-intel-figures.md)，撰稿不得任選一個當現況。
 
 ## 跨來源的語氣差異
 

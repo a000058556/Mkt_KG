@@ -173,8 +173,8 @@
     },
     {
       "id": "claim-threat-intel-update-frequency",
-      "statement": "DefenseTrust／DefenseCloud 情資更新頻率在各篇寫成每小時、每日、每分／日或每 3 分鐘，互不一致；現行頻率與適用方案待產品確認。",
-      "status": "needs_review",
+      "statement": "DefenseTrust／DefenseCloud 情資更新頻率在各篇寫成每小時、每日、每分／日或每 3 分鐘，互不一致；現行頻率與適用方案待產品確認。 2026-11-01 使用者確認每小時更新，見 claim-threat-intel-hourly。",
+      "status": "superseded",
       "sources": [
         "official-news-006",
         "official-news-013",
@@ -437,9 +437,10 @@
     },
     {
       "id": "claim-health-check-campaign",
-      "statement": "台灣區老客戶免費企業健檢原訂即日起至 2026-12-31；尚未到期，但活動現況未經業務確認。",
-      "status": "needs_review",
+      "statement": "台灣區老客戶免費企業健檢活動目前仍在辦理（使用者 2026-11-01 確認）；原訂期限至 2026-12-31，活動內容以 news/32 描述為準，資格與名額未另確認。",
+      "status": "approved_current",
       "sources": [
+        "human-2026-11-01-001",
         "official-news-032",
         "official-news-034",
         "official-news-035",
@@ -448,7 +449,7 @@
       ],
       "locator": "文末活動段",
       "page_id": "event-health-check-campaign",
-      "as_of": "2026-02-26",
+      "as_of": "2026-11-01",
       "valid_until": "2026-12-31"
     },
     {
@@ -556,6 +557,20 @@
       "locator": "news-links 清單摘要",
       "page_id": "entity-uguard",
       "as_of": "2026-03-31",
+      "valid_until": null
+    },
+    {
+      "id": "claim-threat-intel-hourly",
+      "statement": "UGUARD 威脅情資為每小時更新（使用者 2026-11-01 確認）；各篇「每日」「每 3 分鐘」等說法不作現行依據。",
+      "status": "approved_current",
+      "sources": [
+        "human-2026-11-01-001",
+        "official-news-006",
+        "official-news-046"
+      ],
+      "locator": "raw/human r1.json statements_verbatim[0]",
+      "page_id": "issue-threat-intel-figures",
+      "as_of": "2026-11-01",
       "valid_until": null
     }
   ]

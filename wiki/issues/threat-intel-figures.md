@@ -2,19 +2,21 @@
 schema_version: "1.0.0"
 id: "issue-threat-intel-figures"
 type: "issue"
-title: "待確認：威脅情資更新頻率與數量"
-summary: "各篇更新頻率（每小時／每日／每 3 分鐘）、情資筆數與攔截率說法不一致。"
+title: "待確認：威脅情資數量與成效數字"
+summary: "更新頻率已確認為每小時；情資筆數、攔截率與零誤判說法仍不一致待確認。"
 language: "zh-TW"
 status: "needs_review"
 created: "2026-11-01"
 updated: "2026-11-01"
-sources: ["official-news-006", "official-news-012", "official-news-013", "official-news-018", "official-news-020", "official-news-024", "official-news-034", "official-news-041", "official-news-046", "official-news-047", "official-news-048", "official-news-054", "official-news-055", "official-news-058", "external-a6b65c2e9d77"]
+sources: ["human-2026-11-01-001", "official-news-006", "official-news-012", "official-news-013", "official-news-018", "official-news-020", "official-news-024", "official-news-034", "official-news-041", "official-news-046", "official-news-047", "official-news-048", "official-news-054", "official-news-055", "official-news-058", "external-a6b65c2e9d77"]
 related: ["entity-defensetrust", "entity-cloud-platforms", "concept-threat-intelligence"]
 ---
 
-# 待確認：威脅情資更新頻率與數量
+# 待確認：威脅情資數量與成效數字
 
-## 更新頻率
+## 更新頻率（已確認）
+
+2026-11-01 [使用者確認](../sources/human-2026-11-01-001.md)：**情資每小時更新**（核准至 2027-05-01 複審）。撰稿使用「每小時更新」；下表其他說法只保留為歷史來源紀錄，不作現行依據，官網相關文章可考慮更正。
 
 | 說法 | 來源（API 日期） |
 |---|---|
@@ -38,4 +40,4 @@ related: ["entity-defensetrust", "entity-cloud-platforms", "concept-threat-intel
 
 ## 判斷與處置
 
-這些數字可能對應不同產品、方案、資料層（全量情資、分類名單、比對容量）或不同年份，也可能只是文案差異；來源沒有說明。撰稿不得任選一個當現況，須由產品確認現行數字、口徑與適用方案，並標明時間。[news/58](../sources/official-news-058.md) 完全不用數字、只講流程與日誌，是較安全的寫法。相關頁：[DefenseTrust](../entities/defensetrust.md)、[DefenseCloud](../entities/cloud-platforms.md)。
+更新頻率已解決。其餘數字可能對應不同產品、方案、資料層（全量情資、分類名單、比對容量）或不同年份，也可能只是文案差異；來源沒有說明。撰稿不得任選一個當現況，須由產品確認現行數字、口徑與適用方案，並標明時間。[news/58](../sources/official-news-058.md) 完全不用數字、只講流程與日誌，是較安全的寫法。相關頁：[DefenseTrust](../entities/defensetrust.md)、[DefenseCloud](../entities/cloud-platforms.md)。

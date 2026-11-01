@@ -3,12 +3,12 @@ schema_version: "1.0.0"
 id: "event-health-check-campaign"
 type: "event"
 title: "台灣區老客戶免費企業健檢"
-summary: "2025-09 起的健檢活動，原訂至 2026-12-31，尚未到期但現況待業務確認。"
+summary: "2025-09 起的健檢活動，使用者確認仍在辦理，原訂至 2026-12-31。"
 language: "zh-TW"
-status: "needs_review"
+status: "approved_current"
 created: "2026-11-01"
 updated: "2026-11-01"
-sources: ["official-news-032", "official-news-034", "official-news-035", "official-news-039", "official-news-041"]
+sources: ["human-2026-11-01-001", "official-news-032", "official-news-034", "official-news-035", "official-news-039", "official-news-041"]
 related: ["entity-uguard", "issue-time-sensitive-claims", "concept-legacy-replacement"]
 ---
 
@@ -21,4 +21,4 @@ related: ["entity-uguard", "issue-time-sensitive-claims", "concept-legacy-replac
 
 ## 時效判斷
 
-以 2026-11-01 評估尚未過原訂期限，但沒有人員確認活動仍在辦理、名額或條件是否改變；撰稿前須業務確認。它與 [汰舊換新方案](../concepts/legacy-replacement.md) 的「首年兩次健檢」是不同活動。見 [時效及宣稱事項](../issues/time-sensitive-claims.md)。
+2026-11-01 [使用者確認](../sources/human-2026-11-01-001.md)活動仍在辦理（核准紀錄 `claim-health-check-campaign`，複審日 2026-12-31）。可在 2026-12-31 前作為 CTA；資格、名額與內容細節未另確認，引用時以 news/32 的描述為準並避免承諾額外條件。期限後須重新確認是否延長。它與 [汰舊換新方案](../concepts/legacy-replacement.md) 的「首年兩次健檢」是不同活動。見 [時效及宣稱事項](../issues/time-sensitive-claims.md)。

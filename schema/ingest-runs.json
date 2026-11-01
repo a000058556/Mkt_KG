@@ -105,6 +105,18 @@
       "method": "Four parallel sub-agents drafted source pages and findings; host agent integrated topic pages, claims and registry, and spot-checked raw.",
       "pending_sources": 0,
       "authorization": "User said 開始處理71來源 (DECISIONS Q9)."
+    },
+    {
+      "id": "approval-001",
+      "date": "2026-11-01",
+      "state": "completed",
+      "sources": [
+        "human-2026-11-01-001"
+      ],
+      "full_text_sources": 1,
+      "reference_only_sources": 0,
+      "pending_sources": 0,
+      "authorization": "User statements 「情資是每小時更新」「健檢活動還有在辦」 recorded verbatim as raw human evidence."
     }
   ]
 }

@@ -22,7 +22,7 @@ related: ["entity-agilelink", "entity-defensetrust", "event-metaage-partnership"
 | 兩項優惠原訂至 2026-10-31 | [合作來源](../sources/official-news-045.md) 活動段 | expired；延長需新證據 |
 | 汰舊換新原訂至 2027-12-25 | 同上 | 尚未到期但仍待業務確認現況 |
 | 產品修補進度截至 2026-10-30 | [修補來源](../sources/official-news-060.md) 表格 | historical_only；由產品／資安確認新狀態 |
-| 台灣區老客戶免費企業健檢至 2026-12-31 | [news/32](../sources/official-news-032.md)、[news/34](../sources/official-news-034.md)、[news/35](../sources/official-news-035.md)、[news/39](../sources/official-news-039.md)、[news/41](../sources/official-news-041.md) | 尚未到期；需業務確認，見 [健檢活動](../events/health-check-campaign.md) |
+| 台灣區老客戶免費企業健檢至 2026-12-31 | [news/32](../sources/official-news-032.md)、[news/34](../sources/official-news-034.md)、[news/35](../sources/official-news-035.md)、[news/39](../sources/official-news-039.md)、[news/41](../sources/official-news-041.md) | 使用者 2026-11-01 確認仍在辦理（approved_current，複審 2026-12-31），見 [健檢活動](../events/health-check-campaign.md) |
 | COMPUTEX 2025 禮券、抽獎；2024 資安大會贈品 | [news/23](../sources/official-news-023.md)、[news/27](../sources/official-news-027.md) 等 | expired |
 | PHP 漏洞說明與修補（截至 2026-10-30） | [news/59](../sources/official-news-059.md)、[news/60](../sources/official-news-060.md) | historical_only，見 [CVE 事件](../events/cve-2026-php.md) |
 | 「不中斷」「零時差」 [備援文章](../sources/official-news-056.md)、合作文章 | 缺測試條件，不能轉成 SLA 或全威脅保證 |

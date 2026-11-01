@@ -1,0 +1,16 @@
+{
+  "source_type": "human_confirmation",
+  "source_id": "human-2026-11-01-001",
+  "confirmed_at": "2026-11-01",
+  "confirmed_by": "key.tsai@uguard.com.tw",
+  "channel": "Claude Code session with the knowledge-base maintainer",
+  "context": "Agent reported ingest-002 open items: threat-intelligence update frequency inconsistent across articles (hourly / daily / every 3 minutes); Taiwan existing-customer free health check (until 2026-12-31) needed sales confirmation.",
+  "statements_verbatim": [
+    "情資是每小時更新",
+    "健檢活動還有在辦"
+  ],
+  "not_confirmed": [
+    "Which products/plans the hourly frequency covers beyond the general statement",
+    "Health-check eligibility, scope, quota or end date beyond the original 2026-12-31 wording"
+  ]
+}
