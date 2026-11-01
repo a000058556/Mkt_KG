@@ -109,3 +109,9 @@
 - 核准：claim-shuoyu-removed、claim-jason-yen-role（approved_current，複審 2027-05-01）；claim-executive-titles 改 superseded；claim-translation-errors 改 historical_only；claim-channel-partners 更新朔宇狀態。
 - 決策 Q10：官網既有文章不修改；問題只記錄在 Wiki，新稿以核准口徑為準。翻譯差異 issue 改 historical_only。
 - 更新：朔宇、通路夥伴、朔宇合作、UGUARD、內容不一致、翻譯差異、情資數字頁。
+
+## [2026-11-01] query | DefenseTrust 10 月時事推廣文三篇草稿
+
+- 問題：依 10 月最新時事撰寫 DefenseTrust 推廣文章三個範例。
+- 時事來源：iThome〈資安週報 1019～1022〉2026-10-23（微軟打擊網釣服務、Talos 揭露 UAT-11985 活動邀請網釣、Symantec 揭露 APT28 HookEdge 反向連線），2026-11-01 讀取；原始廠商報告未直接核對。PHP2Shell 疑與 UGUARD 自家產品受影響的 CVE 同一事件，未採用。
+- 產出：drafts/2026-11-01-defensetrust-october-001（官網文）、002（社群貼文）、003（客戶 EDM），status draft，只使用 approved_current 口徑並列出待確認欄位。未對外發布。
