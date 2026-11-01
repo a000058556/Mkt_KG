@@ -121,3 +121,8 @@
 - 依使用者要求，把現場展示用的提示詞存為 templates/multichannel-campaign-prompt.md，渠道為官網文章、Facebook、LINE（IG 已改為官網文章）。
 - 提示詞要求 AI 只使用 approved_current 的說法、不得編造時事與連結、附查核表，並把產出存入 drafts。本檔是範本，不是來源。
 - 在產品文章寫法頁加上連結。
+
+## [2026-11-02] query | 更新 README 現況
+
+- 依使用者要求更新 README：來源 86 筆（全文 66、線索 20，含 9 筆使用者確認與官網夥伴快照）、131 頁、10 項 approved_current 宣稱、決策 Q10、範例草稿。
+- 新增「用 AI 撰寫推廣文章」展示段落，連到 templates/multichannel-campaign-prompt.md；補上 Windows 執行 `python -X utf8` 的提示。
