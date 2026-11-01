@@ -8,8 +8,8 @@ language: "zh-TW"
 status: "historical_only"
 created: "2026-11-01"
 updated: "2026-11-01"
-sources: ["official-news-009"]
-related: ["entity-uguard", "writing-partnership-announcement"]
+sources: ["official-news-009", "official-featured-partners"]
+related: ["entity-uguard", "writing-partnership-announcement", "entity-channel-partners"]
 ---
 
 # Innotel
@@ -21,4 +21,4 @@ related: ["entity-uguard", "writing-partnership-announcement"]
 ## 限制
 
 - 英日版多出 Innotel「18 年以上產業經驗」，繁中版沒有；依決策 Q8 以繁中為準，見 [翻譯差異](../issues/translation-differences.md)。
-- 代理是否持續、代理範圍與後續成果沒有其他來源；只能作歷史里程碑。公告寫法見 [合作新聞稿](../writing/partnership-announcement.md)。
+- 2026-11-01 INNOTEL 仍列於 [官網精選合作夥伴](channel-partners.md)（越南）；代理範圍與後續成果沒有其他來源。公告寫法見 [合作新聞稿](../writing/partnership-announcement.md)。

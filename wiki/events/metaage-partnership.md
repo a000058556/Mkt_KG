@@ -8,8 +8,8 @@ language: "zh-TW"
 status: "historical_only"
 created: "2026-11-01"
 updated: "2026-11-01"
-sources: ["official-news-045", "external-cio-109792", "official-news-042", "official-news-043", "official-news-044", "external-52cb8621fccb", "external-339127206f46", "external-fb73abcbfef6"]
-related: ["entity-metaage", "entity-uguard", "issue-promotion-language", "issue-time-sensitive-claims", "concept-legacy-replacement"]
+sources: ["official-news-045", "external-cio-109792", "official-news-042", "official-news-043", "official-news-044", "external-52cb8621fccb", "external-339127206f46", "external-fb73abcbfef6", "human-2026-11-01-007", "official-featured-partners"]
+related: ["entity-metaage", "entity-uguard", "issue-promotion-language", "issue-time-sensitive-claims", "concept-legacy-replacement", "entity-channel-partners"]
 ---
 
 # UGUARD × 邁達特合作與相關活動
@@ -42,4 +42,4 @@ related: ["entity-metaage", "entity-uguard", "issue-promotion-language", "issue-
 
 ## 活動使用限制
 
-以 2026-11-01 為評估日，前兩項優惠已過原訂截止日；未取得延長證據。汰舊換新雖未到原訂截止日，仍須業務確認現行條件。中文促銷段落及產品說明段與英日版存在差異，見 [語言差異](../issues/promotion-language.md)。本頁未建立任何已核准的現行優惠。
+以 2026-11-01 為評估日，前兩項優惠已過原訂截止日；未取得延長證據。汰舊換新方案經 [使用者確認](../sources/human-2026-11-01-007.md)仍在辦理（原訂至 2027-12-25），條件依 news/45 描述。邁達特在 2026-11-01 仍列於 [官網夥伴清單](../entities/channel-partners.md)。中文促銷段落及產品說明段與英日版存在差異，見 [語言差異](../issues/promotion-language.md)。本頁未建立任何已核准的現行優惠。

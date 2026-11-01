@@ -3,12 +3,12 @@ schema_version: "1.0.0"
 id: "entity-trafficshaper"
 type: "entity"
 title: "TrafficShaper"
-summary: "Layer 7 應用辨識、頻寬政策與 In-line／SPAN 部署的來源說法；與 AgileShaper 關係待確認。"
+summary: "Layer 7 應用辨識、頻寬政策與 In-line／SPAN 部署的來源說法；上位版 AgileShaper 開發中。"
 language: "zh-TW"
 status: "source_reported"
 created: "2026-11-01"
 updated: "2026-11-01"
-sources: ["official-news-045", "official-news-060", "facebook-pfbid0AMmGpcRMbRVaJt5HDHR6Ap49giTEcmR8sXYGvPregZ75e8PrgB4LLGuPNoL3Ap1Vl", "official-news-008", "official-news-017", "official-news-024", "official-news-035", "official-news-044", "official-news-057"]
+sources: ["official-news-045", "official-news-060", "facebook-pfbid0AMmGpcRMbRVaJt5HDHR6Ap49giTEcmR8sXYGvPregZ75e8PrgB4LLGuPNoL3Ap1Vl", "official-news-008", "official-news-017", "official-news-024", "official-news-035", "official-news-044", "official-news-057", "human-2026-11-01-008"]
 related: ["issue-facebook-cta", "issue-time-sensitive-claims", "concept-traffic-management", "entity-agileshaper", "entity-x-view"]
 ---
 
@@ -32,4 +32,4 @@ related: ["issue-facebook-cta", "issue-time-sensitive-claims", "concept-traffic-
 
 ## 待確認
 
-2026 COMPUTEX 預告的 [AgileShaper](agileshaper.md) 經確認仍在開發中、預計 2027 年下半年發布，但與 TrafficShaper 的關係未說明。「確保營運不中斷」等旁路說法沒有測試條件；產品名在原文有 Traffic Shaper／TrafficShaper 兩種寫法。
+2026 COMPUTEX 預告的 [AgileShaper](agileshaper.md) 是 TrafficShaper 的上位版（[確認](../sources/human-2026-11-01-008.md)），仍在開發中、預計 2027 年下半年發布；TrafficShaper 之後是否繼續銷售未確認。「確保營運不中斷」等旁路說法沒有測試條件；產品名在原文有 Traffic Shaper／TrafficShaper 兩種寫法。

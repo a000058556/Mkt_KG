@@ -177,6 +177,42 @@
       "reference_only_sources": 0,
       "pending_sources": 0,
       "authorization": "User statement 「AgileShaper目前開發中，預計明年下半年發布」 recorded verbatim as raw human evidence."
+    },
+    {
+      "id": "approval-007",
+      "date": "2026-11-01",
+      "state": "completed",
+      "sources": [
+        "human-2026-11-01-007"
+      ],
+      "full_text_sources": 1,
+      "reference_only_sources": 0,
+      "pending_sources": 0,
+      "authorization": "User statement 「汰舊換新方案還在辦，代理商狀況請去官網及時確認」 recorded verbatim as raw human evidence."
+    },
+    {
+      "id": "approval-008",
+      "date": "2026-11-01",
+      "state": "completed",
+      "sources": [
+        "human-2026-11-01-008"
+      ],
+      "full_text_sources": 1,
+      "reference_only_sources": 0,
+      "pending_sources": 0,
+      "authorization": "User statement 「AgileShaper是 TrafficShaper得上位版」 recorded verbatim as raw human evidence."
+    },
+    {
+      "id": "ingest-003",
+      "date": "2026-11-01",
+      "state": "completed",
+      "sources": [
+        "official-featured-partners"
+      ],
+      "full_text_sources": 1,
+      "reference_only_sources": 0,
+      "pending_sources": 0,
+      "authorization": "User instruction 「代理商狀況請去官網及時確認」; public official API fetched as a new snapshot, existing raw untouched."
     }
   ]
 }

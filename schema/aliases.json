@@ -39,5 +39,13 @@
   "COMPUTEX 2026": "event-computex-2026",
   "健檢": "event-health-check-campaign",
   "STARLINK": "concept-wan-resilience",
-  "低軌衛星": "concept-wan-resilience"
+  "低軌衛星": "concept-wan-resilience",
+  "敦新": "entity-channel-partners",
+  "Dawning": "entity-channel-partners",
+  "創泓": "entity-channel-partners",
+  "UNIFORCE": "entity-channel-partners",
+  "Sysnect": "entity-channel-partners",
+  "SecureOne": "entity-channel-partners",
+  "代理商": "entity-channel-partners",
+  "通路夥伴": "entity-channel-partners"
 }

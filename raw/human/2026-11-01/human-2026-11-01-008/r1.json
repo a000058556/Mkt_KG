@@ -1,0 +1,19 @@
+{
+  "source_type": "human_confirmation",
+  "source_id": "human-2026-11-01-008",
+  "confirmed_at": "2026-11-01",
+  "confirmed_by": "key.tsai@uguard.com.tw",
+  "channel": "Claude Code session with the knowledge-base maintainer",
+  "context": "Agent listed the relation between AgileShaper (in development, planned 2027 H2) and TrafficShaper as unconfirmed.",
+  "statements_verbatim": [
+    "AgileShaper是 TrafficShaper得上位版"
+  ],
+  "interpretation": {
+    "上位版": "AgileShaper is the higher-tier / advanced version of TrafficShaper",
+    "得": "typo for 的"
+  },
+  "not_confirmed": [
+    "Whether TrafficShaper continues to be sold after AgileShaper launches",
+    "Upgrade path from TrafficShaper"
+  ]
+}

@@ -8,8 +8,8 @@ language: "zh-TW"
 status: "source_reported"
 created: "2026-11-01"
 updated: "2026-11-01"
-sources: ["official-news-045", "external-cio-109792", "external-52cb8621fccb", "external-339127206f46", "external-fb73abcbfef6"]
-related: ["entity-uguard", "event-metaage-partnership"]
+sources: ["official-news-045", "external-cio-109792", "external-52cb8621fccb", "external-339127206f46", "external-fb73abcbfef6", "official-featured-partners"]
+related: ["entity-uguard", "event-metaage-partnership", "entity-channel-partners"]
 ---
 
 # MetaAge 邁達特
@@ -17,7 +17,7 @@ related: ["entity-uguard", "event-metaage-partnership"]
 
 ## 歷史合作角色
 
-[官網合作公告](../sources/official-news-045.md) 內文 2026-03-26 的新聞稿宣布與 MetaAge 邁達特（6112）簽署代理合作協議，並描述其台灣通路與服務角色。合作是否持續、代理區域及合約範圍屬現況問題，尚未確認。
+[官網合作公告](../sources/official-news-045.md) 內文 2026-03-26 的新聞稿宣布與 MetaAge 邁達特（6112）簽署代理合作協議，並描述其台灣通路與服務角色。2026-11-01 邁達特仍列於 [官網精選合作夥伴](channel-partners.md)（台灣）；代理區域及合約範圍未在官網說明。
 
 [CIO 來源頁](../sources/external-cio-109792.md) 僅有摘要，可作外部報導入口，不能當作獨立全文佐證。完整日期說明見 [合作事件](../events/metaage-partnership.md)，公司關聯見 [UGUARD](uguard.md)。
 

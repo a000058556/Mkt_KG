@@ -1,0 +1,19 @@
+{
+  "source_type": "human_confirmation",
+  "source_id": "human-2026-11-01-007",
+  "confirmed_at": "2026-11-01",
+  "confirmed_by": "key.tsai@uguard.com.tw",
+  "channel": "Claude Code session with the knowledge-base maintainer",
+  "context": "Agent listed open business questions: whether the trade-in programme (news/45, until 2027-12-25) is still running, and whether channel partners (Innotel, Shuoyu, MetaAge) are still active.",
+  "statements_verbatim": [
+    "汰舊換新方案還在辦，代理商狀況請去官網及時確認"
+  ],
+  "interpretation": {
+    "first_clause": "trade-in programme is still running",
+    "second_clause": "instruction to verify channel partner status on the official website (done as source official-featured-partners)"
+  },
+  "not_confirmed": [
+    "Trade-in conditions beyond the news/45 wording",
+    "Eligible legacy models beyond news/45"
+  ]
+}

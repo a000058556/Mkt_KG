@@ -2905,6 +2905,96 @@
       "ingested_record_sha256": {
         "zh-TW": "ca250f072dd1fdf3000cf08b0643a616e01d95091079bef97b7c50239fa69900"
       }
+    },
+    {
+      "id": "human-2026-11-01-007",
+      "kind": "human",
+      "title": "使用者確認：汰舊換新方案仍在辦理",
+      "url": null,
+      "published_at": "2026-11-01",
+      "source_updated_at": null,
+      "completeness": "full_verbatim_statement",
+      "provenance": "user_confirmation_in_session",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/human/2026-11-01/human-2026-11-01-007/r1.json",
+          "pointer": "",
+          "file_sha256": "b00cd2c53963e905c7b3fe4048aa2fa32004f58f54f7aeb74dbddef8ab78701b",
+          "record_sha256": "70876a016f5e96430fff8b160398ba77a4e1175aadeaa272c0647f776f8037af"
+        }
+      },
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/human-2026-11-01-007.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "approval-007",
+      "ingested_record_sha256": {
+        "zh-TW": "70876a016f5e96430fff8b160398ba77a4e1175aadeaa272c0647f776f8037af"
+      }
+    },
+    {
+      "id": "human-2026-11-01-008",
+      "kind": "human",
+      "title": "使用者確認：AgileShaper 是 TrafficShaper 的上位版",
+      "url": null,
+      "published_at": "2026-11-01",
+      "source_updated_at": null,
+      "completeness": "full_verbatim_statement",
+      "provenance": "user_confirmation_in_session",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/human/2026-11-01/human-2026-11-01-008/r1.json",
+          "pointer": "",
+          "file_sha256": "92cf3c04c9aa23defa38716b66817b3625c2ce461991e00a20e0fd2272ebd9cf",
+          "record_sha256": "1f3477e91deafd8918a9cf0111f7ed1c6ad2ddbd57f2a21e5d7795ee7e59d3c8"
+        }
+      },
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/human-2026-11-01-008.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "approval-008",
+      "ingested_record_sha256": {
+        "zh-TW": "1f3477e91deafd8918a9cf0111f7ed1c6ad2ddbd57f2a21e5d7795ee7e59d3c8"
+      }
+    },
+    {
+      "id": "official-featured-partners",
+      "kind": "official",
+      "title": "官網精選合作夥伴（2026-11-01 快照）",
+      "url": "https://www.uguardnetworks.com/partners/featured",
+      "published_at": null,
+      "source_updated_at": null,
+      "retrieved_at": "2026-11-01",
+      "completeness": "api_full_json",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/2026-11-01/official-featured-partners/r1-zh-TW.json",
+          "pointer": "",
+          "file_sha256": "80e6565d2be1a1291a833e020efa46355a647adb07037e9b163bb938f90004fe",
+          "record_sha256": "34698afac067f781003b56c1e46307617eace25657f69535282bd3039b5082d8"
+        },
+        "en": {
+          "path": "raw/official/2026-11-01/official-featured-partners/r1-en.json",
+          "pointer": "",
+          "file_sha256": "9c8b2c69abf5ef37d42e2d81e7707fcc504ab4dc707fc6e080bc1f858b2f7d6d",
+          "record_sha256": "6a68e52006fbdccf7561cc02e0b76d50c68053e76c737b4738040a2451368a4b"
+        },
+        "jp": {
+          "path": "raw/official/2026-11-01/official-featured-partners/r1-jp.json",
+          "pointer": "",
+          "file_sha256": "94cd1bee81a3ee298e09a52197dce64f9a3b1f16c157f80bbcd3462a00290088",
+          "record_sha256": "b8c1e12a53636f5ad749cbd25bb89a162df6dcae985ee34ce57f4f889e45343b"
+        }
+      },
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-featured-partners.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "ingest-003",
+      "ingested_record_sha256": {
+        "zh-TW": "34698afac067f781003b56c1e46307617eace25657f69535282bd3039b5082d8",
+        "en": "6a68e52006fbdccf7561cc02e0b76d50c68053e76c737b4738040a2451368a4b",
+        "jp": "b8c1e12a53636f5ad749cbd25bb89a162df6dcae985ee34ce57f4f889e45343b"
+      }
     }
   ]
 }

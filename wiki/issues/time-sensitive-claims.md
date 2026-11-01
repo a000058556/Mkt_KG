@@ -8,7 +8,7 @@ language: "zh-TW"
 status: "needs_review"
 created: "2026-11-01"
 updated: "2026-11-01"
-sources: ["official-news-045", "official-news-056", "official-news-060", "official-news-005", "official-news-015", "official-news-023", "official-news-025", "official-news-027", "official-news-032", "official-news-033", "official-news-034", "official-news-035", "official-news-039", "official-news-041", "official-news-043", "official-news-044", "official-news-059"]
+sources: ["official-news-045", "official-news-056", "official-news-060", "official-news-005", "official-news-015", "official-news-023", "official-news-025", "official-news-027", "official-news-032", "official-news-033", "official-news-034", "official-news-035", "official-news-039", "official-news-041", "official-news-043", "official-news-044", "official-news-059", "human-2026-11-01-007"]
 related: ["entity-agilelink", "entity-defensetrust", "event-metaage-partnership", "event-health-check-campaign", "event-cve-2026-php", "issue-threat-intel-figures"]
 ---
 
@@ -20,7 +20,7 @@ related: ["entity-agilelink", "entity-defensetrust", "event-metaage-partnership"
 | 事項 | 依據 | 處理 |
 |---|---|---|
 | 兩項優惠原訂至 2026-10-31 | [合作來源](../sources/official-news-045.md) 活動段 | expired；延長需新證據 |
-| 汰舊換新原訂至 2027-12-25 | 同上 | 尚未到期但仍待業務確認現況 |
+| 汰舊換新原訂至 2027-12-25 | 同上 | 使用者 2026-11-01 確認仍在辦理（approved_current，複審 2027-05-01） |
 | 產品修補進度截至 2026-10-30 | [修補來源](../sources/official-news-060.md) 表格 | historical_only；由產品／資安確認新狀態 |
 | 台灣區老客戶免費企業健檢至 2026-12-31 | [news/32](../sources/official-news-032.md)、[news/34](../sources/official-news-034.md)、[news/35](../sources/official-news-035.md)、[news/39](../sources/official-news-039.md)、[news/41](../sources/official-news-041.md) | 使用者 2026-11-01 確認仍在辦理（approved_current，複審 2026-12-31），見 [健檢活動](../events/health-check-campaign.md) |
 | COMPUTEX 2025 禮券、抽獎；2024 資安大會贈品 | [news/23](../sources/official-news-023.md)、[news/27](../sources/official-news-027.md) 等 | expired |

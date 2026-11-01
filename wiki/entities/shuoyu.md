@@ -8,8 +8,8 @@ language: "zh-TW"
 status: "historical_only"
 created: "2026-11-01"
 updated: "2026-11-01"
-sources: ["official-news-029", "official-news-030", "external-b8eefd2576c2"]
-related: ["event-shuoyu-partnership", "entity-uguard"]
+sources: ["official-news-029", "official-news-030", "external-b8eefd2576c2", "official-featured-partners"]
+related: ["event-shuoyu-partnership", "entity-uguard", "entity-channel-partners"]
 ---
 
 # 朔宇科技 PETACOM
@@ -22,4 +22,4 @@ related: ["event-shuoyu-partnership", "entity-uguard"]
 
 ## 限制
 
-代理範圍、區域與合約是否持續未在來源中說明；人員職稱為 2025 年當時資料。活動細節見 [朔宇合作](../events/shuoyu-partnership.md)。
+2026-11-01 的 [官網精選合作夥伴](channel-partners.md) 沒有列出朔宇科技；未列不代表合作終止，撰稿時不要寫成現任或已終止，需業務確認。人員職稱為 2025 年當時資料。活動細節見 [朔宇合作](../events/shuoyu-partnership.md)。

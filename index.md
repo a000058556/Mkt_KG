@@ -2,7 +2,7 @@
 
 先從產品、議題或寫作頁閱讀；需要查證時沿來源頁追溯 raw。頁面是來源化知識，不代表現行宣稱已核准。
 
-來源登錄 82 筆：全文已 Ingest 62、線索已登記 20、待處理 0。
+來源登錄 85 筆：全文已 Ingest 65、線索已登記 20、待處理 0。
 
 目前進度：[pilot 執行紀錄](schema/ingest-runs.json)；[首次整合發現](wiki/syntheses/pilot-findings.md)。
 
@@ -12,14 +12,15 @@
 
 - [AAEON 研揚科技](wiki/entities/aaeon.md) — UGUARD 的硬體策略夥伴；記錄 2024 合作與 COMPUTEX 2025 共同展出的來源說法。（historical_only）
 - [AgileLink](wiki/entities/agilelink.md) — 整合多 WAN、策略路由與 DNS 安全定位的歷史產品敘述，與修補狀態分層保存。（source_reported）
-- [AgileShaper](wiki/entities/agileshaper.md) — 開發中，預計 2027 年下半年發布（使用者確認）；與 TrafficShaper 的關係未知。（needs_review）
+- [AgileShaper](wiki/entities/agileshaper.md) — TrafficShaper 的上位版，開發中，預計 2027 年下半年發布（使用者確認）。（needs_review）
 - [Axiomtek 艾訊](wiki/entities/axiomtek.md) — 工業電腦硬體夥伴；記錄 2025 合作公告、COMPUTEX 2026 共同展出與相容性說法。（source_reported）
+- [通路與代理夥伴](wiki/entities/channel-partners.md) — 官網 2026-11-01 精選夥伴清單與歷年代理公告的對照；以官網快照為現況依據。（source_reported）
 - [DefenseCloud 與 AgileCloud](wiki/entities/cloud-platforms.md) — DefenseCloud 情資雲與訂閱方案、AgileCloud 雲端監控的來源說法；數字口徑待確認。（source_reported）
 - [DefenseTrust](wiki/entities/defensetrust.md) — 整合情資比對、策略阻擋、部署與報表的來源說法，數字與絕對化用語另列待確認。（source_reported）
 - [Innotel](wiki/entities/innotel.md) — 2024 年宣布的越南品牌代理商；目前只有一篇官網短公告。（historical_only）
 - [MetaAge 邁達特](wiki/entities/metaage.md) — 保留 2026 合作公告中的代理與在地服務角色。（source_reported）
 - [朔宇科技 PETACOM](wiki/entities/shuoyu.md) — 2025 年簽約的台灣資安代理商；記錄簽約活動與聯絡窗口的來源說法。（historical_only）
-- [TrafficShaper](wiki/entities/trafficshaper.md) — Layer 7 應用辨識、頻寬政策與 In-line／SPAN 部署的來源說法；與 AgileShaper 關係待確認。（source_reported）
+- [TrafficShaper](wiki/entities/trafficshaper.md) — Layer 7 應用辨識、頻寬政策與 In-line／SPAN 部署的來源說法；上位版 AgileShaper 開發中。（source_reported）
 - [UGUARD NETWORKS](wiki/entities/uguard.md) — 依試行來源整理公司定位與產品關聯，保留時間限制。（source_reported）
 - [WarpTunnel™](wiki/entities/warptunnel.md) — AgileLink 的多路徑 VPN／雲端隧道功能，記錄來源說法與「零時差」用語風險。（source_reported）
 - [X-View 集中報表](wiki/entities/x-view.md) — 跨 AgileLink、DefenseTrust、Traffic Shaper 的集中管理報表與 AI 情資報告說法。（source_reported）
@@ -28,7 +29,7 @@
 
 - [GTC：全球流量協作與 DNS 保護](wiki/concepts/global-traffic-collaboration.md) — AgileLink 的 GTC DNS 以入站流量分流與 DNSSEC 敘述 DNS 層面的可用性與安全。（source_reported）
 - [ISO/IEC 27001:2022 與威脅情資](wiki/concepts/iso-27001.md) — 以 2022 版新增控制作為導入背景；來源只支持「協助」，不能寫成「符合」。（needs_review）
-- [舊設備替代與汰舊換新](wiki/concepts/legacy-replacement.md) — 從 2024 年 FortiWAN 替代到 2026 汰舊換新方案的訴求；優惠期限須另行確認。（historical_only）
+- [舊設備替代與汰舊換新](wiki/concepts/legacy-replacement.md) — 從 2024 年 FortiWAN 替代到 2026 汰舊換新方案的訴求；方案經確認仍在辦理。（historical_only）
 - [補強 NGFW／EDR 的情資防禦](wiki/concepts/ngfw-complement.md) — DefenseTrust 以「防火牆好幫手」定位補強 NGFW／EDR；標題「超越」用語需審慎。（source_reported）
 - [威脅情資在行銷文章中的表達](wiki/concepts/threat-intelligence.md) — 以更新、比對、策略與日誌說明情資如何支援防護。（inferred）
 - [頻寬與應用流量管理](wiki/concepts/traffic-management.md) — 把「網路變慢」從加頻寬轉為應用可視化與政策分級，連到 TrafficShaper。（source_reported）
@@ -84,6 +85,9 @@
 - [使用者確認：攔截超過 80% 為正確描述](wiki/sources/human-2026-11-01-004.md) — 2026-11-01 使用者確認 DefenseTrust「攔截超過 80%」是正確描述；誤報率未確認。（source_reported）
 - [使用者確認：224 國正確、零誤判不可用](wiki/sources/human-2026-11-01-005.md) — 2026-11-01 使用者確認情資涵蓋 224 個國家，並判定「零誤判／誤報率近乎零」不可用。（source_reported）
 - [使用者確認：AgileShaper 開發狀態](wiki/sources/human-2026-11-01-006.md) — 2026-11-01 使用者確認 AgileShaper 仍在開發中，預計 2027 年下半年發布。（source_reported）
+- [使用者確認：汰舊換新方案仍在辦理](wiki/sources/human-2026-11-01-007.md) — 2026-11-01 使用者確認汰舊換新方案仍在辦理，並指示代理商現況以官網為準。（source_reported）
+- [使用者確認：AgileShaper 是 TrafficShaper 的上位版](wiki/sources/human-2026-11-01-008.md) — 2026-11-01 使用者確認 AgileShaper 定位為 TrafficShaper 的上位版。（source_reported）
+- [官網精選合作夥伴（2026-11-01 快照）](wiki/sources/official-featured-partners.md) — 官網 /partners/featured 在 2026-11-01 列出的 6 家通路夥伴與地區。（source_reported）
 - [AgileLink 作為 FortiWAN 替代方案的短文](wiki/sources/official-news-001.md) — 以 FortiWAN 為標題切入，介紹 AgileLink NGWM 的多線路整合與故障移轉說法；無規格或測試條件。（source_reported）
 - [2024 資安大會 C119 攤位公告（僅圖片）](wiki/sources/official-news-002.md) — 三語正文皆只有一張圖片，只能從標題得知參展與攤位號碼。（reference_only）
 - [UGUARD NETWORKS 成立新加坡總公司（僅標題）](wiki/sources/official-news-003.md) — 三語皆無正文文字，只有標題與封面圖路徑，不能據此確認成立日期或細節。（reference_only）

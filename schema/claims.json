@@ -67,14 +67,15 @@
     },
     {
       "id": "claim-tradein-promotion",
-      "statement": "汰舊換新原訂至 2027-12-25；截至日未到不代表目前條件已核准。",
-      "status": "needs_review",
+      "statement": "汰舊換新升級方案目前仍在辦理（使用者 2026-11-01 確認），原訂至 2027-12-25；條件以 news/45 描述為準，未另確認。",
+      "status": "approved_current",
       "sources": [
+        "human-2026-11-01-007",
         "official-news-045",
         "official-news-043",
         "official-news-044"
       ],
-      "locator": "content：UGUARD 汰舊換新升級禮遇",
+      "locator": "raw/human human-2026-11-01-007 r1.json；news/45 汰舊換新段",
       "page_id": "event-metaage-partnership",
       "as_of": "2026-11-01",
       "valid_until": "2027-12-25"
@@ -510,17 +511,18 @@
     },
     {
       "id": "claim-channel-partners",
-      "statement": "Innotel（越南，2024-08）、朔宇科技（2025-07）、邁達特（2026-03）的代理公告；代理是否持續未確認。",
-      "status": "historical_only",
+      "statement": "2026-11-01 官網精選合作夥伴列出：台灣邁達特、敦新科技、創泓科技；越南 INNOTEL；泰國 Sysnect；馬來西亞 SecureOne。朔宇科技未列於該頁；未列不代表合作已終止。",
+      "status": "source_reported",
       "sources": [
+        "official-featured-partners",
         "official-news-009",
         "official-news-029",
         "official-news-030",
         "official-news-045"
       ],
-      "locator": "合作公告",
+      "locator": "raw/official/2026-11-01/official-featured-partners r1-zh-TW.json /partners",
       "page_id": "entity-uguard",
-      "as_of": "2026-04-21",
+      "as_of": "2026-11-01",
       "valid_until": null
     },
     {
@@ -629,6 +631,19 @@
         "official-news-048"
       ],
       "locator": "raw/human human-2026-11-01-006 r1.json statements_verbatim[0]",
+      "page_id": "entity-agileshaper",
+      "as_of": "2026-11-01",
+      "valid_until": null
+    },
+    {
+      "id": "claim-agileshaper-relation",
+      "statement": "AgileShaper 是 TrafficShaper 的上位版（使用者 2026-11-01 確認）。",
+      "status": "approved_current",
+      "sources": [
+        "human-2026-11-01-008",
+        "official-news-048"
+      ],
+      "locator": "raw/human human-2026-11-01-008 r1.json statements_verbatim[0]",
       "page_id": "entity-agileshaper",
       "as_of": "2026-11-01",
       "valid_until": null

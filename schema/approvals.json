@@ -56,6 +56,22 @@
       "review_due": "2027-05-01",
       "scope": "AgileShaper 尚未上市、開發中，預計 2027 下半年發布；不得寫成已上市或確定日期，不涵蓋功能清單與 TrafficShaper 關係。",
       "evidence_path": "raw/human/2026-11-01/human-2026-11-01-006/r1.json"
+    },
+    {
+      "claim_id": "claim-tradein-promotion",
+      "approved_by": "key.tsai@uguard.com.tw",
+      "approved_at": "2026-11-01",
+      "review_due": "2027-05-01",
+      "scope": "方案仍在辦理，可在 2027-12-25 前作為 CTA；禮遇與適用舊機型依 news/45 繁中版，未另確認細節。",
+      "evidence_path": "raw/human/2026-11-01/human-2026-11-01-007/r1.json"
+    },
+    {
+      "claim_id": "claim-agileshaper-relation",
+      "approved_by": "key.tsai@uguard.com.tw",
+      "approved_at": "2026-11-01",
+      "review_due": "2027-05-01",
+      "scope": "可寫 AgileShaper 是 TrafficShaper 的上位版；不涵蓋 TrafficShaper 是否停售或升級路徑。",
+      "evidence_path": "raw/human/2026-11-01/human-2026-11-01-008/r1.json"
     }
   ]
 }

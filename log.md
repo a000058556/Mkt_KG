@@ -95,3 +95,10 @@
 - 來源：human-2026-11-01-006，使用者原話「AgileShaper目前開發中，預計明年下半年發布」，存為新 raw 並加入雜湊基準；「明年下半年」依說話日期解讀為 2027 年下半年。
 - 核准：claim-agileshaper-status（approved_current，複審 2027-05-01）；原 Coming Soon claim 維持 historical_only 並指向新紀錄。
 - 範圍：不可寫成已上市或確定日期；與 TrafficShaper 關係、最終功能、時程可否對外公開未確認。
+
+## [2026-11-01] ingest | approval-007／008、ingest-003：汰舊換新、AgileShaper 定位與官網夥伴現況
+
+- 使用者原話存為新 raw：human-2026-11-01-007「汰舊換新方案還在辦，代理商狀況請去官網及時確認」；human-2026-11-01-008「AgileShaper是 TrafficShaper得上位版」。
+- 核准：claim-tradein-promotion 改 approved_current；新增 claim-agileshaper-relation；複審皆 2027-05-01。
+- ingest-003：依指示擷取官網 /api/featured-partners 三語，存為 raw/official/2026-11-01/official-featured-partners/（含擷取紀錄），登錄來源並建立 entity-channel-partners。官網列出邁達特、敦新、創泓、INNOTEL、Sysnect、SecureOne；朔宇未列，未推論終止。
+- claim-channel-partners 依官網快照更新（source_reported，as_of 2026-11-01）；邁達特、Innotel、朔宇、UGUARD、汰舊換新相關頁同步更新；新增 8 個別名。

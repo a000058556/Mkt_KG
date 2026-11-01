@@ -3,12 +3,12 @@ schema_version: "1.0.0"
 id: "concept-legacy-replacement"
 type: "concept"
 title: "舊設備替代與汰舊換新"
-summary: "從 2024 年 FortiWAN 替代到 2026 汰舊換新方案的訴求；優惠期限須另行確認。"
+summary: "從 2024 年 FortiWAN 替代到 2026 汰舊換新方案的訴求；方案經確認仍在辦理。"
 language: "zh-TW"
 status: "historical_only"
 created: "2026-11-01"
 updated: "2026-11-01"
-sources: ["official-news-001", "official-news-041", "official-news-043", "official-news-056", "external-679fec63ebbe"]
+sources: ["official-news-001", "official-news-041", "official-news-043", "official-news-056", "external-679fec63ebbe", "human-2026-11-01-007"]
 related: ["entity-agilelink", "event-metaage-partnership", "issue-time-sensitive-claims"]
 ---
 
@@ -24,4 +24,4 @@ related: ["entity-agilelink", "event-metaage-partnership", "issue-time-sensitive
 ## 限制
 
 - 點名競品或第三方產品（FortiWAN、IXIA）需行銷／法務確認是否可沿用。
-- 汰舊換新優惠雖未到原訂期限，現況仍待業務確認；見 [時效及宣稱事項](../issues/time-sensitive-claims.md)。
+- 汰舊換新方案經 [使用者確認](../sources/human-2026-11-01-007.md)**仍在辦理**（核准 `claim-tradein-promotion`，複審 2027-05-01），原訂至 2027-12-25；禮遇與適用舊機型依 news/45 描述，細節未另確認。見 [時效及宣稱事項](../issues/time-sensitive-claims.md)。

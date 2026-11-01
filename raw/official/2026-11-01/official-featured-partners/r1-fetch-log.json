@@ -1,0 +1,29 @@
+{
+  "page": "https://www.uguardnetworks.com/partners/featured",
+  "frontend_chunk": "/assets/FeaturedView-D2x-djva.js calls /api/featured-partners with lang",
+  "server_date_header": "Sun, 01 Nov 2026 13:39:42 GMT",
+  "requested_by": "user instruction 「代理商狀況請去官網及時確認」",
+  "fetches": [
+    {
+      "url": "https://api2.uguardnetworks.com/api/featured-partners?lang=zh-TW",
+      "retrieved_at": "2026-11-01T13:39Z",
+      "http_status": 200,
+      "file": "r1-zh-TW.json",
+      "sha256": "80e6565d2be1a1291a833e020efa46355a647adb07037e9b163bb938f90004fe"
+    },
+    {
+      "url": "https://api2.uguardnetworks.com/api/featured-partners?lang=en",
+      "retrieved_at": "2026-11-01T13:39Z",
+      "http_status": 200,
+      "file": "r1-en.json",
+      "sha256": "9c8b2c69abf5ef37d42e2d81e7707fcc504ab4dc707fc6e080bc1f858b2f7d6d"
+    },
+    {
+      "url": "https://api2.uguardnetworks.com/api/featured-partners?lang=jp",
+      "retrieved_at": "2026-11-01T13:39Z",
+      "http_status": 200,
+      "file": "r1-jp.json",
+      "sha256": "94cd1bee81a3ee298e09a52197dce64f9a3b1f16c157f80bbcd3462a00290088"
+    }
+  ]
+}
