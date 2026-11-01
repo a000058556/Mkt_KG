@@ -16,6 +16,14 @@
       "review_due": "2026-12-31",
       "scope": "活動仍在辦理，可在原訂 2026-12-31 前作為 CTA；資格、名額與內容細節未另確認。",
       "evidence_path": "raw/human/2026-11-01/human-2026-11-01-001/r1.json"
+    },
+    {
+      "claim_id": "claim-threat-intel-cadence",
+      "approved_by": "key.tsai@uguard.com.tw",
+      "approved_at": "2026-11-01",
+      "review_due": "2027-05-01",
+      "scope": "可寫「情資最晚每小時更新」與「DefenseTrust 每 3 分鐘請求情資」；不得寫成情資每 3 分鐘更新。未涵蓋方案差異、情資筆數或其他數字。",
+      "evidence_path": "raw/human/2026-11-01/human-2026-11-01-002/r1.json"
     }
   ]
 }

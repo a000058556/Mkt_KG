@@ -561,14 +561,29 @@
     },
     {
       "id": "claim-threat-intel-hourly",
-      "statement": "UGUARD 威脅情資為每小時更新（使用者 2026-11-01 確認）；各篇「每日」「每 3 分鐘」等說法不作現行依據。",
-      "status": "approved_current",
+      "statement": "UGUARD 威脅情資為每小時更新（使用者 2026-11-01 確認）；各篇「每日」「每 3 分鐘」等說法不作現行依據。 2026-11-01 使用者澄清後由 claim-threat-intel-cadence 取代。",
+      "status": "superseded",
       "sources": [
         "human-2026-11-01-001",
         "official-news-006",
         "official-news-046"
       ],
       "locator": "raw/human r1.json statements_verbatim[0]",
+      "page_id": "issue-threat-intel-figures",
+      "as_of": "2026-11-01",
+      "valid_until": null
+    },
+    {
+      "id": "claim-threat-intel-cadence",
+      "statement": "威脅情資最晚每小時更新一次；「每 3 分鐘」是 DefenseTrust 的情資請求頻率，不是情資本身的更新頻率（使用者 2026-11-01 確認）。",
+      "status": "approved_current",
+      "sources": [
+        "human-2026-11-01-002",
+        "human-2026-11-01-001",
+        "official-news-034",
+        "official-news-055"
+      ],
+      "locator": "raw/human human-2026-11-01-002 r1.json statements_verbatim[0]",
       "page_id": "issue-threat-intel-figures",
       "as_of": "2026-11-01",
       "valid_until": null

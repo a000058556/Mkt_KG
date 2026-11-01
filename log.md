@@ -63,3 +63,10 @@
 - 核准：claim-threat-intel-hourly（approved_current，複審 2027-05-01）；claim-health-check-campaign 改 approved_current（複審 2026-12-31）。舊的更新頻率矛盾 claim 改 superseded。
 - 頁面：情資數字 issue 改為只追蹤筆數與成效數字；健檢活動頁 approved_current；DefenseTrust、雲端平台、時效 issue 同步更新。
 - 範圍限制：未確認每小時涵蓋的產品／方案、情資筆數與攔截率；健檢資格與名額未確認。
+
+## [2026-11-01] correction | approval-002：情資請求與更新頻率澄清
+
+- 來源：human-2026-11-01-002，使用者原話「每3分鐘是dt的情資請求頻率，情資最晚是每小時更新」，存為新 raw 並加入雜湊基準。
+- 核准：新增 claim-threat-intel-cadence（approved_current，複審 2027-05-01）；claim-threat-intel-hourly 改 superseded，原核准紀錄保留為歷史。
+- 撰稿規則：可寫「DefenseTrust 每 3 分鐘請求情資、情資最晚每小時更新」，不可寫「情資每 3 分鐘更新」。
+- 更新：情資數字 issue、DefenseTrust、雲端平台、human-2026-11-01-001 來源頁。

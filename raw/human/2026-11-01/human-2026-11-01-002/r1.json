@@ -1,0 +1,21 @@
+{
+  "source_type": "human_confirmation",
+  "source_id": "human-2026-11-01-002",
+  "confirmed_at": "2026-11-01",
+  "confirmed_by": "key.tsai@uguard.com.tw",
+  "channel": "Claude Code session with the knowledge-base maintainer",
+  "clarifies": "human-2026-11-01-001 statement 「情資是每小時更新」",
+  "context": "Agent reported that official articles saying 「每 3 分鐘」 conflicted with the confirmed hourly update.",
+  "statements_verbatim": [
+    "每3分鐘是dt的情資請求頻率，情資最晚是每小時更新"
+  ],
+  "interpretation": {
+    "dt": "DefenseTrust",
+    "3_minutes": "DefenseTrust threat-intelligence request frequency",
+    "hourly": "threat intelligence is updated at least once per hour (upper bound)"
+  },
+  "not_confirmed": [
+    "Request target system name",
+    "Whether frequencies differ by plan or deployment"
+  ]
+}

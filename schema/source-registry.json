@@ -2780,6 +2780,31 @@
       "ingested_record_sha256": {
         "zh-TW": "9b9249258b100ec8f76e2edef2a1eae254073504dd970320ace42d9f99561d95"
       }
+    },
+    {
+      "id": "human-2026-11-01-002",
+      "kind": "human",
+      "title": "使用者澄清：DefenseTrust 每 3 分鐘請求、情資最晚每小時更新",
+      "url": null,
+      "published_at": "2026-11-01",
+      "source_updated_at": null,
+      "completeness": "full_verbatim_statement",
+      "provenance": "user_confirmation_in_session",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/human/2026-11-01/human-2026-11-01-002/r1.json",
+          "pointer": "",
+          "file_sha256": "68f3b9f7d91f6b7c5307cad0a07854db5863cb8378ec3db28d63f7f7cbb62413",
+          "record_sha256": "0545254a37e0bf3f4b111473def80e1506d0bcc9edafa1b4e6fc9a4a8485c4af"
+        }
+      },
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/human-2026-11-01-002.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "approval-002",
+      "ingested_record_sha256": {
+        "zh-TW": "0545254a37e0bf3f4b111473def80e1506d0bcc9edafa1b4e6fc9a4a8485c4af"
+      }
     }
   ]
 }

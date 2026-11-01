@@ -117,6 +117,18 @@
       "reference_only_sources": 0,
       "pending_sources": 0,
       "authorization": "User statements 「情資是每小時更新」「健檢活動還有在辦」 recorded verbatim as raw human evidence."
+    },
+    {
+      "id": "approval-002",
+      "date": "2026-11-01",
+      "state": "completed",
+      "sources": [
+        "human-2026-11-01-002"
+      ],
+      "full_text_sources": 1,
+      "reference_only_sources": 0,
+      "pending_sources": 0,
+      "authorization": "User clarification 「每3分鐘是dt的情資請求頻率，情資最晚是每小時更新」 recorded verbatim as raw human evidence."
     }
   ]
 }

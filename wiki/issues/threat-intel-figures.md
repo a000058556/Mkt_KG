@@ -3,12 +3,12 @@ schema_version: "1.0.0"
 id: "issue-threat-intel-figures"
 type: "issue"
 title: "待確認：威脅情資數量與成效數字"
-summary: "更新頻率已確認為每小時；情資筆數、攔截率與零誤判說法仍不一致待確認。"
+summary: "更新頻率已確認：情資最晚每小時更新、DefenseTrust 每 3 分鐘請求；筆數與成效數字仍待確認。"
 language: "zh-TW"
 status: "needs_review"
 created: "2026-11-01"
 updated: "2026-11-01"
-sources: ["human-2026-11-01-001", "official-news-006", "official-news-012", "official-news-013", "official-news-018", "official-news-020", "official-news-024", "official-news-034", "official-news-041", "official-news-046", "official-news-047", "official-news-048", "official-news-054", "official-news-055", "official-news-058", "external-a6b65c2e9d77"]
+sources: ["human-2026-11-01-002", "human-2026-11-01-001", "official-news-006", "official-news-012", "official-news-013", "official-news-018", "official-news-020", "official-news-024", "official-news-034", "official-news-041", "official-news-046", "official-news-047", "official-news-048", "official-news-054", "official-news-055", "official-news-058", "external-a6b65c2e9d77"]
 related: ["entity-defensetrust", "entity-cloud-platforms", "concept-threat-intelligence"]
 ---
 
@@ -16,7 +16,12 @@ related: ["entity-defensetrust", "entity-cloud-platforms", "concept-threat-intel
 
 ## 更新頻率（已確認）
 
-2026-11-01 [使用者確認](../sources/human-2026-11-01-001.md)：**情資每小時更新**（核准至 2027-05-01 複審）。撰稿使用「每小時更新」；下表其他說法只保留為歷史來源紀錄，不作現行依據，官網相關文章可考慮更正。
+2026-11-01 [使用者確認](../sources/human-2026-11-01-001.md) 並經 [使用者澄清](../sources/human-2026-11-01-002.md)（核准 `claim-threat-intel-cadence`，複審 2027-05-01）：
+
+- **情資最晚每小時更新一次。**
+- **「每 3 分鐘」是 DefenseTrust 的情資請求頻率**，不是情資本身的更新頻率。
+
+撰稿可寫「DefenseTrust 每 3 分鐘請求情資，情資最晚每小時更新」，不可寫「情資每 3 分鐘更新」。下表的「每 3 分鐘」各篇把請求頻率寫成更新頻率，「每日」「每分／日」則與確認內容不符；這些只保留為歷史來源紀錄，官網文章可考慮更正。
 
 | 說法 | 來源（API 日期） |
 |---|---|

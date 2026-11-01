@@ -9,7 +9,7 @@ status: "source_reported"
 created: "2026-11-01"
 updated: "2026-11-01"
 sources: ["facebook-pfbid0AMmGpcRMbRVaJt5HDHR6Ap49giTEcmR8sXYGvPregZ75e8PrgB4LLGuPNoL3Ap1Vl", "official-news-045", "official-news-060", "official-news-005", "official-news-006", "official-news-012", "official-news-013", "official-news-017", "official-news-018", "official-news-020", "official-news-024", "official-news-034", "official-news-041", "official-news-054", "official-news-055", "official-news-058"]
-related: ["concept-threat-intelligence", "issue-facebook-cta", "issue-time-sensitive-claims", "issue-promotion-language", "issue-threat-intel-figures", "concept-ngfw-complement", "concept-iso-27001", "entity-x-view", "entity-aaeon"]
+related: ["human-2026-11-01-002", "concept-threat-intelligence", "issue-facebook-cta", "issue-time-sensitive-claims", "issue-promotion-language", "issue-threat-intel-figures", "concept-ngfw-complement", "concept-iso-27001", "entity-x-view", "entity-aaeon"]
 ---
 
 # DefenseTrust
@@ -36,7 +36,7 @@ related: ["concept-threat-intelligence", "issue-facebook-cta", "issue-time-sensi
 
 適用客群在不同篇寫法不同：政府、醫療、大型企業內網（[news/34](../sources/official-news-034.md)），政府、金融、跨國企業、大型製造業（[news/41](../sources/official-news-041.md)）。與防火牆的關係見 [補強 NGFW](../concepts/ngfw-complement.md)；合規說法見 [ISO 27001](../concepts/iso-27001.md)。
 
-情資更新頻率經 [使用者確認](../sources/human-2026-11-01-001.md)為**每小時**（2026-11-01）。情資筆數、攔截率（＞80%）與「零誤判」在各篇仍互相不一致，列在 [情資數字待確認](../issues/threat-intel-figures.md)，撰稿不得任選一個當現況。
+經 [使用者澄清](../sources/human-2026-11-01-002.md)（2026-11-01）：DefenseTrust **每 3 分鐘請求情資**，情資**最晚每小時更新**；不可寫成情資每 3 分鐘更新。情資筆數、攔截率（＞80%）與「零誤判」在各篇仍互相不一致，列在 [情資數字待確認](../issues/threat-intel-figures.md)，撰稿不得任選一個當現況。
 
 ## 跨來源的語氣差異
 
