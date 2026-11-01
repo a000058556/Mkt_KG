@@ -41,3 +41,10 @@
 - 修正：news/45 繁中獨有的產品說明段（DefenseTrust 全球黑名單；AgileLink GTC DNS、DNSSEC、低軌衛星、X-View）補入語言差異 issue 與產品頁；news/56 DNS Security 定位補入 AgileLink；記錄「頻寬」原文用字、news/45 created_at、連結與英文標題瑕疵。
 - claims：更新 claim-agilelink-multiwan；新增 claim-agilelink-dns-security（source_reported）、claim-news45-zh-only-product-paragraph（needs_review）。
 - 結果：0 errors、14 warnings（[lint-004](reports/2026-11-01-lint-004.json)）；詳見 [語意複查報告](reports/2026-11-01-semantic-review-001.md)。pilot 仍為 pilot_ready_for_review，未核准任何現行宣稱。
+
+## [2026-11-01] schema | 決策 Q8／Q9：繁中為主要來源，pilot-001 驗收
+
+- 依據：使用者表示「基本上是中文語系為主要來源」及「開始處理71來源」。
+- 變更：DECISIONS 新增 Q8／Q9；Schema 命名段、WORKFLOWS Ingest 步驟 1、3 與 AGENTS 目前階段同步更新。未改欄位、目錄或狀態定義，schema_version 維持 1.0.0。
+- 套用：news/45 三語差異以繁中為準，issue-promotion-language 改為 historical_only；claim-news45-zh-only-product-paragraph 改 source_reported；繁中主動防禦段疑似重複貼上的觀察保留。產品宣稱仍未核准。
+- pilot-001 ingest-runs 狀態改為 accepted；其餘 71 個來源開始分批 Ingest。

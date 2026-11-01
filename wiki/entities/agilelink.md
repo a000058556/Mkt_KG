@@ -19,7 +19,7 @@ related: ["concept-wan-resilience", "event-metaage-partnership", "issue-time-sen
 
 [2026-08 備援文章](../sources/official-news-056.md) 的功能條列描述多 WAN 整合、備援及 PBR，列出專線、寬頻（繁中原文寫「頻寬」，見來源頁）、4G/5G、STARLINK；對應需求是降低單線故障影響並安排應用流量路徑。見 [WAN 韌性](../concepts/wan-resilience.md)。
 
-DNS 安全定位：同一篇三語均稱 AgileLink 是「WAN Load Balance 與 DNS Security」產品。[合作公告](../sources/official-news-045.md) 繁中版另寫支援 GTC DNS 與 DNSSEC 保護機制、可整合多線路與低軌衛星，並以 X-View 集中報表與 AI 情資分析報告掌握風險；這段英日版沒有，見 [語言差異](../issues/promotion-language.md)。兩篇都沒有說明 DNS 防護的機制細節或適用版本。
+DNS 安全定位：同一篇三語均稱 AgileLink 是「WAN Load Balance 與 DNS Security」產品。[合作公告](../sources/official-news-045.md) 繁中版另寫支援 GTC DNS 與 DNSSEC 保護機制、可整合多線路與低軌衛星，並以 X-View 集中報表與 AI 情資分析報告掌握風險；英日版未翻譯此段，依 [決策 Q8](../../docs/DECISIONS.md) 以繁中為準，見 [語言差異](../issues/promotion-language.md)。兩篇都沒有說明 DNS 防護的機制細節或適用版本。
 
 以上均為 source_reported，型號、版本與部署條件待確認。
 

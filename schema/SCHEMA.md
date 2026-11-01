@@ -31,7 +31,7 @@
 - 主題頁使用概念名稱，不用發文日期：`agilelink.md`、`wan-resilience.md`。ID 為 `entity-agilelink`、`concept-wan-resilience` 等類型前綴，建立後保持穩定。
 - 報告與草稿採 `YYYY-MM-DD-<topic>-<sequence>.md`；以執行日建立，未知發布日期填 null，不以取得日替代。
 - 新來源快照用 `raw/<kind>/YYYY-MM-DD/<source-id>/<revision>.<ext>`；既有路徑全部保留。相同 URL 的內容更新是新修訂，不覆蓋舊快照。
-- 同一文章三語共享來源 ID，variants 分別記錄；譯文不是獨立佐證。別名依 `aliases.json` 查找；只統一檢索名稱，引用原文保留原拼法。
+- 同一文章三語共享來源 ID，variants 分別記錄；譯文不是獨立佐證。繁中為主要版本（[決策 Q8](../docs/DECISIONS.md)）：內容以繁中為準，英日差異記為翻譯差異。別名依 `aliases.json` 查找；只統一檢索名稱，引用原文保留原拼法。
 - 移動／拆分 Wiki 頁須同步全數 inbound links、registry、aliases、index；來源歷史與 log 仍可追溯。
 
 ## Wiki frontmatter

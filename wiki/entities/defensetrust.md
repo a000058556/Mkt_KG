@@ -19,7 +19,7 @@ related: ["concept-threat-intelligence", "issue-facebook-cta", "issue-time-sensi
 
 [Facebook 貼文](../sources/facebook-threat-intelligence-update.md) 說明 IP／Domain 情資分類比對、依企業安全策略處理命中連線，以及由日誌觀察紀錄。這是來源敘述，不是本次功能驗測。見 [威脅情資](../concepts/threat-intelligence.md)。
 
-[合作公告](../sources/official-news-045.md) 繁中版稱 DefenseTrust 為「新世代威脅情資管理平台，整合全球即時黑名單與情資來源」；英日版沒有這段產品說明，見 [語言差異](../issues/promotion-language.md)。來源沒有列出情資來源名稱、數量或更新頻率。
+[合作公告](../sources/official-news-045.md) 繁中版稱 DefenseTrust 為「新世代威脅情資管理平台，整合全球即時黑名單與情資來源」；英日版未翻譯此段，依 [決策 Q8](../../docs/DECISIONS.md) 以繁中為準，見 [語言差異](../issues/promotion-language.md)。來源沒有列出情資來源名稱、數量或更新頻率。
 
 ## 跨來源的語氣差異
 

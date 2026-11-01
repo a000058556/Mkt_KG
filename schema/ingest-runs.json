@@ -3,7 +3,7 @@
     {
       "id": "pilot-001",
       "date": "2026-11-01",
-      "state": "pilot_ready_for_review",
+      "state": "accepted",
       "sources": [
         "official-news-045",
         "official-news-056",
@@ -19,7 +19,8 @@
         "official-news-060": "zh-TW,en,jp key remediation table"
       },
       "pending_sources": 71,
-      "authorization": "User accepted Q1–Q7 recommendations and explicitly said 開始建置; pilot five sources then review."
+      "authorization": "User accepted Q1–Q7 recommendations and explicitly said 開始建置; pilot five sources then review.",
+      "accepted": "2026-11-01: user said 開始處理71來源 after semantic-review-001 corrections (DECISIONS Q9)."
     }
   ]
 }

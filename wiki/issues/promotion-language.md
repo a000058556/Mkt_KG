@@ -2,17 +2,17 @@
 schema_version: "1.0.0"
 id: "issue-promotion-language"
 type: "issue"
-title: "待確認：news/45 中英日內容差異"
-summary: "中文版多出產品說明段及主動防禦段的 AgileLink 條件，英日版皆無。"
+title: "紀錄：news/45 中英日內容差異"
+summary: "中文版多出產品說明段及主動防禦段 AgileLink 條件；依決策 Q8 以繁中為準。"
 language: "zh-TW"
-status: "needs_review"
+status: "historical_only"
 created: "2026-11-01"
 updated: "2026-11-01"
 sources: ["official-news-045"]
 related: ["event-metaage-partnership", "writing-partnership-announcement", "entity-agilelink", "entity-defensetrust"]
 ---
 
-# 待確認：news/45 中英日內容差異
+# 紀錄：news/45 中英日內容差異
 
 
 ## 精確位置
@@ -34,4 +34,6 @@ related: ["event-metaage-partnership", "writing-partnership-announcement", "enti
 
 ## 判斷與處置
 
-兩處均確認存在文案差異；尚不能判定中文多貼／新增、英日漏譯或內容原本就不同。請業務／行銷確認原始方案與產品說明，Agent 不自行選擇正確版本。兩項活動均已過原訂 2026-10-31 截止日，不能因修正文案就恢復為有效優惠。相關頁：[合作事件](../events/metaage-partnership.md)。
+2026-11-01 使用者確認官網以繁中為主要來源（[決策 Q8](../../docs/DECISIONS.md)）。因此兩處差異均以繁中版為準，英日版視為翻譯缺漏，不再阻擋使用；本頁保留為歷史差異紀錄。
+
+仍保留的觀察：繁中「主動防禦強化專案」的 AgileLink 文字與「WAN 架構強化專案」逐字相同，可能是重複貼上；兩項活動均已過原訂 2026-10-31 截止日，此疑點不影響現行撰稿，也不能因修正文案就恢復為有效優惠。以繁中為準不等於核准其中的產品宣稱。相關頁：[合作事件](../events/metaage-partnership.md)。

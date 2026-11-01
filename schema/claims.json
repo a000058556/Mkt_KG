@@ -51,7 +51,7 @@
     },
     {
       "id": "claim-defense-promotion",
-      "statement": "原訂主動防禦優惠已過 2026-10-31 截止日，且三語條款有差異。",
+      "statement": "原訂主動防禦優惠已過 2026-10-31 截止日；三語條款差異依決策 Q8 以繁中為準。",
       "status": "expired",
       "sources": [
         "official-news-045"
@@ -138,8 +138,8 @@
     },
     {
       "id": "claim-news45-zh-only-product-paragraph",
-      "statement": "news/45 繁中版的 DefenseTrust／AgileLink 產品說明段在英日版不存在；何者為正確版本待業務／行銷確認。",
-      "status": "needs_review",
+      "statement": "news/45 繁中版的 DefenseTrust／AgileLink 產品說明段在英日版未翻譯；依使用者決策 Q8 以繁中版為準，產品宣稱本身仍未核准。",
+      "status": "source_reported",
       "sources": [
         "official-news-045"
       ],

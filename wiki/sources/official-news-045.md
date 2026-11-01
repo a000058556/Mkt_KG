@@ -28,7 +28,7 @@ related: ["entity-uguard", "entity-metaage", "event-metaage-partnership", "issue
 - WAN 架構強化與主動防禦強化的原訂截止日為 2026-10-31；以本次 2026-11-01 評估已過期，沒有已延長的證據。
 - 汰舊換新載明至 2027-12-25。尚未到原訂截止日，不等於條件仍有效，須業務確認。
 - 中文的主動防禦強化段落多出一段 AgileLink 優惠；英日對應段只描述 DefenseTrust。原文保留，詳見 [語言差異](../issues/promotion-language.md)。
-- 中文「企業資安升級專案啟動」段有 DefenseTrust（全球即時黑名單、零時差）與 AgileLink（GTC DNS、DNSSEC、低軌衛星、X-View 集中報表與 AI 情資分析報告）的產品說明，英日版均無；同見 [語言差異](../issues/promotion-language.md)。
+- 中文「企業資安升級專案啟動」段有 DefenseTrust（全球即時黑名單、零時差）與 AgileLink（GTC DNS、DNSSEC、低軌衛星、X-View 集中報表與 AI 情資分析報告）的產品說明，英日版均無，依決策 Q8 以繁中為準；同見 [語言差異](../issues/promotion-language.md)。
 - 「零時差」及「不中斷」保留為歷史宣傳措辭，不提升為核准的量化承諾。
 
 ## 原文瑕疵（保留於 raw）

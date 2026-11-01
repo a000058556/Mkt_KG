@@ -25,4 +25,4 @@
 - 斷鏈、過期、矛盾、孤立頁或缺口：讀 [Lint 流程](docs/WORKFLOWS.md#lint)。
 - 改資料夾、欄位、狀態或核准機制：先對照 [已確認決策](docs/DECISIONS.md)，與使用者確認重大變更，再更新 Schema 版本及遷移紀錄。
 
-目前階段：pilot-001，5 個來源已試行；其他來源等待使用者確認試行成果後再擴大。範圍以 [Ingest 執行紀錄](schema/ingest-runs.json) 為準。
+目前階段：pilot-001 已驗收；其餘來源分批 Ingest 中，官網以繁中版為主要來源（[決策 Q8／Q9](docs/DECISIONS.md)）。範圍以 [Ingest 執行紀錄](schema/ingest-runs.json) 為準。

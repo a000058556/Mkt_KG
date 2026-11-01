@@ -47,6 +47,6 @@
 ## 待確認與缺口
 
 - [待確認：DefenseTrust CTA 指向 TrafficShaper](wiki/issues/facebook-cta.md) — 保留來源錯配，撰稿前確認應使用的產品連結。（needs_review）
-- [待確認：news/45 中英日內容差異](wiki/issues/promotion-language.md) — 中文版多出產品說明段及主動防禦段的 AgileLink 條件，英日版皆無。（needs_review）
+- [紀錄：news/45 中英日內容差異](wiki/issues/promotion-language.md) — 中文版多出產品說明段及主動防禦段 AgileLink 條件；依決策 Q8 以繁中為準。（historical_only）
 - [來源覆蓋與缺口](wiki/issues/source-gaps.md) — 本次僅五個來源試行；其餘等待確認後 Ingest。（needs_review）
 - [待確認：活動、修補進度與絕對化宣稱](wiki/issues/time-sensitive-claims.md) — 區分過期、歷史狀態及缺乏測試條件的宣傳措辭。（needs_review）
