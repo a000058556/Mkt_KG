@@ -1,0 +1,16 @@
+{
+  "UGUARD NETWORKS": "entity-uguard",
+  "UGUARD": "entity-uguard",
+  "AgileLink": "entity-agilelink",
+  "DefenseTrust": "entity-defensetrust",
+  "Defense Trust": "entity-defensetrust",
+  "TrafficShaper": "entity-trafficshaper",
+  "Traffic Shaper": "entity-trafficshaper",
+  "DefenseCloud": "entity-cloud-platforms",
+  "Defense Cloud": "entity-cloud-platforms",
+  "AgileCloud": "entity-cloud-platforms",
+  "MetaAge": "entity-metaage",
+  "邁達特": "entity-metaage",
+  "PBR": "concept-wan-resilience",
+  "威脅情資": "concept-threat-intelligence"
+}

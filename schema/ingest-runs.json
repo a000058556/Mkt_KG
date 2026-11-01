@@ -1,0 +1,25 @@
+{
+  "runs": [
+    {
+      "id": "pilot-001",
+      "date": "2026-11-01",
+      "state": "pilot_ready_for_review",
+      "sources": [
+        "official-news-045",
+        "official-news-056",
+        "official-news-060",
+        "facebook-pfbid0AMmGpcRMbRVaJt5HDHR6Ap49giTEcmR8sXYGvPregZ75e8PrgB4LLGuPNoL3Ap1Vl",
+        "external-cio-109792"
+      ],
+      "full_text_sources": 4,
+      "reference_only_sources": 1,
+      "language_variants_reviewed": {
+        "official-news-045": "zh-TW,en,jp key facts and promotion terms",
+        "official-news-056": "zh-TW,en,jp key facts",
+        "official-news-060": "zh-TW,en,jp key remediation table"
+      },
+      "pending_sources": 71,
+      "authorization": "User accepted Q1–Q7 recommendations and explicitly said 開始建置; pilot five sources then review."
+    }
+  ]
+}

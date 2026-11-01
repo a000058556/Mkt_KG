@@ -1,0 +1,2291 @@
+{
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "id": "official-news-060",
+      "kind": "official",
+      "title": "UGUARD CVE-2026-109618 / CVE-2026-109619 修補進度",
+      "url": "https://www.uguardnetworks.com/news/60",
+      "published_at": "2026-10-27T00:00:00Z",
+      "source_updated_at": "2026-10-30T10:55:09Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/0",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "965c8ac288a749790a498ca2f37c5ff1a333a953ffc785f5a24966e176c48c4c"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/0",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "7213abf3d829de2ee0e5ed5754ccc6ccb17d85a2be641d93c23c0f751be1c717"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/0",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "beaa026a51583aa6f01be789df72088f151b1299574a42c21beb553914ec7a3a"
+        }
+      },
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-060.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "pilot-001",
+      "ingested_record_sha256": {
+        "zh-TW": "965c8ac288a749790a498ca2f37c5ff1a333a953ffc785f5a24966e176c48c4c",
+        "en": "7213abf3d829de2ee0e5ed5754ccc6ccb17d85a2be641d93c23c0f751be1c717",
+        "jp": "beaa026a51583aa6f01be789df72088f151b1299574a42c21beb553914ec7a3a"
+      }
+    },
+    {
+      "id": "official-news-059",
+      "kind": "official",
+      "title": "PHP 重大漏洞公告 CVE-2026-109618 / CVE-2026-109619",
+      "url": "https://www.uguardnetworks.com/news/59",
+      "published_at": "2026-10-27T00:00:00Z",
+      "source_updated_at": "2026-10-27T15:01:36Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/1",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "6c6bcca3d6c52be2558b89f5c7fbe04701a697af6ea7faaba649971640af145d"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/1",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "6275274e35c771564f1cce92fa1493a3b02f84496c4112850f29d7dc3bb40eb4"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/1",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "9b0f51de7d044df08a7336510cc341b080b787fbc73ead092f2aee20a884c29d"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-058",
+      "kind": "official",
+      "title": "可疑 IP / Domain 出現時，你的防禦能即時阻擋嗎？",
+      "url": "https://www.uguardnetworks.com/news/58",
+      "published_at": "2026-10-27T00:00:00Z",
+      "source_updated_at": "2026-10-28T07:37:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/2",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "f00144bf85a475102f28b5b38000148bddc788824f9661ba528f64e2d8f82994"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/2",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "5dc8c6a7115843e712e4465f75c4b59bde92645f4372992547d19a725cd20fd0"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/2",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "b02462785dc76d63ab59a30c54b991c0c23eb7b705dd760eb86cd49123c156d1"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-057",
+      "kind": "official",
+      "title": "網路變慢，真的只是頻寬不夠嗎？",
+      "url": "https://www.uguardnetworks.com/news/57",
+      "published_at": "2026-09-22T00:00:00Z",
+      "source_updated_at": "2026-09-22T06:46:17Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/3",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "451c4769080795bbb638ac2fc4ba4717152a6659c437d060f3e5f65076f840cd"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/3",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "4997e17d798a66f447f4c1b1eb234e7aa1a02366d4280ff96f352c50c38b8973"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/3",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "5d4e7e11ae970fbf2b11b61f75860339b314c949c68f40afce150ccf8d1d230c"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-056",
+      "kind": "official",
+      "title": "企業網路不能斷線，網路備援不能只是「有第二條線」!",
+      "url": "https://www.uguardnetworks.com/news/56",
+      "published_at": "2026-08-24T00:00:00Z",
+      "source_updated_at": "2026-08-24T04:35:31Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/4",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "6c303af8290ddd7afbd90568f8c2329b7e37175a263cc533f06c64698762826d"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/4",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "2448a395f4e1c0d7026a862fba933862b4a6a9d9f712bc862fd75c46656b1575"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/4",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "164c0f0d84510c8e86ce6d38c2fbf316380aab2f280695f13955c43f360d600f"
+        }
+      },
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-056.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "pilot-001",
+      "ingested_record_sha256": {
+        "zh-TW": "6c303af8290ddd7afbd90568f8c2329b7e37175a263cc533f06c64698762826d",
+        "en": "2448a395f4e1c0d7026a862fba933862b4a6a9d9f712bc862fd75c46656b1575",
+        "jp": "164c0f0d84510c8e86ce6d38c2fbf316380aab2f280695f13955c43f360d600f"
+      }
+    },
+    {
+      "id": "official-news-055",
+      "kind": "official",
+      "title": "駭客行為正在改變，你的防線跟上了嗎？",
+      "url": "https://www.uguardnetworks.com/news/55",
+      "published_at": "2026-07-22T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/5",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "024fecb784854d018208eb312bab6b454bb8ac83df453052df21bb19f3178c56"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/5",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "fb8eac3e629f61fd86cd886d88fde29a05b62df8fa719492df82b084fa3ece06"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/5",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "901caa889874c3778becfd35fd583bd36c05f7bf5bdd490e8562e36a2f05e450"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-054",
+      "kind": "official",
+      "title": "全球威脅情報即時同步，打造企業主動式資安防禦",
+      "url": "https://www.uguardnetworks.com/news/54",
+      "published_at": "2026-06-30T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/6",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "b8671beb14cfc9e804c2492bd0b2c7ce419d7689ce5219e9dce5f08eca2b2061"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/6",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "d6f9894310bacc7689e3d9b10f0354469e70f2a53554c3ac26087c36f6425d3c"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/6",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "53871a60241351594c9972a610cfd0b78780899df2b7cc257f96832d137a2af3"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-053",
+      "kind": "official",
+      "title": "🎋【2026 端午節快樂】 粽葉層層包裹，守護每一份美味， UGUARD 層層防護，守護每一條連線。",
+      "url": "https://www.uguardnetworks.com/news/53",
+      "published_at": "2026-06-18T00:00:00Z",
+      "source_updated_at": "2026-07-16T06:45:43Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/7",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "9fbff97d242e4fed708b171dd128280adc82d4d34379d310569350998807ff15"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/7",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "0acca632eb2b7175a92d04932844f039d62b3b479f57e846771e782ad2c44a81"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/7",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "426a92a5543f88b2433023089cd081a6ac5d5244f7bc1bdf2b6e4c5b2d8861d2"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-052",
+      "kind": "official",
+      "title": "UGUARD NETWORKS 於COMPUTEX 2026展出",
+      "url": "https://www.uguardnetworks.com/news/52",
+      "published_at": "2026-05-25T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/8",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "1d108a967342186f8b4409d2ce009e6ceeb573388cec0f311c254811e97fbebb"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/8",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "4253c63ab09aab2367f6e328d9467e8db9ce5bc635330a3b8ec2bb2460a189cd"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/8",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "1d108a967342186f8b4409d2ce009e6ceeb573388cec0f311c254811e97fbebb"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-051",
+      "kind": "official",
+      "title": "🚀【UGUARD NETWORKS @ COMPUTEX 2026】從 WAN 到 AI 雲端，打造企業資安升級新標準！",
+      "url": "https://www.uguardnetworks.com/news/51",
+      "published_at": "2026-05-22T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/9",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "4c65b252fa77ceaa9fa03fbdebe3a5edb497e8535e730ffe8600cfedf6425ded"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/9",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "0f3cfbbf6cb53dfb2ce15a02b0e048b3246552fa6060a13a63be24fef22f18a0"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/9",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "fdc72ba9c6aa4c9592a0862418f704182b471e604075d91b8c3ce323504a546c"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-050",
+      "kind": "official",
+      "title": "🚀【UGUARD NETWORKS @ COMPUTEX 2026】從 WAN 到 AI 雲端，打造企業資安升級新標準！",
+      "url": "https://www.uguardnetworks.com/news/50",
+      "published_at": "2026-05-15T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/10",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "a174ba71437ea534fb39808915aeb824da8a7e1b7d9ba8a7e16a514c58af9f7b"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/10",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "9e818d5867c47b07c52e2c0b40d813f9569865582e9aa452fd91db895b318727"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/10",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "0e104f10445cacbd2615bfb6510b4981c157a976fecaa6f8d119113ef333aa5a"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-049",
+      "kind": "official",
+      "title": "UGUARD NETWORKS 與 艾訊 於COMPUTEX 2026展出，",
+      "url": "https://www.uguardnetworks.com/news/49",
+      "published_at": "2026-05-14T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/11",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "3e1240eed6d56cf4f81a69fc38ce3e9f580ea2eab7864e6db9e3959bd02aca9d"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/11",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "5f6fcf1bf64fb9cbb8174bbbcd1d0403b1741339f8245e2daeda46d632d58ab2"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/11",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "67fa37fa8d88d0d13ec7428824445f865a1456f48dee837b4c366c75993e6e05"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-048",
+      "kind": "official",
+      "title": "UGUARD NETWORKS 與 艾訊 於COMPUTEX 2026展出，從 WAN 到 AI 雲端的威脅情資整合，協助企業全面升級網路與安全能力!",
+      "url": "https://www.uguardnetworks.com/news/48",
+      "published_at": "2026-05-12T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/12",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "643a2967034f39a87d9751d782fc5592f870d6d21c8622de80096af0912b8509"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/12",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "602178aec84e2be7ab74e0fac9d70de82c428d59fb38a8b9407ac842fac49baf"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/12",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "f3af027d3fa7a2d6bec1eeeb962f11c7659b9052c9bfc4043a4b48860fcfc6be"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-047",
+      "kind": "official",
+      "title": "【UGUARD 攜手 艾訊 登場 COMPUTEX 2026】🚀從 WAN 到 AI 雲端，打造企業「主動式資安防禦」！",
+      "url": "https://www.uguardnetworks.com/news/47",
+      "published_at": "2026-05-11T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/13",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "7d160a3c8d66559e13b5f1d7edfa1474ab613e6ad324bff64e1438939537bdc7"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/13",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "1637e27bfd7b46673d3c29434e59b1f56288ee0855ceabf06d2085488734c683"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/13",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "7abbf7eda1643e6ac9b733e61080f949b9d8a6b9a4a934ec99eb8022e3b2e9dd"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-046",
+      "kind": "official",
+      "title": "DefenseCloud 訂閱查詢全球黑名單上線，從個人到企業的威脅防護",
+      "url": "https://www.uguardnetworks.com/news/46",
+      "published_at": "2026-04-29T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/14",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "2fa95e57eb81413233954be8bcc7f69f6deccab3c8ae7c8912e6bf1ab6381b03"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/14",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "4fee185d5eabab22f0c6e51bf5c01b4b9e47ef0d68aad9804960185721e297b5"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/14",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "9a79abdc574b60aa4aad065b27f5ca9d7ee4d0bf3d134c0211f3c4484cceaa94"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-045",
+      "kind": "official",
+      "title": "新加坡商UGUARD NETWORKS 攜手邁達特－打造企業全方位資安防線",
+      "url": "https://www.uguardnetworks.com/news/45",
+      "published_at": "2026-04-21T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/15",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "97959efcee0403d3b597814b996812866db0531b706efe5634743b7142d12d74"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/15",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "b20814420e21db78742003455f3ec18c2022d63fc9d03f7cea9f0f52f0f0b41d"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/15",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "57c0e98540b93aae1a9eef06c36d12a235eb22f7c04842bf3306fd2ef5b66603"
+        }
+      },
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/official-news-045.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "pilot-001",
+      "ingested_record_sha256": {
+        "zh-TW": "97959efcee0403d3b597814b996812866db0531b706efe5634743b7142d12d74",
+        "en": "b20814420e21db78742003455f3ec18c2022d63fc9d03f7cea9f0f52f0f0b41d",
+        "jp": "57c0e98540b93aae1a9eef06c36d12a235eb22f7c04842bf3306fd2ef5b66603"
+      }
+    },
+    {
+      "id": "official-news-044",
+      "kind": "official",
+      "title": "AI時代與Saas流量暴增，企業網路準備好了嗎？",
+      "url": "https://www.uguardnetworks.com/news/44",
+      "published_at": "2026-03-24T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/16",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "915b3c76644b2059daffd06f5f494a8576bd146d2fc2c7468f93520b0d6ec7aa"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/16",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "ecc26c6106e167dac4622784a9fd53981a87b422f3dc3d037969f332500fb435"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/16",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "4286b4a36671b2a3275f2f593a3bfb6d30acf52d6df941245393833debea741f"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-043",
+      "kind": "official",
+      "title": "「汰舊換新．升級方案」－首年免費送兩次原廠專業企業健檢",
+      "url": "https://www.uguardnetworks.com/news/43",
+      "published_at": "2026-03-19T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/17",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "6536e73239ffe765994284f719f02b05bacd776a256553a8af13f00d8fde9930"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/17",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "1f7313b2ab74b8b204f9c440f8054ea9100be7dcc368b250cee0be66eca5c296"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/17",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "6ecf7696da44ef9b24ac0625d758b139eca6978bb7c362053e7c76e8b54f4023"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-042",
+      "kind": "official",
+      "title": "「2026企業網路強化方案」－穩定連線、威脅情資、零時差防禦，一次到位！",
+      "url": "https://www.uguardnetworks.com/news/42",
+      "published_at": "2026-03-19T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/18",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "6b6160289efd65f5270941ec34dea0cee23284563893a8cc689f85835340583f"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/18",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "182d9b9fd16a0b2189918f2aaeed2ca825957c378d101930b5b89e72bded9434"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/18",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "d378b028c13eee9523dc8dcce8eff26e24f08618824513f999c9f0291170529f"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-041",
+      "kind": "official",
+      "title": "DefenseTrust提供企業全面威脅資料庫，有效攔截惡意網站的好幫手！",
+      "url": "https://www.uguardnetworks.com/news/41",
+      "published_at": "2026-02-26T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/19",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "774bb8a47e2bb285ce5fb564f61c9c3eab55ac775f15e54ca72710ba4c0fc754"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/19",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "2e438a26ceb0fd9cb976f5a5cabc3be2bc81ea054bc48a10280bfc2078cdab5d"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/19",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "090a1bf9666dcf24005eeea2aa5899ceffbf9f610c53772900125b4bcf131277"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-040",
+      "kind": "official",
+      "title": "🐴 2026 馬年奔馳 全面守護 🐴",
+      "url": "https://www.uguardnetworks.com/news/40",
+      "published_at": "2026-02-13T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/20",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "fb0aa617ad127950a2886ee0c52082d8d5074202c49ff2942f4ed1bd7e26121d"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/20",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "7b2b97b73c38f0e3d91a02c57f2d8012081801c1c507518b07d3d6e4abfb2f41"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/20",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "af0d2ca227c91856af0abcc56066a66004d033efa1e2ff8d1e26bf4ff95f4405"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-039",
+      "kind": "official",
+      "title": "AgileLink不只穩定連線，更是掌控WAN端企業網路的主控力!",
+      "url": "https://www.uguardnetworks.com/news/39",
+      "published_at": "2026-01-23T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/21",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "b85a1696f3ffb5af73376973353593a9f4f6328b09675ba3562893f9e5516b19"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/21",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "28cb60fbbfe5ca694871a1e6281bd442a35b8baf215e13a30bf0df01bd8ae6e8"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/21",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "55ff5cca5e37973fc9fbb3c497b300ca009822308ce24a576a1ef7f2b2d145a2"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-038",
+      "kind": "official",
+      "title": "Happy New Year 2026! 🎉",
+      "url": "https://www.uguardnetworks.com/news/38",
+      "published_at": "2025-12-31T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/22",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "2c56da81952f093c1c3a4479cc1d6b8df28111b0ddb08266dc0e3be61345f24f"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/22",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "ffcc79b8fca58f0464a9e4153515d3182c3285bf020abaadbe364674ca2385a8"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/22",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "d6721585fcdf0deeca6ab21903c04d2d23e39cf198e932e611d9e9600070326a"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-037",
+      "kind": "official",
+      "title": "UGUARD NETWORKS 與工業電腦領導品牌 艾訊（Axiomtek） 展開硬體合作夥伴關係",
+      "url": "https://www.uguardnetworks.com/news/37",
+      "published_at": "2025-12-31T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/23",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "48556d649d5141a09a61a4c47b7f02d6fc68b60ca6111200cb10aca873be77f7"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/23",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "3e6434ed15c22b5cf0b165babeef12e2c5a027636ee036ecd277853cc9eb0f5b"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/23",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "71d1e513edb765d25f9699c1efbfc3a579d984179e4287efe71442aa81ca1780"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-036",
+      "kind": "official",
+      "title": "🎄Merry Christmas from UGUARD NETWORKS 🎄",
+      "url": "https://www.uguardnetworks.com/news/36",
+      "published_at": "2025-12-24T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/24",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "d37a19e32cfecdc89915b00409a2f8e498d36f049ad21ea5f9b08da7dbc2ebec"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/24",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "597b1c2aafefd2ebea7f55ec7fde6fd3f6af690f2f0ff5fb6deb33d16494bb81"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/24",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "56ad97f5f047d78f1ad4467eb0de2dd777dd8815c43ee58d5e41534852ff2c5b"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-035",
+      "kind": "official",
+      "title": "Traffic Shaper因應雲端與 AI 時代的網路管理關鍵",
+      "url": "https://www.uguardnetworks.com/news/35",
+      "published_at": "2025-12-18T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/25",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "aa10cd58c8e17a1aad2b6d4a7751596c960c25e78e96103cf6db0c5ef9d3ac64"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/25",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "621c7e320d4febee268c5fc5cd162bd4c8f53fec37d9a4c0ddd83ffafd0ee0db"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/25",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "761235e2e12fcde8c34a80c55b1780e9c9db5883cf2a5b7473f3acf4dd8b580e"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-034",
+      "kind": "official",
+      "title": "新世代威脅管理-成為次世代防火牆的好幫手",
+      "url": "https://www.uguardnetworks.com/news/34",
+      "published_at": "2025-11-30T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/26",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "323d773da32c8a5956fccba440507bb183ea6d5ba990c139b216940a03c93f0a"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/26",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "566ff3d3547f0520ababcb905c28c901284c7fedc4211e6a305d6de4def69660"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/26",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "1f47c8438bacf6ffd127ba1598cc1729794377e823ebb435ec243a5c9818ab58"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-033",
+      "kind": "official",
+      "title": "【安全遠端新標準】WarpTunnel™ 讓企業連線零時差不中斷",
+      "url": "https://www.uguardnetworks.com/news/33",
+      "published_at": "2025-10-28T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/27",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "80223ec427521b933d91b36e36b20880ac54bdbf6f5dc24897e850c06c36ce3f"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/27",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "6764951d889f7cede3c36faa27c3e644f252afa6d50aa110edb46559790ec293"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/27",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "3337e035ee815e3c82b1bee4f885c3a043d9e993c616bfa0247cd6d734a1fe92"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-032",
+      "kind": "official",
+      "title": "UGUARD NETWORKS新加坡商總部成立1周年x完成STARLINK 低軌衛星開發－啟動台灣區老客戶免費企業健檢服務",
+      "url": "https://www.uguardnetworks.com/news/32",
+      "published_at": "2025-09-03T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/28",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "9a9426c72215f24bd4eb4a65c34e727e444837d77eb48178a7c38f898c81afc8"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/28",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "f6edc8ea17a3a9df859ba32a48b3f587db25f129e7214d9d97596543a13c360b"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/28",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "797361d72ce604590b1389d77ba57fc637f56bfad33474b0f7e3e95a37317976"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-031",
+      "kind": "official",
+      "title": "7月21日 AgileLink 升版公告",
+      "url": "https://www.uguardnetworks.com/news/31",
+      "published_at": "2025-07-21T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/29",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "8d99af61bc47e4e6753feeefd028c1ee271a9a9b9aece685a1c0067627b24acb"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/29",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "4503aa343d82f01ce309a9b1c999e111236ecc818d27b9a7977d33e4b7f0089f"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/29",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "d9f5e455a4f6c51784f37a7f1679d8b08a4c9dd554651dec326b1b2208e41acc"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-030",
+      "kind": "official",
+      "title": "UGUARD NETWORKS 攜手朔宇科技－擴展企業資安佈署，7月3日將舉辦聯合簽約暨產品更新發表會",
+      "url": "https://www.uguardnetworks.com/news/30",
+      "published_at": "2025-07-04T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/30",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "f42b7f11fe58c4993cf023dc150ef1e7063994575a7657c104d7f589a711f818"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/30",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "376a3b04af4776f12da6d85332a17fd215dbea88609c95e32d76a5a98c91e323"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/30",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "64b2891574902d0d6cfe6c8d37ba49d07377fc6797f6f697841af28f809c3258"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-029",
+      "kind": "official",
+      "title": "UGUARD NETWORKS 攜手朔宇科技－擴展企業資安佈署，7月3日將舉辦聯合簽約暨產品更新發表會",
+      "url": "https://www.uguardnetworks.com/news/29",
+      "published_at": "2025-06-26T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/31",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "d699ba07ef5706edee72789131988ad81b9f1bcaaee481c0b4b16a1f896c5dca"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/31",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "7eff8bbf004cffb84a26ddeffe1e2c667083a8fd7742986a44c7df96f6373de7"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/31",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "68dc4797e1ddfac1485afec9e9a1c396e31c3c055845eb61013a057ed7ee45fe"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-028",
+      "kind": "official",
+      "title": "2025 COMPUTEX - UGUARD NETWORKS 邀請您探索未來資安科技！",
+      "url": "https://www.uguardnetworks.com/news/28",
+      "published_at": "2025-05-18T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/32",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "0e51034de1bffc3ebdcb2aa7959ea3442b622cb8665fc29615b7992fddb9b892"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/32",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "45ced739c3f379c1965490b1930aff3f2915de10860280a285b96e811bfda2a9"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/32",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "8c45b46917f08e9d2d119b5901bab7e4e9a00937a5c95c3f5cab1754c1444a9b"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-027",
+      "kind": "official",
+      "title": "COMPUTEX 2025「問卷闖關 ✕ 轉轉樂 抽好禮開跑啦！」",
+      "url": "https://www.uguardnetworks.com/news/27",
+      "published_at": "2025-05-14T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/33",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "54ccee72b5aa3fde9de00fab4746e5a6a50d77e61855ade427c66d897f85eea5"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/33",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "6ea2faae63927e0989738f5f2ff4f643472e577a82dc5a332f50564bc7b9d5f6"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/33",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "2e9aa5b9d0ff5ba33b37706fe5bfe2b81d69b1ca96f9e6f58a21e658fd53398c"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-026",
+      "kind": "official",
+      "title": "COMPUTEX 2025「威脅情資 x AI邊緣運算」分享講座",
+      "url": "https://www.uguardnetworks.com/news/26",
+      "published_at": "2025-05-14T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/34",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "513ef01e3f30ef9d64f2330517bab0a2f31f1721619753a44e0fb3a4118f8d9d"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/34",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "822e9aabb2218c5b3ca128d84e88d32d92724c204883b8d510934447526ca305"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/34",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "0b594c07007fb1a6ee006d0cebca4fa3192aeb6d3c60e86c95900af16c4ca627"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-025",
+      "kind": "official",
+      "title": "UGUARD NETWORKS 與AAEON研揚科技 - COMPUTEX 2025「威脅情資 x AI邊緣運算」分享講座",
+      "url": "https://www.uguardnetworks.com/news/25",
+      "published_at": "2025-05-09T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/35",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "55c7cc4fb1bb448b2c51bf3318ed317b95ab790aad4c419aee5359a39d9a813d"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/35",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "1040f58459ea9f2760db9b7fbf7c20ff1a532942ac98c7633197581a1a3dd36d"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/35",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "8b0f313ae806d67f3b3631c332c231accd4848124e3e0d555c48ad774468b7ff"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-024",
+      "kind": "official",
+      "title": "UGUARD NETWORKS 與AAEON研揚科技-聯手亮相COMPUTEX 2025，展現DefenseTrust與FWS-7541整合資安應用",
+      "url": "https://www.uguardnetworks.com/news/24",
+      "published_at": "2025-05-07T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/36",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "563fe4d0912891f8a676d1be1f8324cea1e43ddf1cf38e60d6af2352a6da212a"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/36",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "e136f99e6cb318eac8fa31914563cb40a4199e453c3dd43d748027b1c8298168"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/36",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "28abd385a55906010f20ce628731d561d982de9fea3622adb187fe436638ac30"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-023",
+      "kind": "official",
+      "title": "UGUARD NETWORKS 強勢登場!",
+      "url": "https://www.uguardnetworks.com/news/23",
+      "published_at": "2025-05-07T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/37",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "e3bc748e8b540043c4256322d5dfe1dcfe0a2e069e01f1c730ea3ddae0ce71d8"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/37",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "ef172661a126ef3b796ff0a92a33e5c7a0b6ef9d03f1860d944b7df316034262"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/37",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "28a99c3cda8c626d7f04dc9bbb04f50bbdde34960cc3a4793959949fca111eee"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-022",
+      "kind": "official",
+      "title": "UGUARD NETWORKS 威脅情資防護解決方案-分享講座，每日第二場邀請全球策略夥伴 AAEON 技術分享登場!",
+      "url": "https://www.uguardnetworks.com/news/22",
+      "published_at": "2025-05-05T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/38",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "3f965424bba2316723a7372db125fdd44cb08c84b01178b87c6ca3d2f6400556"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/38",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "3e37d211458fc8b6e4497c67ce5a58487f64d9ee93d66ba9d57f864381a4e5ba"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/38",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "de54e43a702959ba38c13c0138a5000e85a21f771d289b1fb7354cffbfd09522"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-021",
+      "kind": "official",
+      "title": "UGUARD NETWORKS - 2025 COMPUTEX 即將登場",
+      "url": "https://www.uguardnetworks.com/news/21",
+      "published_at": "2025-04-24T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/39",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "35bf6c07422bdf518f1b78c8b2da6a80504f96c362a0ef4a1e817a175e6e16fe"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/39",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "81317ce7a9ed61e85bb35f2051f4ce58763e519b6938fb6bc65be02d14fadee0"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/39",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "466c8f7faeababd8c9804b933d9654ce50c766653df91d33aac439d3eebfaea9"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-020",
+      "kind": "official",
+      "title": "超越次世代防火牆（NGFW）與端點防護（EDR）的解決方案",
+      "url": "https://www.uguardnetworks.com/news/20",
+      "published_at": "2025-04-08T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/40",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "770b18e2c35ac1cb90809ea3b0a12dd9cc249c65f60ee346e8df97ef8d3064c3"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/40",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "5c55e21075701775e494bb6969c01286649ebb76df73a745c4f25655dbb49230"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/40",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "7d1776e3963f4930521eef321c14d5edab54b572cbe166dd114c7777ac2fc5e7"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-019",
+      "kind": "official",
+      "title": "UGUARD NETWORKS - 2025 COMPUTEX 即將登場",
+      "url": "https://www.uguardnetworks.com/news/19",
+      "published_at": "2025-03-28T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/41",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "68bd000ef0156cab9b44047c9cc04f741b05c62f9cd4fa283366d7237b23b5b9"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/41",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "49d29ee0518d0c215095a63dede6429a7c56ae179e8224954feb668f047e2a5e"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/41",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "88a5edd05268aae2c55fb5eddb739a1090e3dc60697a0db5e0b84fc02447614e"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-018",
+      "kind": "official",
+      "title": "UGUARD DefenseTrust 新世代威脅情資解決方案-讓您精準、快速地佈建企業級資安網絡環境",
+      "url": "https://www.uguardnetworks.com/news/18",
+      "published_at": "2025-03-18T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/42",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "e74748d5e853d8172fad4f41e7d1ffa5eb63f25c4bdf879d28410c6f03b069ca"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/42",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "d600de98b1645739dc5e871cc70bc068e749d5b06f3e67265333bc3d44475c23"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/42",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "258a499bb52dbebbc116341e75cb5e3a102789f5175d48a60c1ee27e71079741"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-017",
+      "kind": "official",
+      "title": "UGUARD DefenseTrust 新世代威脅情資解決方案-符合企業對ISO/IEC 27001:2022資訊安全管理制度11項新標準之期待",
+      "url": "https://www.uguardnetworks.com/news/17",
+      "published_at": "2025-03-08T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/43",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "d780a187921f2f57e26002e1abbf2a6be2123636bedc7b0d60a0be31539aed55"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/43",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "0a73aadf629e3bbf0eeb8f7a005eb4c1747b71f59233f8418107ffe12f230ffa"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/43",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "f3a2255b8ca5d74f0cda7a33a0dd4c7229a62fe2d65738f4aa0a0e2ecfd8a36e"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-016",
+      "kind": "official",
+      "title": "DefenseTrust針對ISO 27001:2022新標準，新增重點條款提醒！",
+      "url": "https://www.uguardnetworks.com/news/16",
+      "published_at": "2025-02-06T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/44",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "bef7648bfabf6325ddf9c7c7ee9c2183986264058ebb8f0e1e55c154b613c029"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/44",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "30e31e41ffaa46ebb5f03ce1679999ee78d52eebc80f738cc6cc4c18087b6226"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/44",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "dcb13dfe635e8d7ec001b78a34c3dc03149b194d84840d29e692b2b4d732f55b"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-015",
+      "kind": "official",
+      "title": "Happy New Year 2025!",
+      "url": "https://www.uguardnetworks.com/news/15",
+      "published_at": "2025-01-01T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/45",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "0a14cc54aee3758be9d56245a5f5069445bbe7125c8cb225a8c29aeeda2907f7"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/45",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "e4cf7effc74338c7d73de1c349e77429b010ac2aa9a4b925acd5760963017497"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/45",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "9cf3d7d1c3d6860e25780ebee7bc4fa700853e9f6474b33f25553efb258b0678"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-014",
+      "kind": "official",
+      "title": "Merry Christmas from UGUARD NETWORKS!",
+      "url": "https://www.uguardnetworks.com/news/14",
+      "published_at": "2024-12-25T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/46",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "e32783a6ce4514328f3c5f0d5a8dc1037d51839c2996a61f59afd4cd20a974ae"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/46",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "ae25cdb682fe391e25525ad5e94c575f4e23a3185f81dc5e1fd21db9f649ec41"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/46",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "7e6c4794f4c167083bbfebbfdbce2554cf0f60611521b4b8f68dfb6c009de626"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-013",
+      "kind": "official",
+      "title": "精準阻擋 & 全球情報快速更新",
+      "url": "https://www.uguardnetworks.com/news/13",
+      "published_at": "2024-11-28T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/47",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "6d3a7977dab6f72cdfcf7bdd80b011493b147a464b98db6e441920824063627f"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/47",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "9ca4784641bc4a251949e06eb627633ef71024c7e805313b0313bf82724c3751"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/47",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "235b7a9532aa73df23b74bd5bd5607a3815775d05777eeec78ad598d549d45c1"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-012",
+      "kind": "official",
+      "title": "全球IP分析與識別，大規模阻擋已知的惡意IP",
+      "url": "https://www.uguardnetworks.com/news/12",
+      "published_at": "2024-10-31T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/48",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "59ff4faf1e3632ef5ebd76247855c9d2c866c5aa47addbee8c549cf7a687abfc"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/48",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "479935e589f50cdb7bbde7c9e22b2054a218316b1fc3f5c1281ee5b71d34e23d"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/48",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "c9eb4d68f8b28ed4934d0bb36814dcc116a9f935cfda4af68fd760b2f620136c"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-011",
+      "kind": "official",
+      "title": "新加坡商UGUARD NETWORKS 與AAEON研揚科技成為全球策略夥伴，共同推動網路解決方案",
+      "url": "https://www.uguardnetworks.com/news/11",
+      "published_at": "2024-10-28T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/49",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "ea482f17dabebf9daad236741f665c0098963193cacd8f2cae9eb84ad99eb79b"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/49",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "e1f483a86eb0c844c4301ad0a959b1b9c6dc6c54b8956b8f3d6a2edc4de7cebf"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/49",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "3c72703cfbbf9c1c007d6b8aaea9c4cce3638d6ddbf4c54a2606be7ddcc46c85"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-010",
+      "kind": "official",
+      "title": "🌕 **中秋月圓，防禦不缺！**🌕",
+      "url": "https://www.uguardnetworks.com/news/10",
+      "published_at": "2024-09-16T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/50",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "1c6441f3fcb1ed831cb6c945df366cd192457f6be94e23f10cbb2165923808eb"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/50",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "7154d1fd555440174ae6c5bc97039f40bfd2dfc643d5662ce5b49f0666fff259"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/50",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "7c930c4eca472a7cec59b938c912a9632f2c48a510a527ab8d6674d5bfcb5332"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-009",
+      "kind": "official",
+      "title": "📌【拓展全球市場 – 與越南IT解決方案公司 Innotel 簽署品牌代理】",
+      "url": "https://www.uguardnetworks.com/news/9",
+      "published_at": "2024-08-31T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/51",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "edb21a1c7adbc8b9e6656849a918efc8f3a905e48cf80e7ff1bd9c0700872299"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/51",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "7186784fb91b0e6e2cd0a6bf7c8c063307486501938432ebfc4dc217dec4079a"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/51",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "f949b971fdfbf795e333b4a7cea228daf465cd6177c08dd1e062cf32703c0b9c"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-008",
+      "kind": "official",
+      "title": "Traffic Shaper 產品簡單化部屬模式",
+      "url": "https://www.uguardnetworks.com/news/8",
+      "published_at": "2024-08-07T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/52",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "5e68d2f2c172aeb18c6c2804200075eb7e250c5147acb0e7eb80f29817be2bd4"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/52",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "093f88c3982cc9e03e470ed9e6e3daa6e361cfcd370c4c048f6c51d34a55ea16"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/52",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "1f999cf9367ee6acbe539bd6fa942a4de00c5e8ac2dd30caee64b1de93cffa30"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-007",
+      "kind": "official",
+      "title": "全球流量協作 Global Traffic Collaboration (GTC)",
+      "url": "https://www.uguardnetworks.com/news/7",
+      "published_at": "2024-07-30T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/53",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "ea7e7b3caa2954e478a1d241235d857d922bfd1dde4573a0cd646c72979a59b1"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/53",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "19724b271bc04d1a5617a77b314c088f3c227fc405380fa62642ba089fb63f0d"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/53",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "be51436cf65129907e81b43f8a95ce29c7b9e5bce20b4674a6e0975ffa1c985b"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-006",
+      "kind": "official",
+      "title": "DefenseTrust 新世代威脅管理",
+      "url": "https://www.uguardnetworks.com/news/6",
+      "published_at": "2024-07-18T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/54",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "acb04e5b3cb018003b7bd9e3abcf41c0d7ff4e71c5622f1faafba3f4debf5f9a"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/54",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "007508949f4ba5c96570cca3f6d87fc239b39b44af9ea53f5a682b8610161654"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/54",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "845e6201c88723dcb9b9ae9ebc08a07171a1b55e2e3b8c734cbeaf46575c2c9f"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-005",
+      "kind": "official",
+      "title": "2024 端午節快樂",
+      "url": "https://www.uguardnetworks.com/news/5",
+      "published_at": "2024-06-12T00:00:00Z",
+      "source_updated_at": "2026-09-15T09:58:32Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/55",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "765b160daedec440d3f4bbd14c744f946e5cc7e0039de2702409d0801730cab0"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/55",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "03c390aef1d6965b5e0f1a93345ea8f18d0cbdb7aa974f859581ecfe510bf158"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/55",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "25de7abec1b099839ce216076e3547f84f8fbe48835f25f60509f5cb2dc691fa"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-004",
+      "kind": "official",
+      "title": "資安展 UGUARD 【闖關任務玩拉霸】",
+      "url": "https://www.uguardnetworks.com/news/4",
+      "published_at": "2024-05-10T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/56",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "436fdaca2d70f133a06eaec059ebf7cf6cd783f5ce8c45ef8f6bf59b4852a4cb"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/56",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "514c604926ccdc7e49cf770e8147f2e9317a1c7237e57e590449a88df7540908"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/56",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "3e9f90a06dd5c37c81e8729a6cf236fb9252e817e25f87fbae1d216c775aba16"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-003",
+      "kind": "official",
+      "title": "UGUARD NETWORKS 成立新加坡總公司",
+      "url": "https://www.uguardnetworks.com/news/3",
+      "published_at": "2024-03-15T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/57",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "5cf9554a28a3afc5349657b3dd6b45eae1c7469247f9020f04cb3ce3f405b968"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/57",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "f970ab33da4cb638ee70f6aa600c526f51bda9dfe25a1981c7c466f1361c753a"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/57",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "6c89a2cbfb4bff6d1cf1a00a349d64badb6886ec25ee001dd4dc149ae63873ea"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-002",
+      "kind": "official",
+      "title": "UGUARD 2024資安大會，歡迎蒞臨 C119攤位",
+      "url": "https://www.uguardnetworks.com/news/2",
+      "published_at": "2024-03-08T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/58",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "82b30feaa9d9a8a27682e7c67841731d33c41022a89d7fa7d0e76b5266318279"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/58",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "b8b3d5ffffa8bc91eb1e4eb1ccb10d1fd037bd1ab2561aeb0c32ead35e3c6ab4"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/58",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "e7bf61875cb1c96e7c2766c20593a9a5a9cc066dd41381d82e65b1f6a62c38c5"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "official-news-001",
+      "kind": "official",
+      "title": "不必擔心沒有FortiWAN，交給我們一次搞定!!",
+      "url": "https://www.uguardnetworks.com/news/1",
+      "published_at": "2024-02-21T00:00:00Z",
+      "source_updated_at": "2026-05-25T14:45:44Z",
+      "completeness": "full_text_images_not_read",
+      "provenance": "publisher_api",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-zh-TW.json",
+          "pointer": "/data/59",
+          "file_sha256": "395efe239ce1b49e3c7661cace96b967e8a786b92922cf7d58389998759bc943",
+          "record_sha256": "0df3e358fc7bb63958138dbea1ec3f5627a02e65bbc5eb4a866d9a5db9d9530e"
+        },
+        "en": {
+          "path": "raw/official/api/news-en.json",
+          "pointer": "/data/59",
+          "file_sha256": "f7ff84e6aac2051d56a24f77d0da63047dab4b8a5e64f24db14501cd9946571d",
+          "record_sha256": "96148af2a7e29034aadabc077fb6b457ac26663f5de907a29964c44f43af70da"
+        },
+        "jp": {
+          "path": "raw/official/api/news-jp.json",
+          "pointer": "/data/59",
+          "file_sha256": "768d0ac82169884d9aee828b6ced17fc0a0ece8a44a65e9fa6425b5674b5a447",
+          "record_sha256": "f1ab03eb0d0bf88aaf6e67729be69429fb19a4b7fcac9d0446cbd026cbac4d42"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "facebook-pfbid0AMmGpcRMbRVaJt5HDHR6Ap49giTEcmR8sXYGvPregZ75e8PrgB4LLGuPNoL3Ap1Vl",
+      "kind": "facebook",
+      "title": "【🔐 威脅情資持續更新，你的防禦跟得上嗎？ 】",
+      "url": "https://www.facebook.com/uguard888/posts/pfbid0AMmGpcRMbRVaJt5HDHR6Ap49giTEcmR8sXYGvPregZ75e8PrgB4LLGuPNoL3Ap1Vl",
+      "published_at": null,
+      "source_updated_at": null,
+      "completeness": "visible_post_text_images_not_read",
+      "provenance": "browser_transcription",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/facebook/latest_post.json",
+          "pointer": "",
+          "file_sha256": "4f4bde33334bc1b4dc01492c4a0558f493833c088a376cade9545a82c0755477",
+          "record_sha256": "4a60c0c5da7c1bf805068a1ccf862b2d95a1eb60d3d928acf34cf28577200ec2"
+        }
+      },
+      "ingest_status": "ingested",
+      "source_page": "wiki/sources/facebook-threat-intelligence-update.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "pilot-001",
+      "ingested_record_sha256": {
+        "zh-TW": "4a60c0c5da7c1bf805068a1ccf862b2d95a1eb60d3d928acf34cf28577200ec2"
+      }
+    },
+    {
+      "id": "external-93018eaab6d5",
+      "kind": "external",
+      "title": "企業網路不能斷線，網路備援不能只是「有第二條線」!",
+      "url": "https://www.ctimes.com.tw/2609141105NZ.shtml",
+      "published_at": null,
+      "listed_date": "2026-10-06",
+      "source_updated_at": null,
+      "completeness": "curated_reference_only",
+      "provenance": "official_curated_reference",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-links.json",
+          "pointer": "/data/0",
+          "file_sha256": "565e9ca42b64884ccff56c449e4bc4af5b4ff4d10d42779490069a424c4b38e9",
+          "record_sha256": "5ab6eb3715c7616df8ce856b1a8f9d66308d1d53fe5b44925ccbf6694ce05952"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "external-285134be29ce",
+      "kind": "external",
+      "title": "艾訊將於 COMPUTEX 2026 展出全方位網路與邊緣資安平台，攜手 UGUARD NETWORKS 打造企業級整合解決方案",
+      "url": "https://www.axiomtek.com.tw/Default.aspx?MenuId=News&FunctionId=NewsView&ItemId=16863",
+      "published_at": null,
+      "listed_date": "2026-10-06",
+      "source_updated_at": null,
+      "completeness": "curated_reference_only",
+      "provenance": "official_curated_reference",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-links.json",
+          "pointer": "/data/1",
+          "file_sha256": "565e9ca42b64884ccff56c449e4bc4af5b4ff4d10d42779490069a424c4b38e9",
+          "record_sha256": "e96ffb09f833fdeb3a1094400d78587437d102aea2e2f3b56075c4a66b077185"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "external-b7bcc1e07edf",
+      "kind": "external",
+      "title": "UGUARD NETWORKS 發表 DefenseCloud 與 Defense Trust 整合方案 強化企業主動式資安防禦",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13147",
+      "published_at": null,
+      "listed_date": "2026-08-06",
+      "source_updated_at": null,
+      "completeness": "curated_reference_only",
+      "provenance": "official_curated_reference",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-links.json",
+          "pointer": "/data/2",
+          "file_sha256": "565e9ca42b64884ccff56c449e4bc4af5b4ff4d10d42779490069a424c4b38e9",
+          "record_sha256": "644bb0d5b0926155782549fc911e97144036860764c2e3fdc68408b1df8cc320"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "external-37c35327340f",
+      "kind": "external",
+      "title": "DefenseCloud 訂閱查詢全球黑名單上線，從個人到企業的威脅防護",
+      "url": "https://www.ithome.com.tw/pr/175563",
+      "published_at": null,
+      "listed_date": "2026-05-06",
+      "source_updated_at": null,
+      "completeness": "curated_reference_only",
+      "provenance": "official_curated_reference",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-links.json",
+          "pointer": "/data/3",
+          "file_sha256": "565e9ca42b64884ccff56c449e4bc4af5b4ff4d10d42779490069a424c4b38e9",
+          "record_sha256": "d1ce4ee661eb56420cfebd41d2f23b2c615fb9a26706579615b849b2184559f9"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "external-52cb8621fccb",
+      "kind": "external",
+      "title": "新加坡商UGUARD NETWORKS 攜手邁達特－打造企業全方位資安防線",
+      "url": "https://www.ithome.com.tw/pr/174726",
+      "published_at": null,
+      "listed_date": "2026-03-31",
+      "source_updated_at": null,
+      "completeness": "curated_reference_only",
+      "provenance": "official_curated_reference",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-links.json",
+          "pointer": "/data/4",
+          "file_sha256": "565e9ca42b64884ccff56c449e4bc4af5b4ff4d10d42779490069a424c4b38e9",
+          "record_sha256": "85aaffa035cdd1679006ee495b85bb62590012df0941fff8fc79ab340a29d3bb"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "external-cio-109792",
+      "kind": "external",
+      "title": "邁達特代理 UGUARD NETWORKS，威脅情資 × AI 網路分析 × WAN 網路管理，構築企業主動防禦屏障",
+      "url": "https://www.cio.com.tw/109792/",
+      "published_at": "2026-03-31",
+      "listed_date": null,
+      "source_updated_at": null,
+      "completeness": "generated_summary_only",
+      "provenance": "prior_agent_summary",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/external/requested_sources.json",
+          "pointer": "/1",
+          "file_sha256": "fe785ba50a3258e44afb70c69c41f89f905442cbdec6f9aa2a4921ef083f92d8",
+          "record_sha256": "fdd9858617bd9f8b030500f96e773c42b6cdcbc89a3e96e0876741c025ad41b7"
+        }
+      },
+      "ingest_status": "reference_only",
+      "source_page": "wiki/sources/external-cio-109792.md",
+      "ingested_at": "2026-11-01",
+      "ingest_run": "pilot-001",
+      "ingested_record_sha256": {
+        "zh-TW": "fdd9858617bd9f8b030500f96e773c42b6cdcbc89a3e96e0876741c025ad41b7"
+      }
+    },
+    {
+      "id": "external-339127206f46",
+      "kind": "external",
+      "title": "新加坡商UGUARD NETWORKS 攜手邁達特－打造企業全方位資安防線",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=12788",
+      "published_at": null,
+      "listed_date": "2026-03-27",
+      "source_updated_at": null,
+      "completeness": "curated_reference_only",
+      "provenance": "official_curated_reference",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-links.json",
+          "pointer": "/data/6",
+          "file_sha256": "565e9ca42b64884ccff56c449e4bc4af5b4ff4d10d42779490069a424c4b38e9",
+          "record_sha256": "6495eb4bb949729ff92769e23323460c42d5e81c748b350aaf3c3ee843ae6f62"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "external-fb73abcbfef6",
+      "kind": "external",
+      "title": "邁達特代理 UGUARD NETWORKS，威脅情資 × AI 網路分析 × WAN 網路管理，構築企業主動防禦屏障",
+      "url": "https://www.ithome.com.tw/pr/174662",
+      "published_at": null,
+      "listed_date": "2026-03-26",
+      "source_updated_at": null,
+      "completeness": "curated_reference_only",
+      "provenance": "official_curated_reference",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-links.json",
+          "pointer": "/data/7",
+          "file_sha256": "565e9ca42b64884ccff56c449e4bc4af5b4ff4d10d42779490069a424c4b38e9",
+          "record_sha256": "7da1ea269399d7013e395d321c9e34513da25634103e5335088d8f8d766fb807"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "external-a101bb7881fe",
+      "kind": "external",
+      "title": "AgileLink不只穩定連線，更是掌控WAN端企業網路的主控力!",
+      "url": "https://www.ithome.com.tw/pr/173606",
+      "published_at": null,
+      "listed_date": "2026-01-28",
+      "source_updated_at": null,
+      "completeness": "curated_reference_only",
+      "provenance": "official_curated_reference",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-links.json",
+          "pointer": "/data/8",
+          "file_sha256": "565e9ca42b64884ccff56c449e4bc4af5b4ff4d10d42779490069a424c4b38e9",
+          "record_sha256": "f87003937a0dae566771c434ffdbe95c3814951ec5c344d220deb824eea340e2"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "external-b8eefd2576c2",
+      "kind": "external",
+      "title": "朔宇科技與UGUARD NETWORKS正式簽署代理合作，共推資安解決方案，打造企業零時差安全防護 | CIO Taiwan",
+      "url": "https://www.cio.com.tw/94644/",
+      "published_at": null,
+      "listed_date": "2025-07-17",
+      "source_updated_at": null,
+      "completeness": "curated_reference_only",
+      "provenance": "official_curated_reference",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-links.json",
+          "pointer": "/data/9",
+          "file_sha256": "565e9ca42b64884ccff56c449e4bc4af5b4ff4d10d42779490069a424c4b38e9",
+          "record_sha256": "4cdebe3c324817ca27dbec98dd92ee34034aea8000be438e18877a1d80aaad75"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "external-8ba4960a7e70",
+      "kind": "external",
+      "title": "超越次世代防火牆（NGFW）與端點防護（EDR）的解決方案",
+      "url": "https://www.ithome.com.tw/pr/168326",
+      "published_at": null,
+      "listed_date": "2025-04-10",
+      "source_updated_at": null,
+      "completeness": "curated_reference_only",
+      "provenance": "official_curated_reference",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-links.json",
+          "pointer": "/data/10",
+          "file_sha256": "565e9ca42b64884ccff56c449e4bc4af5b4ff4d10d42779490069a424c4b38e9",
+          "record_sha256": "08713310598f182eb0ac25de6614de85a8b932a874c3ac57dccaa7c0b17bdcdd"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "external-a6b65c2e9d77",
+      "kind": "external",
+      "title": "UGUARD Defense Trust新世代威脅情資從源頭即時偵測、阻斷資安攻擊",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=11798",
+      "published_at": null,
+      "listed_date": "2025-04-09",
+      "source_updated_at": null,
+      "completeness": "curated_reference_only",
+      "provenance": "official_curated_reference",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-links.json",
+          "pointer": "/data/11",
+          "file_sha256": "565e9ca42b64884ccff56c449e4bc4af5b4ff4d10d42779490069a424c4b38e9",
+          "record_sha256": "6024d7f1c5c2b77286aa781d7fb8537fd8392f2f055ddd90adc74c0c2a3d8091"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "external-c8131160ce99",
+      "kind": "external",
+      "title": "UGUARD Defense Trust 新世代威脅情資解決方案",
+      "url": "https://www.ithome.com.tw/pr/167952",
+      "published_at": null,
+      "listed_date": "2025-03-21",
+      "source_updated_at": null,
+      "completeness": "curated_reference_only",
+      "provenance": "official_curated_reference",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-links.json",
+          "pointer": "/data/12",
+          "file_sha256": "565e9ca42b64884ccff56c449e4bc4af5b4ff4d10d42779490069a424c4b38e9",
+          "record_sha256": "2f3583229ac0d90d6445674ac7fb1da8b05573092f27ea6b803286b2a8ef48e1"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "external-5a6da7c9528e",
+      "kind": "external",
+      "title": "UGUARD Defense Trust 符合ISO/IEC 27001:2022資訊安全管理制度11項新標準",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=11713",
+      "published_at": null,
+      "listed_date": "2025-03-07",
+      "source_updated_at": null,
+      "completeness": "curated_reference_only",
+      "provenance": "official_curated_reference",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/official/api/news-links.json",
+          "pointer": "/data/13",
+          "file_sha256": "565e9ca42b64884ccff56c449e4bc4af5b4ff4d10d42779490069a424c4b38e9",
+          "record_sha256": "051c6b5b35ce3efe4b788c14f9b6295e40733b5f7ab3f9f3740abcf24681db1d"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    },
+    {
+      "id": "external-679fec63ebbe",
+      "kind": "external",
+      "title": "艾訊攜手UGUARD NETWORKS打造新世代企業網路管理解決方案",
+      "url": "https://www.ithome.com.tw/pr/178631",
+      "published_at": "2026-09-04",
+      "listed_date": null,
+      "source_updated_at": null,
+      "completeness": "generated_summary_only",
+      "provenance": "prior_agent_summary",
+      "variants": {
+        "zh-TW": {
+          "path": "raw/external/requested_sources.json",
+          "pointer": "/0",
+          "file_sha256": "fe785ba50a3258e44afb70c69c41f89f905442cbdec6f9aa2a4921ef083f92d8",
+          "record_sha256": "a918c3aab20bed176631b0a9b6ffb1935b2e166d97262911df6315b5fd00a4a2"
+        }
+      },
+      "ingest_status": "pending",
+      "source_page": null
+    }
+  ]
+}

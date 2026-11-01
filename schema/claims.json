@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.0.0",
+  "claims": [
+    {
+      "id": "claim-agilelink-multiwan",
+      "statement": "官網 news/56 描述 AgileLink 多 WAN、PBR 及專線／寬頻／4G/5G／STARLINK 整合；現行型號與版本未核准。",
+      "status": "source_reported",
+      "sources": [
+        "official-news-056"
+      ],
+      "locator": "content：功能條列與 PBR 段",
+      "page_id": "entity-agilelink",
+      "as_of": "2026-08-24",
+      "valid_until": null
+    },
+    {
+      "id": "claim-defensetrust-policy",
+      "statement": "FB 貼文描述 IP/Domain 情資比對、依策略阻擋與日誌；非本次功能驗證。",
+      "status": "source_reported",
+      "sources": [
+        "facebook-pfbid0AMmGpcRMbRVaJt5HDHR6Ap49giTEcmR8sXYGvPregZ75e8PrgB4LLGuPNoL3Ap1Vl"
+      ],
+      "locator": "content_text：產品說明及四項條列",
+      "page_id": "entity-defensetrust",
+      "as_of": "2026-11-01",
+      "valid_until": null
+    },
+    {
+      "id": "claim-metaage-announcement",
+      "statement": "news/45 內文標示 2026-03-26 並宣布代理合作；不視為已驗證實際簽約日或現行合約。",
+      "status": "historical_only",
+      "sources": [
+        "official-news-045"
+      ],
+      "locator": "content：開頭新聞稿日期與合作說明",
+      "page_id": "event-metaage-partnership",
+      "as_of": "2026-03-26",
+      "valid_until": null
+    },
+    {
+      "id": "claim-wan-promotion",
+      "statement": "原訂 WAN 架構強化優惠已過 2026-10-31 截止日，尚無延長依據。",
+      "status": "expired",
+      "sources": [
+        "official-news-045"
+      ],
+      "locator": "content：WAN 架構強化專案",
+      "page_id": "event-metaage-partnership",
+      "as_of": "2026-11-01",
+      "valid_until": "2026-10-31"
+    },
+    {
+      "id": "claim-defense-promotion",
+      "statement": "原訂主動防禦優惠已過 2026-10-31 截止日，且三語條款有差異。",
+      "status": "expired",
+      "sources": [
+        "official-news-045"
+      ],
+      "locator": "content：主動防禦強化專案／英日對應段",
+      "page_id": "event-metaage-partnership",
+      "as_of": "2026-11-01",
+      "valid_until": "2026-10-31"
+    },
+    {
+      "id": "claim-tradein-promotion",
+      "statement": "汰舊換新原訂至 2027-12-25；截至日未到不代表目前條件已核准。",
+      "status": "needs_review",
+      "sources": [
+        "official-news-045"
+      ],
+      "locator": "content：UGUARD 汰舊換新升級禮遇",
+      "page_id": "event-metaage-partnership",
+      "as_of": "2026-11-01",
+      "valid_until": "2027-12-25"
+    },
+    {
+      "id": "claim-remediation-snapshot",
+      "statement": "news/60 的 2026-10-30 表列 AgileLink 已發修補版、DefenseTrust 發版驗證中、TrafficShaper 修復中；目前狀態未知。",
+      "status": "historical_only",
+      "sources": [
+        "official-news-060"
+      ],
+      "locator": "content：受影響產品與最新修補進度表",
+      "page_id": "official-news-060",
+      "as_of": "2026-10-30",
+      "valid_until": null
+    },
+    {
+      "id": "claim-absolute-guarantees",
+      "statement": "原文不中斷／零時差宣傳措辭，不能推導未提供測試條件的 SLA 或全威脅保證。",
+      "status": "needs_review",
+      "sources": [
+        "official-news-045",
+        "official-news-056"
+      ],
+      "locator": "content：產品效益與企業升級專案",
+      "page_id": "issue-time-sensitive-claims",
+      "as_of": "2026-11-01",
+      "valid_until": null
+    },
+    {
+      "id": "claim-fb-cta",
+      "statement": "DefenseTrust CTA 的 URL 路徑指向 trafficshaper；實際重導未驗證，正確目標待確認。",
+      "status": "needs_review",
+      "sources": [
+        "facebook-pfbid0AMmGpcRMbRVaJt5HDHR6Ap49giTEcmR8sXYGvPregZ75e8PrgB4LLGuPNoL3Ap1Vl"
+      ],
+      "locator": "content_text：了解更多 DefenseTrust 之後的連結",
+      "page_id": "issue-facebook-cta",
+      "as_of": "2026-11-01",
+      "valid_until": null
+    },
+    {
+      "id": "claim-brand-structure",
+      "statement": "試行完整文字樣本可歸納痛點→機制→效益→CTA，屬觀察而非已核准品牌規範。",
+      "status": "inferred",
+      "sources": [
+        "official-news-056",
+        "facebook-pfbid0AMmGpcRMbRVaJt5HDHR6Ap49giTEcmR8sXYGvPregZ75e8PrgB4LLGuPNoL3Ap1Vl"
+      ],
+      "locator": "文章開頭、功能條列與 CTA",
+      "page_id": "writing-brand-observations",
+      "as_of": "2026-11-01",
+      "valid_until": null
+    }
+  ]
+}

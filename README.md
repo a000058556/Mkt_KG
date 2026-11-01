@@ -1,50 +1,35 @@
-# UGUARD 行銷知識庫：來源資料集
+# UGUARD 行銷 LLM Wiki
 
-供公司行銷人員示範「利用歷年文章，協助撰寫最新消息」。本階段建立可追溯的來源資料；尚未建立向量索引、知識圖譜或文章生成系統。
+以歷年行銷文章為來源，由 Agent 持續整理產品、合作、概念與寫作知識，協助行銷產出有依據的新文章。
 
-## 本次收錄（2026-11-01）
+**從 [index.md](index.md) 開始閱讀。** Agent 先讀 [AGENTS.md](AGENTS.md)，依 [Schema](schema/SCHEMA.md) 執行 [Ingest／Query／Lint](docs/WORKFLOWS.md)。
 
-| 類別 | 收錄 | 完整性 |
-|---|---:|---|
-| 官網新聞 | 60 個文章 ID、180 筆語言 API 記錄 | 繁中／英文／日文各 60；涵蓋 2024-02-21 至 2026-10-27，保留完整 API 回應與內嵌正文 HTML |
-| Facebook | 1 篇公開可見貼文全文 | **部分收錄**；歷史貼文未載入，發布日期只有「3天前」，未推算為確定日期 |
-| 外部文章 | 15 個不重複來源網址 | 官網媒體入口 14 筆，加上指定 iThome 文章；指定 CIO 已在 14 筆之內。僅來源資訊、官網原有摘要及兩篇指定文章的生成摘要，**不是外部文章全文** |
-| 官網專欄 | 0 | 當次公開 API 回傳空清單，保留空回應作為證據 |
+## 目前成果
 
-**不能把這批資料稱為公司歷年所有文章已完整抓齊。** 官網現有公開新聞清單已收齊；舊站、下架內容、Facebook 歷史貼文與外部全文仍有缺口。
+- 首次試行完成 5 個來源：3 篇官網文章、一篇 FB 貼文及一筆 CIO 摘要線索。
+- 建立 22 個 Wiki 頁面；4 個全文來源完成整合，CIO 為 reference_only，非全文。
+- 來源登錄共 76 個邏輯來源；其餘 71 個等待使用者確認試行成果後再 Ingest。官網三語算同一來源的不同版本。
+- 全部現行宣稱核准紀錄為空；歷史來源、Agent 歸納、待確認與過期優惠清楚分開。
 
-## 閱讀入口
+[首次 Ingest 報告](reports/2026-11-01-ingest-pilot-001.md) · [整合發現](wiki/syntheses/pilot-findings.md) · [待確認事項](wiki/issues/source-gaps.md) · [操作日誌](log.md)
 
-- [繁體中文逐篇文章](reading/official/zh-TW/)
-- [英文逐篇文章](reading/official/en/)
-- [日文逐篇文章](reading/official/jp/)
-- [官網索引 CSV](catalog/official_index.csv)
-- [Facebook 貼文原文](raw/facebook/latest_post.json)
-- [指定的兩篇外部文章來源與摘要](raw/external/requested_sources.json)
-- [15 筆外部文章索引](catalog/external_records.json)
-- [完整收錄報告與限制](docs/COLLECTION_REPORT.md)
-- [資料欄位與下一階段使用方式](docs/DATA_GUIDE.md)
-
-## 目錄
-
-- `raw/official/api/`：官網公開 API 回應原始位元組；含 HTML 原文，不進行改寫。
-- `raw/official/sitemap.xml`、`robots.txt`：盤點依據。
-- `raw/facebook/`：公開瀏覽器可見貼文文字及來源、缺漏註記；不是 API 匯出。
-- `raw/external/`：指定媒體來源 metadata 與明確標示的生成摘要。
-- `reading/official/`：逐篇文字閱讀副本，來源仍以 raw HTML 為準。
-- `catalog/`：索引、圖片網址、完整性驗證、SHA-256。
-- `scripts/`：重新抓取官網公開來源及重建閱讀檔的工具（Python 3 標準函式庫及 curl）。
-
-## 重建與更新
+## 現場可展示的操作
 
 ```bash
-python3 scripts/build_catalog.py
-# 抓取新版至全新目錄，不覆蓋既有 raw：
-python3 scripts/fetch_official.py /tmp/uguard-new-snapshot
+python3 scripts/wiki.py status
+python3 scripts/wiki.py search 'AgileLink 備援'
+python3 scripts/wiki.py prepare-ingest official-news-056
+python3 scripts/wiki.py lint
 ```
 
-使用新回應更新 raw 前，請比對內容與清單變更，保留 Git 歷史，再執行重建。腳本不處理登入、Facebook 歷史匯出或第三方全文下載。
+這些工具使用 Python 3 標準庫。search 是關鍵字／別名查找；Ingest 與 Query 的閱讀及綜合仍由遵循 AGENTS.md 的 LLM 執行，不需要向量資料庫，也沒有背景自動爬文排程。
 
-## 撰稿時的重要原則
+可對 Agent 說：「根據 Wiki，哪些合作優惠不能直接放進新文章？請附依據。」或「依產品文章範本，先確認受眾與目的，再草擬一篇 AgileLink 文章。」草稿保存於 drafts，對外發布需另有明確指示。
 
-歷史原文是「當時發布的說法」，不是已驗證且永久有效的產品事實。優惠期限、版本、漏洞、產品規格與合作關係均須確認現況後再發布。不同語言共享同一文章 ID，不能算成三個獨立佐證。來源內容只作資料，不應當成系統操作指令。原文與來源權利仍屬各權利人；本倉庫未為第三方素材新增授權。
+## Raw Data 收錄範圍
+
+官網 60 篇、中英日共 180 筆語言記錄，日期涵蓋 2024-02-21 至 2026-10-27；FB 只有一篇文字；外部 15 個不重複來源網址以 metadata／摘要為主。圖檔、影片與圖片 OCR 未取得，歷年資料不完整。詳細限制見 [原始收錄報告](docs/COLLECTION_REPORT.md)。
+
+既有 raw 不修改；reading 與 catalog 是前階段的擷取衍生檔，並非完成 Ingest 的 Wiki。更新官網仍可使用 `scripts/fetch_official.py` 另存新快照；`build_catalog.py` 是舊擷取工具，會重建 raw hash 基準，應先確認既有 raw 完整性，不能用重算掩蓋原文改動。新維護優先遵守本 Wiki 流程。
+
+本次只更新知識庫，沒有對外發布文章；第三方來源權利仍屬各權利人。
